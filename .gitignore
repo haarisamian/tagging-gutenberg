@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Environment & build
+venv/
+.env/
+*.egg-info/
+
+# OS & editor files
+.DS_Store
+*.swp
+
+# Large data not meant for versioning
+data/manual/
+data/text/
+data/metadata.csv
+
+# Credentials or temp outputs
+*.log
+*.tmp

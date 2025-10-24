@@ -6,4 +6,7 @@ Includes datasets, model outputs, and analysis plots for evaluation and visualiz
 
 To reproduce results, install dependencies via `requirements.txt` and run `llm_tagging.py` or open the notebooks.
 
-To run any of the LLM pipelines such as in llm_tagging.py, first set your OpenAI API key privately as an environment variable using `export OPENAI_API_KEY="your_key_here"`
+To run any of the LLM pipelines such as in llm_tagging.py, first set your OpenAI API key privately as an environment variable using 
+```bash 
+export OPENAI_API_KEY="your_key_here"
+```

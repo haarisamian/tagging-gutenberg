@@ -16,9 +16,12 @@ venv/
 .DS_Store
 *.swp
 
-# Large data not meant for versioning
+# folders not meant for versioning
 data/text/
 data/metadata.csv
+booknlp_out/
+cache/
+gutenberg_loader/
 
 # Credentials or temp outputs
 *.log

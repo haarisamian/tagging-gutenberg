@@ -34,10 +34,11 @@ def in_quote(tok_id, quotes_df):
 
 def find_chars(start, end, people_df):
     temp = people_df.loc[(start <= people_df['start_token']) & (people_df["end_token"] <= end), 'merged']
+    temp2 = people_df.loc[(start <= people_df['start_token']) & (people_df["end_token"] <= end), 'start_token']
     if len(temp) == 0:
         temp = []
     else:
-        temp = list(temp)
+        temp = list(zip(list(temp), list(temp2)))
     return temp
 
 def char_map(df, key1, key2, characters, mention_map, sharon_chars):
@@ -121,6 +122,10 @@ def get_chapter(df, key, chapter_start, chapter_end):
 
 if __name__ == "__main__":
     # Load custom files
+    # datadir = "booknlp/results/output"
+    # book = "Pride and Prejudice"
+    # file_start = 'pride'
+    # chapter_str = 'Chapter'
     datadir = "booknlp/jane"
     book = "Jane Eyre"
     file_start = 'jane_eyre'
@@ -164,7 +169,7 @@ if __name__ == "__main__":
     quotes_df = char_map(quotes_df, 'char_id', 'mention_phrase', characters, mention_map, sharon_chars)
     quotes_df['count'] = 1
     quotes_df['discussed'] = quotes_df.apply(lambda row: find_chars(row['quote_start'], row['quote_end'], entities_df), axis=1)
-    quotes_df['discussed'] = quotes_df.apply(lambda row: [x for x in row['discussed'] if x != row['merged']], axis=1)
+    quotes_df['discussed'] = quotes_df.apply(lambda row: [x for x in row['discussed'] if x[0] != row['merged']], axis=1)
 
     # Load tokens
     tokens_df = pd.read_csv(f'{datadir}/{file_start}.tokens', sep='\t', quoting=3)
@@ -228,8 +233,19 @@ if __name__ == "__main__":
         # DC dict
         temp_counts = defaultdict(int)
         for idx, row in q_df.iterrows():
-            for name in row['discussed']:
-                temp_counts[name] += 1
+            temp = []
+            sent_id = tokens_df[tokens_df['token_ID_within_document'] == row['quote_start']].iloc[0]['sentence_ID']
+            for name, start in row['discussed']:
+                new_sent_id = tokens_df[tokens_df['token_ID_within_document'] == start].iloc[0]['sentence_ID']
+                if new_sent_id > sent_id:
+                    temp = list(set(temp))
+                    for n in temp:
+                        temp_counts[n] += 1
+                sent_id = new_sent_id
+                temp.append(name)
+            temp = list(set(temp))
+            for n in temp:
+                temp_counts[n] += 1
         all_dicts['DC'] = get_tag_dict(sharon_chars, temp_counts)
 
         # DN dict

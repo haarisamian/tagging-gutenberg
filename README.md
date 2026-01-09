@@ -36,7 +36,7 @@ python -c "import nltk; nltk.download('verbnet')"
 
 ## Data
 
-For convenience, BookNLP outputs for the corpus are stored in data/XXX, all downstream outputs in the pipeline, corpus-level tagging and network analysis, use these files.
+For convenience, BookNLP outputs for the corpus are stored in data/smaller_corpus/, all downstream outputs in the pipeline, corpus-level tagging and network analysis, use these files.
 
 ---
 

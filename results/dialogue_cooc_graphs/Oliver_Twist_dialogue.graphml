@@ -1,0 +1,532 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="quotes" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Sikes">
+      <data key="d0">319</data>
+    </node>
+    <node id="Mr. Bumble">
+      <data key="d0">246</data>
+    </node>
+    <node id="Oliver">
+      <data key="d0">232</data>
+    </node>
+    <node id="Fagin">
+      <data key="d0">222</data>
+    </node>
+    <node id="Mr. Brownlow">
+      <data key="d0">190</data>
+    </node>
+    <node id="Noah">
+      <data key="d0">135</data>
+    </node>
+    <node id="Rose">
+      <data key="d0">135</data>
+    </node>
+    <node id="Monks">
+      <data key="d0">123</data>
+    </node>
+    <node id="Mr. Giles">
+      <data key="d0">72</data>
+    </node>
+    <node id="Master Bates">
+      <data key="d0">71</data>
+    </node>
+    <node id="Nancy">
+      <data key="d0">64</data>
+    </node>
+    <node id="Harry">
+      <data key="d0">50</data>
+    </node>
+    <node id="Mrs. Maylie">
+      <data key="d0">45</data>
+    </node>
+    <node id="Mr. Fang">
+      <data key="d0">43</data>
+    </node>
+    <node id="Mr. Grimwig">
+      <data key="d0">42</data>
+    </node>
+    <node id="Toby">
+      <data key="d0">42</data>
+    </node>
+    <node id="Mrs. Mann">
+      <data key="d0">39</data>
+    </node>
+    <node id="Blathers">
+      <data key="d0">39</data>
+    </node>
+    <node id="Mr. Bolter">
+      <data key="d0">35</data>
+    </node>
+    <node id="Charlotte">
+      <data key="d0">29</data>
+    </node>
+    <node id="Mr. Sowerberry">
+      <data key="d0">29</data>
+    </node>
+    <node id="Mrs. Sowerberry">
+      <data key="d0">28</data>
+    </node>
+    <node id="Mr. Chitling">
+      <data key="d0">26</data>
+    </node>
+    <node id="Mr. Sikes">
+      <data key="d0">23</data>
+    </node>
+    <node id="Mr. Losberne">
+      <data key="d0">22</data>
+    </node>
+    <node id="Mrs. Corney">
+      <data key="d0">22</data>
+    </node>
+    <node id="Brittles">
+      <data key="d0">19</data>
+    </node>
+    <node id="Mr. Gamfield">
+      <data key="d0">15</data>
+    </node>
+    <node id="Barney">
+      <data key="d0">14</data>
+    </node>
+    <node id="Mr. Limbkins">
+      <data key="d0">14</data>
+    </node>
+    <node id="Tom">
+      <data key="d0">13</data>
+    </node>
+    <node id="Kags">
+      <data key="d0">12</data>
+    </node>
+    <node id="Duff">
+      <data key="d0">9</data>
+    </node>
+    <node id="Mrs. Bedwin">
+      <data key="d0">8</data>
+    </node>
+    <node id="the Dodger">
+      <data key="d0">6</data>
+    </node>
+    <node id="Mr. Dawkins">
+      <data key="d0">5</data>
+    </node>
+    <node id="Miss Maylie">
+      <data key="d0">4</data>
+    </node>
+    <node id="Jack Dawkins">
+      <data key="d0">3</data>
+    </node>
+    <node id="Mr. Browlow">
+      <data key="d0">3</data>
+    </node>
+    <node id="Messrs. Blathers">
+      <data key="d0">2</data>
+    </node>
+    <node id="old Sally">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mrs. Bolter">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Sikes" target="the Dodger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sikes" target="Nancy">
+      <data key="d1">40</data>
+    </edge>
+    <edge source="Sikes" target="Fagin">
+      <data key="d1">60</data>
+    </edge>
+    <edge source="Sikes" target="Barney">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Sikes" target="Oliver">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Sikes" target="Master Bates">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Sikes" target="Tom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sikes" target="Toby">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Sikes" target="Mrs. Corney">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sikes" target="Mr. Bumble">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sikes" target="Mr. Sikes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sikes" target="Mr. Dawkins">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Sikes" target="Rose">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sikes" target="Noah">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Sikes" target="Mr. Browlow">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Mrs. Mann">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Oliver">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Mr. Limbkins">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Mr. Gamfield">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Mr. Sowerberry">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Mrs. Sowerberry">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Noah">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Mr. Brownlow">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Mr. Grimwig">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Mrs. Corney">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Mr. Bumble" target="old Sally">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Monks">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Charlotte">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Rose">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Mrs. Mann">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Mr. Sowerberry">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Oliver" target="Mrs. Sowerberry">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Oliver" target="Noah">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Oliver" target="Jack Dawkins">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Oliver" target="Master Bates">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Oliver" target="Fagin">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Oliver" target="the Dodger">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Oliver" target="Mr. Fang">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Mr. Brownlow">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Oliver" target="Nancy">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Oliver" target="Mrs. Bedwin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Mr. Grimwig">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Oliver" target="Mr. Sikes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Mr. Dawkins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Tom">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Oliver" target="Toby">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Oliver" target="Rose">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Oliver" target="Miss Maylie">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Oliver" target="Mr. Losberne">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Oliver" target="Mrs. Maylie">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Oliver" target="Mr. Giles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Harry">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Fagin" target="Master Bates">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="Fagin" target="Mr. Sikes">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Fagin" target="Barney">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Fagin" target="Nancy">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Fagin" target="Toby">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Fagin" target="Monks">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Fagin" target="Mr. Chitling">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="Tom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="Noah">
+      <data key="d1">72</data>
+    </edge>
+    <edge source="Fagin" target="Charlotte">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="Mr. Bolter">
+      <data key="d1">33</data>
+    </edge>
+    <edge source="Fagin" target="Mr. Brownlow">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Mr. Fang">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Mrs. Bedwin">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Mr. Grimwig">
+      <data key="d1">33</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Rose">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Mr. Losberne">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Mrs. Maylie">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Noah">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Nancy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Monks">
+      <data key="d1">47</data>
+    </edge>
+    <edge source="Noah" target="Mrs. Sowerberry">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Noah" target="Charlotte">
+      <data key="d1">31</data>
+    </edge>
+    <edge source="Noah" target="Mr. Sowerberry">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Noah" target="Barney">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Noah" target="Mrs. Bolter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Noah" target="Mr. Bolter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Noah" target="Master Bates">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rose" target="Mr. Giles">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Rose" target="Mr. Losberne">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Rose" target="Mrs. Maylie">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Rose" target="Blathers">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Rose" target="Duff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rose" target="Harry">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Rose" target="Nancy">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Rose" target="Miss Maylie">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Rose" target="Mr. Browlow">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rose" target="Mr. Grimwig">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Rose" target="Monks">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Monks" target="Mr. Sikes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Monks" target="Mr. Browlow">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Monks" target="Mrs. Maylie">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Mr. Giles" target="Toby">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Giles" target="Brittles">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Mr. Giles" target="Mr. Losberne">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Giles" target="Mrs. Maylie">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Giles" target="Messrs. Blathers">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Giles" target="Blathers">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Giles" target="Harry">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Master Bates" target="the Dodger">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Master Bates" target="Mrs. Mann">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Master Bates" target="Mr. Chitling">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Master Bates" target="Toby">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Master Bates" target="Mr. Bolter">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Nancy" target="Mr. Sikes">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Nancy" target="Tom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Harry" target="Mrs. Maylie">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Harry" target="Mr. Losberne">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Maylie" target="Mr. Losberne">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Maylie" target="Blathers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Maylie" target="Mr. Grimwig">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Grimwig" target="Mrs. Bedwin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Grimwig" target="Mr. Browlow">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Toby" target="Barney">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Toby" target="Tom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Toby" target="Mr. Losberne">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Toby" target="Mr. Chitling">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Toby" target="Kags">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Blathers" target="Mr. Losberne">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Blathers" target="Duff">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Mr. Bolter" target="Mrs. Bolter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bolter" target="Mr. Dawkins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charlotte" target="Mrs. Sowerberry">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Sowerberry" target="Mrs. Sowerberry">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Mr. Chitling" target="Tom">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Mr. Chitling" target="old Sally">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Chitling" target="Kags">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Mr. Losberne" target="Brittles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Losberne" target="Duff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Gamfield" target="Mr. Limbkins">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Mrs. Bedwin" target="Mr. Dawkins">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d1" for="node" attr.name="dc_in" attr.type="long" />
+  <key id="d0" for="node" attr.name="dc_out" attr.type="long" />
+  <graph edgedefault="directed">
+    <node id="Oliva">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Pilate">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Vide Pope">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Laura">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Ammon">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Legion">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Old Melmoth">
+      <data key="d0">2</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Senhor">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Alonzo">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Melmoths">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Vide Southern">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Monster">
+      <data key="d0">2</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="aunt Dinah">
+      <data key="d0">4</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Father Olavida">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Miss Baillie">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="the Duke de Monçada">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Melmoth">
+      <data key="d0">17</data>
+      <data key="d1">11</data>
+    </node>
+    <node id="Gonson">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Father Fay">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Monk,--then">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="God">
+      <data key="d0">11</data>
+      <data key="d1">5</data>
+    </node>
+    <node id="Cromwell">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Fatima">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Christ">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Sybil">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Fra Paolo">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Samuel">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Satan">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Saul">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Beatrice">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Jesuits">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Don Raymond">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Stanton">
+      <data key="d0">3</data>
+      <data key="d1">3</data>
+    </node>
+    <edge source="Vide Pope" target="Gonson">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Old Melmoth" target="Legion">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Old Melmoth" target="God">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Vide Southern" target="Ammon">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Monster" target="Fra Paolo">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="aunt Dinah" target="the Duke de Monçada">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="aunt Dinah" target="Christ">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="aunt Dinah" target="God">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="aunt Dinah" target="Alonzo">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Father Olavida" target="Christ">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Baillie" target="Melmoth">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Melmoth" target="Monk,--then">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Melmoth" target="Don Raymond">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Melmoth" target="Beatrice">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Melmoth" target="God">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Melmoth" target="the Melmoths">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Melmoth" target="Sybil">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Melmoth" target="Cromwell">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Melmoth" target="Stanton">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Melmoth" target="Father Fay">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Melmoth" target="Senhor">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="God" target="Melmoth">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="God" target="Samuel">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="God" target="Saul">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="God" target="Pilate">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="God" target="the Jesuits">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fatima" target="Melmoth">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Satan" target="Oliva">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Stanton" target="Laura">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Stanton" target="Melmoth">
+      <data key="d2">2</data>
+    </edge>
+  </graph>
+</graphml>

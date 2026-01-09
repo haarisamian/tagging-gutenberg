@@ -1,0 +1,484 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="quotes" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Elizabeth">
+      <data key="d0">493</data>
+    </node>
+    <node id="Mrs. Bennet">
+      <data key="d0">196</data>
+    </node>
+    <node id="Mr. Darcy">
+      <data key="d0">111</data>
+    </node>
+    <node id="Jane">
+      <data key="d0">108</data>
+    </node>
+    <node id="Miss Bingley">
+      <data key="d0">72</data>
+    </node>
+    <node id="Wickham">
+      <data key="d0">54</data>
+    </node>
+    <node id="Lady Catherine">
+      <data key="d0">51</data>
+    </node>
+    <node id="George Allen">
+      <data key="d0">48</data>
+    </node>
+    <node id="Mr. Collins">
+      <data key="d0">46</data>
+    </node>
+    <node id="Mr. Bennet">
+      <data key="d0">43</data>
+    </node>
+    <node id="Lydia">
+      <data key="d0">42</data>
+    </node>
+    <node id="Mrs. Gardiner">
+      <data key="d0">39</data>
+    </node>
+    <node id="Mr. Bingley">
+      <data key="d0">30</data>
+    </node>
+    <node id="Charlotte">
+      <data key="d0">27</data>
+    </node>
+    <node id="Sir William">
+      <data key="d0">22</data>
+    </node>
+    <node id="Mr. Gardiner">
+      <data key="d0">15</data>
+    </node>
+    <node id="Colonel Fitzwilliam">
+      <data key="d0">13</data>
+    </node>
+    <node id="Miss Lucas">
+      <data key="d0">12</data>
+    </node>
+    <node id="Miss Darcy">
+      <data key="d0">10</data>
+    </node>
+    <node id="Mary">
+      <data key="d0">9</data>
+    </node>
+    <node id="Mr. Hurst">
+      <data key="d0">9</data>
+    </node>
+    <node id="Illustration">
+      <data key="d0">9</data>
+    </node>
+    <node id="Sir William,--">
+      <data key="d0">9</data>
+    </node>
+    <node id="Maria">
+      <data key="d0">8</data>
+    </node>
+    <node id="Mrs. Reynolds">
+      <data key="d0">8</data>
+    </node>
+    <node id="Miss Austen">
+      <data key="d0">6</data>
+    </node>
+    <node id="Mrs. Hurst">
+      <data key="d0">5</data>
+    </node>
+    <node id="Hill">
+      <data key="d0">2</data>
+    </node>
+    <node id="Walt Whitman">
+      <data key="d0">2</data>
+    </node>
+    <node id="Lizzy">
+      <data key="d0">2</data>
+    </node>
+    <node id="Mr. Goldwin Smith">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr.">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lady Lucas">
+      <data key="d0">1</data>
+    </node>
+    <node id="Caroline">
+      <data key="d0">1</data>
+    </node>
+    <node id="Miss de Bourgh">
+      <data key="d0">1</data>
+    </node>
+    <node id="Elizabeth,--">
+      <data key="d0">1</data>
+    </node>
+    <node id="Georgiana">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Elizabeth" target="Miss Austen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Elizabeth" target="Mr.">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Elizabeth" target="Mr. Bennet">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Elizabeth" target="Mrs. Bennet">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="Elizabeth" target="Charlotte">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Elizabeth" target="Sir William,--">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Elizabeth" target="Mary">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Elizabeth" target="Miss Bingley">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Elizabeth" target="Miss Darcy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Elizabeth" target="Mr. Bingley">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Elizabeth" target="Mr. Darcy">
+      <data key="d1">66</data>
+    </edge>
+    <edge source="Elizabeth" target="George Allen">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="Elizabeth" target="Jane">
+      <data key="d1">67</data>
+    </edge>
+    <edge source="Elizabeth" target="Wickham">
+      <data key="d1">46</data>
+    </edge>
+    <edge source="Elizabeth" target="Mr. Collins">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Elizabeth" target="Sir William">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Elizabeth" target="Lady Lucas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Elizabeth" target="Mrs. Gardiner">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Elizabeth" target="Maria">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Elizabeth" target="Lady Catherine">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="Elizabeth" target="Colonel Fitzwilliam">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Elizabeth" target="Lydia">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Elizabeth" target="Mrs. Reynolds">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Elizabeth" target="Mr. Gardiner">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Elizabeth" target="Georgiana">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Bennet" target="Mr.">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Bennet" target="George Allen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Bennet" target="Mr. Bennet">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="Mrs. Bennet" target="Lady Catherine">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Mrs. Bennet" target="Lydia">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Mrs. Bennet" target="Mr. Darcy">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mrs. Bennet" target="Charlotte">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Mrs. Bennet" target="Jane">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Mrs. Bennet" target="Miss Lucas">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mrs. Bennet" target="Mary">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mrs. Bennet" target="Miss Darcy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Bennet" target="Miss Bingley">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Bennet" target="Mr. Bingley">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Mrs. Bennet" target="Mr. Collins">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Mrs. Bennet" target="Illustration">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mrs. Bennet" target="Mr. Gardiner">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mrs. Bennet" target="Elizabeth,--">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Darcy" target="Mr. Collins">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Darcy" target="Mr. Bingley">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Mr. Darcy" target="Charlotte">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Darcy" target="Miss Lucas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Darcy" target="Sir William">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Mr. Darcy" target="Sir William,--">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Darcy" target="Miss Bingley">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Darcy" target="Mr. Hurst">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Darcy" target="Lydia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Darcy" target="Mrs. Hurst">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Darcy" target="George Allen">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Darcy" target="Lady Catherine">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Darcy" target="Colonel Fitzwilliam">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Darcy" target="Mrs. Gardiner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Darcy" target="Wickham">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Darcy" target="Georgiana">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Darcy" target="Mr. Bennet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jane" target="Walt Whitman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jane" target="Miss Austen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jane" target="Charlotte">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Jane" target="Mr. Bennet">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Jane" target="Illustration">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Jane" target="George Allen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jane" target="Caroline">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jane" target="Lydia">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Jane" target="Mr. Gardiner">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Jane" target="Hill">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jane" target="Lady Catherine">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Miss Bingley" target="Sir William,--">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Miss Bingley" target="George Allen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Bingley" target="Mrs. Hurst">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Miss Bingley" target="Mr. Hurst">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Miss Bingley" target="Mr. Bingley">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Miss Bingley" target="Miss Darcy">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Miss Bingley" target="Mr. Bennet">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Miss Bingley" target="Sir William">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Bingley" target="Lydia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Wickham" target="George Allen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Wickham" target="Illustration">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Wickham" target="Mr. Collins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Wickham" target="Charlotte">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Wickham" target="Mr. Bennet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Catherine" target="Mary">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Catherine" target="Lydia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Catherine" target="Mr. Collins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Catherine" target="Miss de Bourgh">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Catherine" target="Hill">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="George Allen" target="Mr. Bennet">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="George Allen" target="Mr. Collins">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="George Allen" target="Lydia">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="George Allen" target="Charlotte">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="George Allen" target="Mrs. Gardiner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="George Allen" target="Mr. Bingley">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="George Allen" target="Mr. Gardiner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="George Allen" target="Elizabeth,--">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Collins" target="Mr. Goldwin Smith">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Collins" target="Miss Austen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Collins" target="Mr. Bennet">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Collins" target="Lydia">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Collins" target="Lady Lucas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Collins" target="Charlotte">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Collins" target="Maria">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Collins" target="Sir William">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Collins" target="Miss de Bourgh">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bennet" target="Lydia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bennet" target="Caroline">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bennet" target="Mr. Bingley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lydia" target="Mrs. Hurst">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lydia" target="Mr. Bingley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lydia" target="Illustration">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Gardiner" target="Illustration">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Gardiner" target="Mrs. Reynolds">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Gardiner" target="Mr. Bingley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Gardiner" target="Mr. Gardiner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bingley" target="Miss Darcy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sir William" target="Miss Lucas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Gardiner" target="Mrs. Reynolds">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Lucas" target="Lizzy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mary" target="Lizzy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Austen" target="Mr. Goldwin Smith">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

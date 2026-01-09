@@ -1,0 +1,346 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="quotes" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Midwinter">
+      <data key="d0">699</data>
+    </node>
+    <node id="Miss Gwilt">
+      <data key="d0">688</data>
+    </node>
+    <node id="Allan">
+      <data key="d0">576</data>
+    </node>
+    <node id="Mr. Bashwood">
+      <data key="d0">196</data>
+    </node>
+    <node id="Pedgift Junior">
+      <data key="d0">157</data>
+    </node>
+    <node id="Mr. Neal">
+      <data key="d0">139</data>
+    </node>
+    <node id="Mrs. Milroy">
+      <data key="d0">118</data>
+    </node>
+    <node id="Pedgift Senior">
+      <data key="d0">116</data>
+    </node>
+    <node id="Neelie">
+      <data key="d0">114</data>
+    </node>
+    <node id="Mrs. Oldershaw">
+      <data key="d0">108</data>
+    </node>
+    <node id="Mr. Brock">
+      <data key="d0">97</data>
+    </node>
+    <node id="Miss Milroy">
+      <data key="d0">69</data>
+    </node>
+    <node id="Mr. Hawbury">
+      <data key="d0">57</data>
+    </node>
+    <node id="Mrs. Pentecost">
+      <data key="d0">31</data>
+    </node>
+    <node id="The Lord">
+      <data key="d0">25</data>
+    </node>
+    <node id="Mr. Armadale">
+      <data key="d0">16</data>
+    </node>
+    <node id="Major Milroy">
+      <data key="d0">13</data>
+    </node>
+    <node id="Rachel">
+      <data key="d0">12</data>
+    </node>
+    <node id="Young Pedgift">
+      <data key="d0">12</data>
+    </node>
+    <node id="Abraham Sage">
+      <data key="d0">7</data>
+    </node>
+    <node id="the Reverend Samuel">
+      <data key="d0">5</data>
+    </node>
+    <node id="Mrs. Armadale">
+      <data key="d0">3</data>
+    </node>
+    <node id="The Scotchman">
+      <data key="d0">3</data>
+    </node>
+    <node id="Benjamin">
+      <data key="d0">2</data>
+    </node>
+    <node id="Brown">
+      <data key="d0">2</data>
+    </node>
+    <node id="THE END OF THE PROLOGUE">
+      <data key="d0">1</data>
+    </node>
+    <node id="Governor Smelt">
+      <data key="d0">1</data>
+    </node>
+    <node id="Goethe">
+      <data key="d0">1</data>
+    </node>
+    <node id="Augustus">
+      <data key="d0">1</data>
+    </node>
+    <node id="V. PEDGIFT ’S REMEDY">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr. Mack">
+      <data key="d0">1</data>
+    </node>
+    <node id="Sir John">
+      <data key="d0">1</data>
+    </node>
+    <node id="Dorothea">
+      <data key="d0">1</data>
+    </node>
+    <node id="the Crown">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Midwinter" target="Mr. Brock">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="Midwinter" target="Brown">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Midwinter" target="Allan">
+      <data key="d1">214</data>
+    </edge>
+    <edge source="Midwinter" target="Mr. Hawbury">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Midwinter" target="Mr. Armadale">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Midwinter" target="Mrs. Oldershaw">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Midwinter" target="Mrs. Milroy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Midwinter" target="Miss Gwilt">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Midwinter" target="Major Milroy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Midwinter" target="Miss Milroy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Midwinter" target="Mr. Bashwood">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="Midwinter" target="Pedgift Junior">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Midwinter" target="Young Pedgift">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Midwinter" target="Neelie">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Gwilt" target="Mrs. Oldershaw">
+      <data key="d1">37</data>
+    </edge>
+    <edge source="Miss Gwilt" target="Neelie">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Miss Gwilt" target="Mr. Bashwood">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Miss Gwilt" target="Sir John">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Miss Gwilt" target="Allan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Gwilt" target="The Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Gwilt" target="Benjamin">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Allan" target="Mr. Neal">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Allan" target="Mr. Brock">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="Allan" target="Goethe">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Allan" target="Mr. Armadale">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Allan" target="Governor Smelt">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Allan" target="Mr. Hawbury">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Allan" target="Mrs. Oldershaw">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Allan" target="Miss Milroy">
+      <data key="d1">42</data>
+    </edge>
+    <edge source="Allan" target="Abraham Sage">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Allan" target="Major Milroy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Allan" target="Mr. Bashwood">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Allan" target="Pedgift Junior">
+      <data key="d1">68</data>
+    </edge>
+    <edge source="Allan" target="the Reverend Samuel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Allan" target="Young Pedgift">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Allan" target="Mrs. Pentecost">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Allan" target="Neelie">
+      <data key="d1">41</data>
+    </edge>
+    <edge source="Allan" target="Mrs. Milroy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Allan" target="Rachel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Allan" target="Pedgift Senior">
+      <data key="d1">60</data>
+    </edge>
+    <edge source="Allan" target="Mr. Mack">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bashwood" target="Pedgift Junior">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Bashwood" target="Pedgift Senior">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="Mr. Bashwood" target="Mr. Mack">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bashwood" target="the Crown">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Bashwood" target="Dorothea">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pedgift Junior" target="Miss Milroy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Pedgift Junior" target="the Reverend Samuel">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Pedgift Junior" target="Mrs. Pentecost">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Pedgift Junior" target="Augustus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pedgift Junior" target="Major Milroy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pedgift Junior" target="Young Pedgift">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Pedgift Junior" target="Neelie">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Pedgift Junior" target="Mrs. Milroy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pedgift Junior" target="V. PEDGIFT ’S REMEDY">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Pedgift Junior" target="Pedgift Senior">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Neal" target="Mrs. Armadale">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Neal" target="Mr. Armadale">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Mr. Neal" target="THE END OF THE PROLOGUE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Milroy" target="Miss Milroy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Milroy" target="Rachel">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Mrs. Milroy" target="Neelie">
+      <data key="d1">31</data>
+    </edge>
+    <edge source="Neelie" target="Major Milroy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Neelie" target="Mrs. Pentecost">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Brock" target="THE END OF THE PROLOGUE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Brock" target="Brown">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Milroy" target="Abraham Sage">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Miss Milroy" target="Mr. Armadale">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Miss Milroy" target="Major Milroy">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Miss Milroy" target="Mrs. Pentecost">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Milroy" target="Young Pedgift">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Pentecost" target="the Reverend Samuel">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Pentecost" target="Young Pedgift">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Pentecost" target="Augustus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Pentecost" target="Major Milroy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="The Lord" target="Dorothea">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Armadale" target="The Scotchman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Armadale" target="Mrs. Armadale">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Armadale" target="The Scotchman">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

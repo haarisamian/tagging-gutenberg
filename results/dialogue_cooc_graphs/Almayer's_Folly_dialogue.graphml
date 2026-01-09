@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="quotes" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Almayer">
+      <data key="d0">171</data>
+    </node>
+    <node id="Babalatchi">
+      <data key="d0">101</data>
+    </node>
+    <node id="Dain">
+      <data key="d0">69</data>
+    </node>
+    <node id="Nina">
+      <data key="d0">65</data>
+    </node>
+    <node id="Lakamba">
+      <data key="d0">44</data>
+    </node>
+    <node id="Ali">
+      <data key="d0">25</data>
+    </node>
+    <node id="Ford">
+      <data key="d0">19</data>
+    </node>
+    <node id="Mahmat">
+      <data key="d0">18</data>
+    </node>
+    <node id="Taminah">
+      <data key="d0">17</data>
+    </node>
+    <node id="Abdulla">
+      <data key="d0">11</data>
+    </node>
+    <node id="Jim - Eng">
+      <data key="d0">4</data>
+    </node>
+    <node id="Tom Lingard">
+      <data key="d0">3</data>
+    </node>
+    <node id="Reshid">
+      <data key="d0">2</data>
+    </node>
+    <node id="Mr. Vinck">
+      <data key="d0">2</data>
+    </node>
+    <node id="Almayer--&quot;just">
+      <data key="d0">2</data>
+    </node>
+    <node id="Lingard">
+      <data key="d0">1</data>
+    </node>
+    <node id="Joseph Conrad">
+      <data key="d0">1</data>
+    </node>
+    <node id="the Rajah">
+      <data key="d0">1</data>
+    </node>
+    <node id="Netherlands">
+      <data key="d0">1</data>
+    </node>
+    <node id="CHAPTER IX">
+      <data key="d0">1</data>
+    </node>
+    <node id="Sambir">
+      <data key="d0">1</data>
+    </node>
+    <node id="the Tuan Putih">
+      <data key="d0">1</data>
+    </node>
+    <node id="Project Gutenberg">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Almayer" target="Lingard">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Almayer" target="Dain">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="Almayer" target="Nina">
+      <data key="d1">40</data>
+    </edge>
+    <edge source="Almayer" target="the Rajah">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Almayer" target="Abdulla">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Almayer" target="Reshid">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Almayer" target="Babalatchi">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="Almayer" target="Mahmat">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Almayer" target="Ali">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Almayer" target="CHAPTER IX">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Almayer" target="Sambir">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Almayer" target="Taminah">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Babalatchi" target="Abdulla">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Babalatchi" target="Dain">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Babalatchi" target="Lakamba">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="Babalatchi" target="Netherlands">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Babalatchi" target="Mahmat">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Babalatchi" target="Nina">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Babalatchi" target="CHAPTER IX">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Babalatchi" target="Taminah">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Babalatchi" target="Ali">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Babalatchi" target="Jim - Eng">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Babalatchi" target="Ford">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Dain" target="Nina">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="Dain" target="Lakamba">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Dain" target="Ali">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nina" target="Ford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nina" target="Almayer--&quot;just">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Nina" target="Ali">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Nina" target="Mahmat">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nina" target="Sambir">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lakamba" target="Mahmat">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ali" target="the Tuan Putih">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ali" target="Ford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Ali" target="Abdulla">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Ford" target="the Rajah">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ford" target="the Tuan Putih">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ford" target="Jim - Eng">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Ford" target="Abdulla">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mahmat" target="Netherlands">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mahmat" target="Taminah">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Taminah" target="Abdulla">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Abdulla" target="Reshid">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Abdulla" target="Project Gutenberg">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tom Lingard" target="Joseph Conrad">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tom Lingard" target="Mr. Vinck">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Tom Lingard" target="Lingard">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

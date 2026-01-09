@@ -1,0 +1,979 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="quotes" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Glossin">
+      <data key="d0">298</data>
+    </node>
+    <node id="Mr. Pleydell">
+      <data key="d0">150</data>
+    </node>
+    <node id="Julia">
+      <data key="d0">102</data>
+    </node>
+    <node id="Mr. Sampson">
+      <data key="d0">97</data>
+    </node>
+    <node id="Meg Merrilies">
+      <data key="d0">92</data>
+    </node>
+    <node id="Sir Robert">
+      <data key="d0">86</data>
+    </node>
+    <node id="Hatteraick">
+      <data key="d0">80</data>
+    </node>
+    <node id="Dinmont">
+      <data key="d0">79</data>
+    </node>
+    <node id="Miss Bertram">
+      <data key="d0">61</data>
+    </node>
+    <node id="Colonel Mannering">
+      <data key="d0">53</data>
+    </node>
+    <node id="Mac - Morlan">
+      <data key="d0">48</data>
+    </node>
+    <node id="Brown">
+      <data key="d0">39</data>
+    </node>
+    <node id="Bertram">
+      <data key="d0">36</data>
+    </node>
+    <node id="EIGHTH EXTRACT">
+      <data key="d0">36</data>
+    </node>
+    <node id="Mannering">
+      <data key="d0">36</data>
+    </node>
+    <node id="Mrs. Mac - Candlish">
+      <data key="d0">29</data>
+    </node>
+    <node id="Scott">
+      <data key="d0">28</data>
+    </node>
+    <node id="Hazlewood">
+      <data key="d0">27</data>
+    </node>
+    <node id="Mac - Guffog">
+      <data key="d0">22</data>
+    </node>
+    <node id="Ailie">
+      <data key="d0">13</data>
+    </node>
+    <node id="Wasp">
+      <data key="d0">11</data>
+    </node>
+    <node id="Dandy Dinmont">
+      <data key="d0">11</data>
+    </node>
+    <node id="Ellangowan">
+      <data key="d0">10</data>
+    </node>
+    <node id="Kennedy">
+      <data key="d0">9</data>
+    </node>
+    <node id="Mrs. Rebecca">
+      <data key="d0">8</data>
+    </node>
+    <node id="Mr. Mervyn">
+      <data key="d0">7</data>
+    </node>
+    <node id="Mr. Protocol">
+      <data key="d0">7</data>
+    </node>
+    <node id="Gabriel">
+      <data key="d0">6</data>
+    </node>
+    <node id="Mr. Skreigh">
+      <data key="d0">6</data>
+    </node>
+    <node id="Meg">
+      <data key="d0">5</data>
+    </node>
+    <node id="Mrs. Dinmont">
+      <data key="d0">5</data>
+    </node>
+    <node id="John">
+      <data key="d0">5</data>
+    </node>
+    <node id="Mrs. Bertram">
+      <data key="d0">5</data>
+    </node>
+    <node id="Dirk Hatteraick">
+      <data key="d0">5</data>
+    </node>
+    <node id="Jock Jabos">
+      <data key="d0">5</data>
+    </node>
+    <node id="Deacon Bearcliff">
+      <data key="d0">5</data>
+    </node>
+    <node id="Hunger">
+      <data key="d0">4</data>
+    </node>
+    <node id="King Paulus">
+      <data key="d0">4</data>
+    </node>
+    <node id="Charlie">
+      <data key="d0">4</data>
+    </node>
+    <node id="gude blude">
+      <data key="d0">4</data>
+    </node>
+    <node id="Na">
+      <data key="d0">3</data>
+    </node>
+    <node id="Donald Laider">
+      <data key="d0">3</data>
+    </node>
+    <node id="Dandle">
+      <data key="d0">3</data>
+    </node>
+    <node id="gudeman">
+      <data key="d0">3</data>
+    </node>
+    <node id="Abel Sampson">
+      <data key="d0">3</data>
+    </node>
+    <node id="Justice Forster">
+      <data key="d0">3</data>
+    </node>
+    <node id="Jack">
+      <data key="d0">3</data>
+    </node>
+    <node id="Grizzel">
+      <data key="d0">3</data>
+    </node>
+    <node id="Sir Robert Douglas">
+      <data key="d0">2</data>
+    </node>
+    <node id="Delaserre">
+      <data key="d0">2</data>
+    </node>
+    <node id="John Home , Esq">
+      <data key="d0">2</data>
+    </node>
+    <node id="John Clerk">
+      <data key="d0">2</data>
+    </node>
+    <node id="Soles">
+      <data key="d0">2</data>
+    </node>
+    <node id="the Bertrams">
+      <data key="d0">2</data>
+    </node>
+    <node id="Dr. Black">
+      <data key="d0">2</data>
+    </node>
+    <node id="Drumquag">
+      <data key="d0">2</data>
+    </node>
+    <node id="Jean Liltup">
+      <data key="d0">2</data>
+    </node>
+    <node id="the Feifteen">
+      <data key="d0">2</data>
+    </node>
+    <node id="Mumps">
+      <data key="d0">2</data>
+    </node>
+    <node id="Mr. Chambers">
+      <data key="d0">1</data>
+    </node>
+    <node id="William Erskine">
+      <data key="d0">1</data>
+    </node>
+    <node id="Blackwood">
+      <data key="d0">1</data>
+    </node>
+    <node id="Madge Gordon">
+      <data key="d0">1</data>
+    </node>
+    <node id="Yawkins">
+      <data key="d0">1</data>
+    </node>
+    <node id="Weel">
+      <data key="d0">1</data>
+    </node>
+    <node id="SCHILLER">
+      <data key="d0">1</data>
+    </node>
+    <node id="Laird">
+      <data key="d0">1</data>
+    </node>
+    <node id="The Lord">
+      <data key="d0">1</data>
+    </node>
+    <node id="Virgil">
+      <data key="d0">1</data>
+    </node>
+    <node id="Willie Marshal">
+      <data key="d0">1</data>
+    </node>
+    <node id="James">
+      <data key="d0">1</data>
+    </node>
+    <node id="Hansel Monanday--">
+      <data key="d0">1</data>
+    </node>
+    <node id="Todshaw">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lord">
+      <data key="d0">1</data>
+    </node>
+    <node id="Jean Baillie">
+      <data key="d0">1</data>
+    </node>
+    <node id="Jock o ’ Dawston Cleugh">
+      <data key="d0">1</data>
+    </node>
+    <node id="Burns">
+      <data key="d0">1</data>
+    </node>
+    <node id="Glossin--‘not">
+      <data key="d0">1</data>
+    </node>
+    <node id="King Cambyses">
+      <data key="d0">1</data>
+    </node>
+    <node id="Pleydell--">
+      <data key="d0">1</data>
+    </node>
+    <node id="Dr. Robertson">
+      <data key="d0">1</data>
+    </node>
+    <node id="Adam Smith , Esq">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr. Button">
+      <data key="d0">1</data>
+    </node>
+    <node id="SHENSTONE">
+      <data key="d0">1</data>
+    </node>
+    <node id="Bertram--‘Come">
+      <data key="d0">1</data>
+    </node>
+    <node id="Fair Maid">
+      <data key="d0">1</data>
+    </node>
+    <node id="Glossin--‘in">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr. G. Glossin">
+      <data key="d0">1</data>
+    </node>
+    <node id="Bitterly">
+      <data key="d0">1</data>
+    </node>
+    <node id="Driver">
+      <data key="d0">1</data>
+    </node>
+    <node id="Willie o ’ Kinmont">
+      <data key="d0">1</data>
+    </node>
+    <node id="Tam Hudson">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr. Bertram,--for">
+      <data key="d0">1</data>
+    </node>
+    <node id="Old Pleydell">
+      <data key="d0">1</data>
+    </node>
+    <node id="Bertram--‘I">
+      <data key="d0">1</data>
+    </node>
+    <node id="Detected grinning">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr. Corsand">
+      <data key="d0">1</data>
+    </node>
+    <node id="the Bona Dea">
+      <data key="d0">1</data>
+    </node>
+    <node id="Dr. Redgill">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Glossin" target="Mr. Sampson">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Glossin" target="Laird">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Glossin" target="Kennedy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Glossin" target="Bertram">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Glossin" target="Mannering">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Glossin" target="Mac - Morlan">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Glossin" target="John">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Glossin" target="Burns">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Glossin" target="Mrs. Mac - Candlish">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Glossin" target="Hansel Monanday--">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Glossin" target="Deacon Bearcliff">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Glossin" target="Jock Jabos">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Glossin" target="Dirk Hatteraick">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Glossin" target="Hatteraick">
+      <data key="d1">41</data>
+    </edge>
+    <edge source="Glossin" target="Colonel Mannering">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Glossin" target="Hazlewood">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Glossin" target="Miss Bertram">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Glossin" target="Mr. G. Glossin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Glossin" target="Sir Robert">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Glossin" target="Fair Maid">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Glossin" target="Glossin--‘in">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Glossin" target="Mac - Guffog">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Glossin" target="Donald Laider">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Glossin" target="SHENSTONE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Glossin" target="Dinmont">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Glossin" target="Justice Forster">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Glossin" target="Julia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Glossin" target="Meg Merrilies">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Glossin" target="Mr. Pleydell">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Glossin" target="Mr. Corsand">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Pleydell" target="Donald Laider">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Pleydell" target="Mannering">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Pleydell" target="Dinmont">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Mr. Pleydell" target="Jock o ’ Dawston Cleugh">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Pleydell" target="Mr. Sampson">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Pleydell" target="Colonel Mannering">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Mr. Pleydell" target="Drumquag">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Pleydell" target="Mrs. Rebecca">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Pleydell" target="the Feifteen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Pleydell" target="John Clerk">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Pleydell" target="Driver">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Pleydell" target="Pleydell--">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Pleydell" target="Brown">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Pleydell" target="Julia">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="Mr. Pleydell" target="Miss Bertram">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Pleydell" target="Sir Robert">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Mr. Pleydell" target="Bertram">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Mr. Pleydell" target="Mr. Bertram,--for">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Pleydell" target="Detected grinning">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Pleydell" target="Soles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Pleydell" target="the Bona Dea">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Julia" target="EIGHTH EXTRACT">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Julia" target="Miss Bertram">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Julia" target="Mr. Sampson">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Julia" target="Brown">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Julia" target="Scott">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Julia" target="Burns">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Julia" target="Colonel Mannering">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Julia" target="Sir Robert">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Julia" target="Dinmont">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Julia" target="Bertram--‘I">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Julia" target="Meg Merrilies">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Julia" target="Old Pleydell">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Julia" target="Mac - Morlan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Sampson" target="Mannering">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Mr. Sampson" target="Meg Merrilies">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Mr. Sampson" target="Kennedy">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Sampson" target="Ellangowan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Sampson" target="Bertram">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Sampson" target="John">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Sampson" target="Miss Bertram">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Mr. Sampson" target="Mac - Morlan">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Mr. Sampson" target="Virgil">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Sampson" target="Mr. Mervyn">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Sampson" target="Delaserre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Sampson" target="Colonel Mannering">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Sampson" target="Meg">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Sampson" target="Hunger">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Sampson" target="Mrs. Bertram">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Sampson" target="Abel Sampson">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Sampson" target="Bertram--‘I">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Meg Merrilies" target="Blackwood">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Meg Merrilies" target="William Erskine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Meg Merrilies" target="Scott">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Meg Merrilies" target="Weel">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Meg Merrilies" target="Mannering">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Meg Merrilies" target="Bertram">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Meg Merrilies" target="Dirk Hatteraick">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Meg Merrilies" target="Sir Robert">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Meg Merrilies" target="Mr. Skreigh">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Meg Merrilies" target="Mrs. Mac - Candlish">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Meg Merrilies" target="Brown">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Meg Merrilies" target="Jean Baillie">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Meg Merrilies" target="Jack">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Meg Merrilies" target="Hazlewood">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Meg Merrilies" target="Dinmont">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Meg Merrilies" target="Miss Bertram">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Meg Merrilies" target="Hatteraick">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Sir Robert" target="Mr. Skreigh">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Robert" target="Mannering">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Robert" target="Miss Bertram">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sir Robert" target="Mr. G. Glossin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Robert" target="Glossin--‘in">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Robert" target="Hazlewood">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Sir Robert" target="the Bertrams">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sir Robert" target="Mac - Morlan">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sir Robert" target="Willie o ’ Kinmont">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Robert" target="Dinmont">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Sir Robert" target="Colonel Mannering">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Robert" target="Bertram">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hatteraick" target="Glossin--‘not">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Hatteraick" target="Dinmont">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Hatteraick" target="Ellangowan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hatteraick" target="Mac - Guffog">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Hatteraick" target="Mac - Morlan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dinmont" target="Brown">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Dinmont" target="Dandy Dinmont">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dinmont" target="gude blude">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dinmont" target="Mrs. Dinmont">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dinmont" target="Ailie">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dinmont" target="Mannering">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dinmont" target="King Paulus">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dinmont" target="Jean Liltup">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dinmont" target="Colonel Mannering">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Dinmont" target="the Feifteen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dinmont" target="gudeman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dinmont" target="Mac - Guffog">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Dinmont" target="Wasp">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dinmont" target="Tam Hudson">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dinmont" target="Bertram">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dinmont" target="Miss Bertram">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dinmont" target="Ellangowan">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Miss Bertram" target="Colonel Mannering">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Miss Bertram" target="Mannering">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Bertram" target="Mac - Morlan">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Miss Bertram" target="Brown">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Bertram" target="Abel Sampson">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Miss Bertram" target="Bertram">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Bertram" target="Ellangowan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Bertram" target="Old Pleydell">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Bertram" target="Detected grinning">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Colonel Mannering" target="Mrs. Mac - Candlish">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Colonel Mannering" target="Mac - Morlan">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Colonel Mannering" target="Mr. Mervyn">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Colonel Mannering" target="EIGHTH EXTRACT">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Colonel Mannering" target="Hazlewood">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Colonel Mannering" target="King Cambyses">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Colonel Mannering" target="Ailie">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Colonel Mannering" target="John Home , Esq">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Colonel Mannering" target="Mrs. Rebecca">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Colonel Mannering" target="Pleydell--">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Colonel Mannering" target="Tam Hudson">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Colonel Mannering" target="Soles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mac - Morlan" target="John">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mac - Morlan" target="The Lord">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mac - Morlan" target="King Cambyses">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mac - Morlan" target="Hazlewood">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mac - Morlan" target="Willie o ’ Kinmont">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Brown" target="Delaserre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Brown" target="Meg">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Brown" target="Mumps">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Brown" target="Wasp">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Brown" target="Hazlewood">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Brown" target="Ailie">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Brown" target="Mrs. Dinmont">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Brown" target="Na">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Brown" target="Dandle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Brown" target="Gabriel">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Brown" target="Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Brown" target="Bitterly">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bertram" target="Kennedy">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Bertram" target="Ellangowan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bertram" target="Mr. Bertram,--for">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mannering" target="Sir Robert Douglas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mannering" target="SCHILLER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mannering" target="Scott">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mannering" target="King Paulus">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Mac - Candlish" target="Grizzel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Mac - Candlish" target="Jock Jabos">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Mac - Candlish" target="Hansel Monanday--">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Scott" target="Willie Marshal">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Scott" target="James">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Scott" target="Sir Robert Douglas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Scott" target="SCHILLER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hazlewood" target="Mrs. Dinmont">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hazlewood" target="Gabriel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hazlewood" target="Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hazlewood" target="Ellangowan">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mac - Guffog" target="Bertram--‘Come">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mac - Guffog" target="SHENSTONE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mac - Guffog" target="Jock Jabos">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ailie" target="Mrs. Dinmont">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ailie" target="Wasp">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ailie" target="Donald Laider">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Wasp" target="Jock Jabos">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ellangowan" target="Kennedy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ellangowan" target="Dirk Hatteraick">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Rebecca" target="Mr. Protocol">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mrs. Rebecca" target="Driver">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Protocol" target="Drumquag">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Gabriel" target="Dandle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Skreigh" target="Jock Jabos">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Meg" target="gude blude">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Bertram" target="Abel Sampson">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jock Jabos" target="Grizzel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jock Jabos" target="Deacon Bearcliff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charlie" target="gudeman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charlie" target="Justice Forster">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charlie" target="the Bona Dea">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charlie" target="Mumps">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Na" target="Todshaw">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Na" target="Bitterly">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jack" target="Jean Baillie">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John Home , Esq" target="Dr. Black">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John Clerk" target="Mr. Button">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John Clerk" target="Adam Smith , Esq">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John Clerk" target="Dr. Robertson">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dr. Black" target="Mr. Button">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mumps" target="Dr. Redgill">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Chambers" target="James">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Chambers" target="William Erskine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Blackwood" target="Madge Gordon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Madge Gordon" target="Yawkins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Yawkins" target="Willie Marshal">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dr. Robertson" target="Adam Smith , Esq">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

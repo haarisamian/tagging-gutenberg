@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="quotes" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Kemp">
+      <data key="d0">263</data>
+    </node>
+    <node id="Mr. Marvel">
+      <data key="d0">139</data>
+    </node>
+    <node id="Mrs. Hall">
+      <data key="d0">77</data>
+    </node>
+    <node id="Cuss">
+      <data key="d0">46</data>
+    </node>
+    <node id="Henfrey">
+      <data key="d0">44</data>
+    </node>
+    <node id="the Invisible Man">
+      <data key="d0">43</data>
+    </node>
+    <node id="Adye">
+      <data key="d0">40</data>
+    </node>
+    <node id="the Voice">
+      <data key="d0">38</data>
+    </node>
+    <node id="Griffin">
+      <data key="d0">32</data>
+    </node>
+    <node id="Mr. Bunting">
+      <data key="d0">28</data>
+    </node>
+    <node id="Mr. Hall">
+      <data key="d0">22</data>
+    </node>
+    <node id="Jaffers">
+      <data key="d0">17</data>
+    </node>
+    <node id="Millie">
+      <data key="d0">13</data>
+    </node>
+    <node id="Mr. Huxter">
+      <data key="d0">10</data>
+    </node>
+    <node id="Mr. Heelas">
+      <data key="d0">7</data>
+    </node>
+    <node id="Fearenside">
+      <data key="d0">7</data>
+    </node>
+    <node id="Mr. Wadgers">
+      <data key="d0">6</data>
+    </node>
+    <node id="Mrs. Bunting">
+      <data key="d0">3</data>
+    </node>
+    <node id="Fearenside—“You’d">
+      <data key="d0">2</data>
+    </node>
+    <node id="Silas Durgan">
+      <data key="d0">1</data>
+    </node>
+    <node id="Miss Statchell">
+      <data key="d0">1</data>
+    </node>
+    <node id="Wodger">
+      <data key="d0">1</data>
+    </node>
+    <node id="Cuss—“incredible">
+      <data key="d0">1</data>
+    </node>
+    <node id="Tap">
+      <data key="d0">1</data>
+    </node>
+    <node id="The Vicar">
+      <data key="d0">1</data>
+    </node>
+    <node id="Fear">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Kemp" target="Mr. Marvel">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Kemp" target="Fear">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Kemp" target="the Voice">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Kemp" target="the Invisible Man">
+      <data key="d1">37</data>
+    </edge>
+    <edge source="Kemp" target="Griffin">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="Kemp" target="Adye">
+      <data key="d1">36</data>
+    </edge>
+    <edge source="Kemp" target="Mr. Heelas">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Marvel" target="Mrs. Hall">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Marvel" target="Millie">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Marvel" target="the Voice">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="Mr. Marvel" target="the Invisible Man">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Marvel" target="Fear">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Millie">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Henfrey">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Mr. Hall">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Fearenside">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Fearenside—“You’d">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Silas Durgan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Miss Statchell">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Cuss">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Mr. Wadgers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Wodger">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Jaffers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Mr. Huxter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cuss" target="Mr. Bunting">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Cuss" target="Mr. Huxter">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Henfrey" target="Mr. Hall">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Henfrey" target="Fearenside">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Henfrey" target="the Invisible Man">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henfrey" target="Tap">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henfrey" target="The Vicar">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henfrey" target="Mr. Bunting">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Henfrey" target="Mr. Huxter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the Invisible Man" target="Mr. Bunting">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="the Invisible Man" target="Griffin">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="the Invisible Man" target="Adye">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Adye" target="the Voice">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="the Voice" target="Jaffers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bunting" target="Mrs. Bunting">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Bunting" target="Mr. Hall">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Bunting" target="Cuss—“incredible">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Hall" target="Mr. Huxter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hall" target="Mr. Wadgers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hall" target="Jaffers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hall" target="Tap">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hall" target="The Vicar">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jaffers" target="Mr. Huxter">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Huxter" target="Fearenside">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fearenside" target="Fearenside—“You’d">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Silas Durgan" target="Miss Statchell">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

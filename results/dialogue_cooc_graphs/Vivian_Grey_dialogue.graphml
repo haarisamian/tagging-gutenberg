@@ -1,0 +1,853 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="quotes" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Vivian">
+      <data key="d0">704</data>
+    </node>
+    <node id="Essper">
+      <data key="d0">171</data>
+    </node>
+    <node id="Mr. Beckendorff">
+      <data key="d0">127</data>
+    </node>
+    <node id="Mrs. Felix Lorraine">
+      <data key="d0">127</data>
+    </node>
+    <node id="Thames">
+      <data key="d0">92</data>
+    </node>
+    <node id="Mr. Sievers">
+      <data key="d0">68</data>
+    </node>
+    <node id="Lady Madeleine">
+      <data key="d0">66</data>
+    </node>
+    <node id="Miss Fane">
+      <data key="d0">57</data>
+    </node>
+    <node id="Madame Carolina">
+      <data key="d0">34</data>
+    </node>
+    <node id="Mr. St. George">
+      <data key="d0">33</data>
+    </node>
+    <node id="Miss Graves">
+      <data key="d0">29</data>
+    </node>
+    <node id="the Chevalier de Boeffleurs">
+      <data key="d0">23</data>
+    </node>
+    <node id="Mr. Cleveland">
+      <data key="d0">22</data>
+    </node>
+    <node id="Boreall">
+      <data key="d0">19</data>
+    </node>
+    <node id="St. Anthony">
+      <data key="d0">19</data>
+    </node>
+    <node id="Miss Gusset">
+      <data key="d0">17</data>
+    </node>
+    <node id="the Marchioness">
+      <data key="d0">13</data>
+    </node>
+    <node id="Mrs. Million">
+      <data key="d0">12</data>
+    </node>
+    <node id="De Boeffleurs">
+      <data key="d0">10</data>
+    </node>
+    <node id="St. John">
+      <data key="d0">10</data>
+    </node>
+    <node id="Mr. Cayenne">
+      <data key="d0">10</data>
+    </node>
+    <node id="Violet">
+      <data key="d0">9</data>
+    </node>
+    <node id="Mr. Toad">
+      <data key="d0">9</data>
+    </node>
+    <node id="Toadey">
+      <data key="d0">9</data>
+    </node>
+    <node id="Mr. Fitzloom">
+      <data key="d0">8</data>
+    </node>
+    <node id="Mrs. Grey">
+      <data key="d0">8</data>
+    </node>
+    <node id="Ernest Clay">
+      <data key="d0">7</data>
+    </node>
+    <node id="Mr. Mackaw">
+      <data key="d0">7</data>
+    </node>
+    <node id="Sir Berdmore">
+      <data key="d0">7</data>
+    </node>
+    <node id="Clara">
+      <data key="d0">7</data>
+    </node>
+    <node id="Mr. St. Leger">
+      <data key="d0">6</data>
+    </node>
+    <node id="Smith">
+      <data key="d0">6</data>
+    </node>
+    <node id="The Marquess">
+      <data key="d0">5</data>
+    </node>
+    <node id="Poynings">
+      <data key="d0">5</data>
+    </node>
+    <node id="Omnes">
+      <data key="d0">5</data>
+    </node>
+    <node id="a Pulcinello">
+      <data key="d0">5</data>
+    </node>
+    <node id="Max">
+      <data key="d0">4</data>
+    </node>
+    <node id="Lord Courtown">
+      <data key="d0">4</data>
+    </node>
+    <node id="Baron von Konigstein">
+      <data key="d0">4</data>
+    </node>
+    <node id="Fool Stanhope">
+      <data key="d0">4</data>
+    </node>
+    <node id="Cynthia Courtown">
+      <data key="d0">4</data>
+    </node>
+    <node id="Theophilus">
+      <data key="d0">4</data>
+    </node>
+    <node id="Rudesheimer">
+      <data key="d0">3</data>
+    </node>
+    <node id="Emilius von Aslingen">
+      <data key="d0">3</data>
+    </node>
+    <node id="Mr. Hargrave">
+      <data key="d0">3</data>
+    </node>
+    <node id="Mr. Puff">
+      <data key="d0">3</data>
+    </node>
+    <node id="Disraeli">
+      <data key="d0">3</data>
+    </node>
+    <node id="the Grand Duke of Johannisberger">
+      <data key="d0">3</data>
+    </node>
+    <node id="Mr. von Aslingen">
+      <data key="d0">3</data>
+    </node>
+    <node id="the Count of Eberstein">
+      <data key="d0">2</data>
+    </node>
+    <node id="Etherege">
+      <data key="d0">2</data>
+    </node>
+    <node id="Dallas">
+      <data key="d0">2</data>
+    </node>
+    <node id="Bulwer">
+      <data key="d0">2</data>
+    </node>
+    <node id="Mr. Burke">
+      <data key="d0">2</data>
+    </node>
+    <node id="Master Rodolph">
+      <data key="d0">2</data>
+    </node>
+    <node id="Wilhelm">
+      <data key="d0">2</data>
+    </node>
+    <node id="Lord Beaconsfield">
+      <data key="d0">2</data>
+    </node>
+    <node id="Ernstorff">
+      <data key="d0">2</data>
+    </node>
+    <node id="Sir Christopher">
+      <data key="d0">2</data>
+    </node>
+    <node id="Eardley">
+      <data key="d0">2</data>
+    </node>
+    <node id="the Greyites">
+      <data key="d0">2</data>
+    </node>
+    <node id="halloed King">
+      <data key="d0">2</data>
+    </node>
+    <node id="Mr. Buckhurst Stanhope">
+      <data key="d0">2</data>
+    </node>
+    <node id="Laura">
+      <data key="d0">2</data>
+    </node>
+    <node id="Sir Hanway Etherington">
+      <data key="d0">2</data>
+    </node>
+    <node id="Johnson secundus">
+      <data key="d0">2</data>
+    </node>
+    <node id="Little Lilliput">
+      <data key="d0">2</data>
+    </node>
+    <node id="von Bernstorff">
+      <data key="d0">2</data>
+    </node>
+    <node id="Clement Marot">
+      <data key="d0">2</data>
+    </node>
+    <node id="the Jagd Junker">
+      <data key="d0">2</data>
+    </node>
+    <node id="little Geisenheim">
+      <data key="d0">2</data>
+    </node>
+    <node id="Aurelia">
+      <data key="d0">2</data>
+    </node>
+    <node id="Asmanshausen">
+      <data key="d0">2</data>
+    </node>
+    <node id="Grafenberg">
+      <data key="d0">2</data>
+    </node>
+    <node id="LIST OF ILLUSTRATIONS">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr. Grumbleton">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lady Louisa">
+      <data key="d0">1</data>
+    </node>
+    <node id="Miss Gusser">
+      <data key="d0">1</data>
+    </node>
+    <node id="Ranger">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mallett">
+      <data key="d0">1</data>
+    </node>
+    <node id="a Mr. John Brown">
+      <data key="d0">1</data>
+    </node>
+    <node id="Marquis">
+      <data key="d0">1</data>
+    </node>
+    <node id="the modest Miss Macdonald">
+      <data key="d0">1</data>
+    </node>
+    <node id="Liberal Snake">
+      <data key="d0">1</data>
+    </node>
+    <node id="Count von Altenburgh">
+      <data key="d0">1</data>
+    </node>
+    <node id="the Toadeys">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lady Almack">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr. Leverton">
+      <data key="d0">1</data>
+    </node>
+    <node id="Bustle">
+      <data key="d0">1</data>
+    </node>
+    <node id="The Misses Fitzloom">
+      <data key="d0">1</data>
+    </node>
+    <node id="Phillippa">
+      <data key="d0">1</data>
+    </node>
+    <node id="Hunsdrich">
+      <data key="d0">1</data>
+    </node>
+    <node id="Away">
+      <data key="d0">1</data>
+    </node>
+    <node id="Adolph">
+      <data key="d0">1</data>
+    </node>
+    <node id="Von Sohnspeer">
+      <data key="d0">1</data>
+    </node>
+    <node id="Medora">
+      <data key="d0">1</data>
+    </node>
+    <node id="The indignant Baron von Chronicle">
+      <data key="d0">1</data>
+    </node>
+    <node id="Reisenburg">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Vivian" target="Mrs. Grey">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Vivian" target="Johnson secundus">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Vivian" target="Smith">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Vivian" target="Etherege">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="Poynings">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Vivian" target="Ranger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="the Greyites">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="Dallas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="Theophilus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="Eardley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="Mallett">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Vivian" target="a Mr. John Brown">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="Marquis">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Vivian" target="Mrs. Felix Lorraine">
+      <data key="d1">51</data>
+    </edge>
+    <edge source="Vivian" target="Lady Louisa">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="The Marquess">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="Cynthia Courtown">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="Miss Gusser">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="Mrs. Million">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Vivian" target="Mr. Grumbleton">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Vivian" target="Boreall">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Vivian" target="the modest Miss Macdonald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="Mr. Hargrave">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="Lady Almack">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="Mr. Leverton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="Mr. Toad">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="Sir Christopher">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="the Toadeys">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="Lord Courtown">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Vivian" target="Sir Berdmore">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Vivian" target="Lord Beaconsfield">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="Mr. Cleveland">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="Vivian" target="the Marchioness">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Vivian" target="Miss Graves">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="Mr. Mackaw">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Vivian" target="Ernest Clay">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Vivian" target="Thames">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="Count von Altenburgh">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="Ernstorff">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Vivian" target="Essper">
+      <data key="d1">99</data>
+    </edge>
+    <edge source="Vivian" target="the Grand Duke of Johannisberger">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Vivian" target="Lady Madeleine">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="Vivian" target="Miss Fane">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Vivian" target="Mr. St. George">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Vivian" target="Violet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="the Chevalier de Boeffleurs">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Vivian" target="De Boeffleurs">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Vivian" target="St. Anthony">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="little Geisenheim">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="Asmanshausen">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Vivian" target="Rudesheimer">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Vivian" target="Grafenberg">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="Away">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="Master Rodolph">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Vivian" target="Max">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Vivian" target="Mr. Sievers">
+      <data key="d1">40</data>
+    </edge>
+    <edge source="Vivian" target="the Jagd Junker">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="Mr. Beckendorff">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="Vivian" target="Clara">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Vivian" target="Little Lilliput">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="Madame Carolina">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Vivian" target="Mr. von Aslingen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="Emilius von Aslingen">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Vivian" target="Medora">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vivian" target="Von Sohnspeer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Essper" target="Lady Madeleine">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Essper" target="Miss Fane">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Essper" target="Mr. St. George">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Essper" target="the Grand Duke of Johannisberger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Essper" target="Hunsdrich">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Essper" target="Away">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Essper" target="Adolph">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Essper" target="Wilhelm">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Essper" target="the Jagd Junker">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Essper" target="Mr. Sievers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Essper" target="Mr. Beckendorff">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Essper" target="Reisenburg">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Beckendorff" target="Clara">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Beckendorff" target="Little Lilliput">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Beckendorff" target="Max">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Beckendorff" target="Madame Carolina">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Beckendorff" target="Reisenburg">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Felix Lorraine" target="Lady Louisa">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Felix Lorraine" target="Laura">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Felix Lorraine" target="Liberal Snake">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Felix Lorraine" target="Mr. Cleveland">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mrs. Felix Lorraine" target="Thames">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Madeleine" target="the Grand Duke of Johannisberger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Madeleine" target="Miss Fane">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Lady Madeleine" target="Ernstorff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Madeleine" target="Mr. St. George">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lady Madeleine" target="Violet">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lady Madeleine" target="Mr. Fitzloom">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Lady Madeleine" target="Baron von Konigstein">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Madeleine" target="Omnes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Madeleine" target="Mr. St. Leger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Fane" target="Violet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Fane" target="Mr. St. George">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Miss Fane" target="Mr. Fitzloom">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Miss Fane" target="the Chevalier de Boeffleurs">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Fane" target="St. John">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Fane" target="St. Anthony">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Miss Fane" target="Mr. St. Leger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Fane" target="Omnes">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Madame Carolina" target="Medora">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Madame Carolina" target="Von Sohnspeer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Madame Carolina" target="Mr. Burke">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Madame Carolina" target="Clement Marot">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. St. George" target="De Boeffleurs">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Mr. St. George" target="the Chevalier de Boeffleurs">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Mr. St. George" target="St. John">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. St. George" target="St. Anthony">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. St. George" target="a Pulcinello">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. St. George" target="Violet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. St. George" target="Mr. St. Leger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. St. George" target="Aurelia">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Miss Graves" target="Toadey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Graves" target="Miss Gusset">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Miss Graves" target="Lord Courtown">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Graves" target="the Marchioness">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="the Chevalier de Boeffleurs" target="Count von Altenburgh">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the Chevalier de Boeffleurs" target="Ernstorff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the Chevalier de Boeffleurs" target="Baron von Konigstein">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the Chevalier de Boeffleurs" target="De Boeffleurs">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Boreall" target="the modest Miss Macdonald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="St. Anthony" target="St. John">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="St. Anthony" target="Omnes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="St. Anthony" target="Violet">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="St. Anthony" target="Mr. St. Leger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Gusset" target="the Toadeys">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Gusset" target="Toadey">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="the Marchioness" target="Mr. Mackaw">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Million" target="Sir Hanway Etherington">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="De Boeffleurs" target="Baron von Konigstein">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="St. John" target="Mr. St. Leger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="St. John" target="Violet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Cayenne" target="Fool Stanhope">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Cayenne" target="Mr. Puff">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Cayenne" target="Ernest Clay">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Cayenne" target="Cynthia Courtown">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Cayenne" target="Sir Hanway Etherington">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Violet" target="The Misses Fitzloom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Violet" target="Mr. St. Leger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Toad" target="Mr. Leverton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Toad" target="Bustle">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Fitzloom" target="Baron von Konigstein">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Grey" target="LIST OF ILLUSTRATIONS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Grey" target="Smith">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Grey" target="a Mr. John Brown">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ernest Clay" target="Cynthia Courtown">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Berdmore" target="Lord Courtown">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Berdmore" target="Lord Beaconsfield">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Berdmore" target="The Marquess">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Smith" target="Johnson secundus">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Smith" target="Dallas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="The Marquess" target="Cynthia Courtown">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Poynings" target="Etherege">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Poynings" target="the Greyites">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Poynings" target="Dallas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="a Pulcinello" target="The Misses Fitzloom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Max" target="Master Rodolph">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Courtown" target="Lord Beaconsfield">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Fool Stanhope" target="Mr. Buckhurst Stanhope">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cynthia Courtown" target="Laura">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Theophilus" target="halloed King">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rudesheimer" target="Grafenberg">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rudesheimer" target="the Grand Duke of Johannisberger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rudesheimer" target="Asmanshausen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rudesheimer" target="Hunsdrich">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Emilius von Aslingen" target="von Bernstorff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hargrave" target="Lady Almack">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Disraeli" target="Bulwer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Disraeli" target="LIST OF ILLUSTRATIONS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the Grand Duke of Johannisberger" target="little Geisenheim">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. von Aslingen" target="the Count of Eberstein">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the Count of Eberstein" target="von Bernstorff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dallas" target="Ranger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Burke" target="The indignant Baron von Chronicle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Wilhelm" target="Adolph">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Wilhelm" target="Phillippa">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sir Christopher" target="Liberal Snake">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Eardley" target="halloed King">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Buckhurst Stanhope" target="Miss Gusser">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clement Marot" target="The indignant Baron von Chronicle">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

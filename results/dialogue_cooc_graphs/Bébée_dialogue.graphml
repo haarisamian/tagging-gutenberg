@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="quotes" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Bébée">
+      <data key="d0">276</data>
+    </node>
+    <node id="Flamen">
+      <data key="d0">39</data>
+    </node>
+    <node id="Gretchen">
+      <data key="d0">11</data>
+    </node>
+    <node id="Jeannot">
+      <data key="d0">10</data>
+    </node>
+    <node id="Annémie">
+      <data key="d0">9</data>
+    </node>
+    <node id="Antoine">
+      <data key="d0">7</data>
+    </node>
+    <node id="Reine">
+      <data key="d0">6</data>
+    </node>
+    <node id="Lisa">
+      <data key="d0">5</data>
+    </node>
+    <node id="Father Francis">
+      <data key="d0">4</data>
+    </node>
+    <node id="Franz">
+      <data key="d0">3</data>
+    </node>
+    <node id="Trine">
+      <data key="d0">3</data>
+    </node>
+    <node id="old Jehan">
+      <data key="d0">2</data>
+    </node>
+    <node id="LOUISA DE LA RAMÉE">
+      <data key="d0">1</data>
+    </node>
+    <node id="Jeanne">
+      <data key="d0">1</data>
+    </node>
+    <node id="Old Gran'mère Bishot">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mère Krebs">
+      <data key="d0">1</data>
+    </node>
+    <node id="Marthe">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Bébée" target="LOUISA DE LA RAMÉE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bébée" target="Father Francis">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bébée" target="Trine">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bébée" target="Jeanne">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bébée" target="Antoine">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Bébée" target="Annémie">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Bébée" target="Jeannot">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Bébée" target="Franz">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Bébée" target="Reine">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Bébée" target="Lisa">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Bébée" target="Flamen">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="Bébée" target="Gretchen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bébée" target="old Jehan">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Flamen" target="Father Francis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flamen" target="Gretchen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flamen" target="old Jehan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Flamen" target="Jeannot">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gretchen" target="Jeannot">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gretchen" target="Annémie">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Annémie" target="Antoine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Father Francis" target="Mère Krebs">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Trine" target="Old Gran'mère Bishot">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Trine" target="Jeanne">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Old Gran'mère Bishot" target="Marthe">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mère Krebs" target="Marthe">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

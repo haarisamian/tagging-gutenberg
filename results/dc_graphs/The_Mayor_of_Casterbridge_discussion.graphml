@@ -1,0 +1,680 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d1" for="node" attr.name="dc_in" attr.type="long" />
+  <key id="d0" for="node" attr.name="dc_out" attr.type="long" />
+  <graph edgedefault="directed">
+    <node id="Everdene">
+      <data key="d0">2</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lawyer Joyce">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Jipp">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Heaven">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Josephus">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Jopp">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+    </node>
+    <node id="Wide - oh">
+      <data key="d0">3</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Lizabeth - Jane">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Mr. Newson">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Joan Dummett">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Susan">
+      <data key="d0">1</data>
+      <data key="d1">11</data>
+    </node>
+    <node id="Christopher Coney">
+      <data key="d0">8</data>
+      <data key="d1">9</data>
+    </node>
+    <node id="Benjamin Brownlet">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Chippendale">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Toad">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Elizabeth - Jane">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Goda’mighty">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Jack Griggs">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+    </node>
+    <node id="jocular Mr. Tubber">
+      <data key="d0">2</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Samuel Wakely">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="d’ye">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Miss Newson">
+      <data key="d0">0</data>
+      <data key="d1">13</data>
+    </node>
+    <node id="Blowbody">
+      <data key="d0">2</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Dr. Bath">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Longways">
+      <data key="d0">15</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="hisself">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Alderman Tubber">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Providence">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Maister Farfrae">
+      <data key="d0">1</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Newson">
+      <data key="d0">25</data>
+      <data key="d1">10</data>
+    </node>
+    <node id="Job">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Dear Sir">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="T’other">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Izzy">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Kitty">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Joe">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Farfrae">
+      <data key="d0">54</data>
+      <data key="d1">122</data>
+    </node>
+    <node id="Peter">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Lucetta">
+      <data key="d0">77</data>
+      <data key="d1">52</data>
+    </node>
+    <node id="the Apostle Paul">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Bulge">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Billy Wills">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="The Scotchman">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Buzzford">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Charl">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Yopper">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Kitson">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="God">
+      <data key="d0">0</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="Mr. ” Fall">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="bonnie Peg">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Whittle">
+      <data key="d0">11</data>
+      <data key="d1">10</data>
+    </node>
+    <node id="Lord">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+    </node>
+    <node id="Bellerophon">
+      <data key="d0">2</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Mrs. Bath">
+      <data key="d0">2</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="old Dame Ledlow">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Buzz">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Stannidge">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="David">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Martha">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Father">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="George">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Mr. Vatt">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Doctor Chalkfield">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Miss Henchard">
+      <data key="d0">0</data>
+      <data key="d1">9</data>
+    </node>
+    <node id="Miss Templeman">
+      <data key="d0">5</data>
+      <data key="d1">11</data>
+    </node>
+    <node id="Stubberd">
+      <data key="d0">2</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Mr. Grower">
+      <data key="d0">5</data>
+      <data key="d1">10</data>
+    </node>
+    <node id="Mr. Henchet">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Nance">
+      <data key="d0">4</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Mrs. Cuxsom">
+      <data key="d0">20</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Henchard">
+      <data key="d0">216</data>
+      <data key="d1">129</data>
+    </node>
+    <node id="Miss Newson”—and Donald">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Susan?—I">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Wiltshire">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mother Cuxsom">
+      <data key="d0">2</data>
+      <data key="d1">7</data>
+    </node>
+    <edge source="Everdene" target="Henchard">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Lawyer Joyce" target="Farfrae">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jopp" target="Henchard">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Jopp" target="Farfrae">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Jopp" target="Lucetta">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Wide - oh" target="Henchard">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Susan" target="Henchard">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Christopher Coney" target="Billy Wills">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Christopher Coney" target="Goda’mighty">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Christopher Coney" target="Nance">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Christopher Coney" target="Longways">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Christopher Coney" target="Farfrae">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Christopher Coney" target="hisself">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Christopher Coney" target="T’other">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Chippendale" target="Josephus">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="jocular Mr. Tubber" target="Henchard">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="jocular Mr. Tubber" target="Jack Griggs">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Blowbody" target="Mr. Grower">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Dr. Bath" target="Henchard">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Longways" target="Christopher Coney">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Longways" target="Henchard">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Longways" target="Lord">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Longways" target="Mother Cuxsom">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Longways" target="God">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Longways" target="d’ye">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Alderman Tubber" target="Henchard">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Alderman Tubber" target="Jack Griggs">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Maister Farfrae" target="Whittle">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Newson" target="Henchard">
+      <data key="d2">16</data>
+    </edge>
+    <edge source="Newson" target="Farfrae">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Farfrae" target="Christopher Coney">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Farfrae" target="God">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Farfrae" target="Susan">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Farfrae" target="Miss Newson">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Farfrae" target="Henchard">
+      <data key="d2">30</data>
+    </edge>
+    <edge source="Farfrae" target="Miss Newson”—and Donald">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Farfrae" target="Maister Farfrae">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Farfrae" target="Yopper">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Farfrae" target="Kitson">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Farfrae" target="Mr. Bulge">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Farfrae" target="Benjamin Brownlet">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Farfrae" target="Lucetta">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Farfrae" target="Miss Templeman">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Farfrae" target="Newson">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Farfrae" target="Whittle">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Lucetta" target="Henchard">
+      <data key="d2">47</data>
+    </edge>
+    <edge source="Lucetta" target="Farfrae">
+      <data key="d2">26</data>
+    </edge>
+    <edge source="Lucetta" target="Miss Henchard">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lucetta" target="Kitty">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lucetta" target="Miss Templeman">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lucetta" target="Jopp">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Buzzford" target="Christopher Coney">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Charl" target="Joe">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Charl" target="George">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Whittle" target="Henchard">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Whittle" target="Farfrae">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Whittle" target="Maister Farfrae">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Whittle" target="Mr. Henchet">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bellerophon" target="Henchard">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bellerophon" target="Everdene">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Bath" target="Farfrae">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Bath" target="Lucetta">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Vatt" target="Farfrae">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mr. Vatt" target="Doctor Chalkfield">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Miss Templeman" target="Henchard">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Stubberd" target="Lucetta">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Stubberd" target="Mr. Grower">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Grower" target="Stubberd">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Grower" target="Blowbody">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Grower" target="Jopp">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Grower" target="Peter">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Nance" target="Henchard">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Nance" target="Farfrae">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Nance" target="Buzz">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Cuxsom" target="Mother Cuxsom">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mrs. Cuxsom" target="Henchard">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Mrs. Cuxsom" target="Christopher Coney">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Cuxsom" target="old Dame Ledlow">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Cuxsom" target="Toad">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Cuxsom" target="Joan Dummett">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Cuxsom" target="Longways">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Cuxsom" target="Jack Griggs">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Cuxsom" target="Martha">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Cuxsom" target="Peter">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Cuxsom" target="Lord">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Cuxsom" target="Jopp">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Henchard" target="Lord">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Henchard" target="Jipp">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Henchard" target="Jopp">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Henchard" target="Heaven">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Henchard" target="bonnie Peg">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Henchard" target="Farfrae">
+      <data key="d2">74</data>
+    </edge>
+    <edge source="Henchard" target="Susan">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Henchard" target="Susan?—I">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Henchard" target="Job">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Henchard" target="God">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Henchard" target="Providence">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Henchard" target="Miss Henchard">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Henchard" target="Miss Newson">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Henchard" target="Lizabeth - Jane">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Henchard" target="Whittle">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Henchard" target="Maister Farfrae">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Henchard" target="Jack Griggs">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Henchard" target="Dear Sir">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Henchard" target="Newson">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Henchard" target="Mr. Newson">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Henchard" target="Nance">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Henchard" target="Father">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Henchard" target="Lucetta">
+      <data key="d2">45</data>
+    </edge>
+    <edge source="Henchard" target="Miss Templeman">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Henchard" target="The Scotchman">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Henchard" target="Mr. ” Fall">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Henchard" target="Stubberd">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Henchard" target="Mr. Grower">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Henchard" target="the Apostle Paul">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Henchard" target="Stannidge">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Henchard" target="Samuel Wakely">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Henchard" target="Wiltshire">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Henchard" target="David">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Henchard" target="d’ye">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Henchard" target="Izzy">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Henchard" target="Elizabeth - Jane">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mother Cuxsom" target="Lord">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mother Cuxsom" target="Newson">
+      <data key="d2">1</data>
+    </edge>
+  </graph>
+</graphml>

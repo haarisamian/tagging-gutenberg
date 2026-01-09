@@ -1,0 +1,490 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="quotes" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Mary">
+      <data key="d0">529</data>
+    </node>
+    <node id="Jem">
+      <data key="d0">200</data>
+    </node>
+    <node id="Job">
+      <data key="d0">152</data>
+    </node>
+    <node id="John Barton">
+      <data key="d0">80</data>
+    </node>
+    <node id="Mrs. Wilson">
+      <data key="d0">58</data>
+    </node>
+    <node id="Mr. Carson">
+      <data key="d0">55</data>
+    </node>
+    <node id="Sally">
+      <data key="d0">43</data>
+    </node>
+    <node id="Sophy">
+      <data key="d0">33</data>
+    </node>
+    <node id="Esther">
+      <data key="d0">29</data>
+    </node>
+    <node id="Charley">
+      <data key="d0">19</data>
+    </node>
+    <node id="Alice">
+      <data key="d0">19</data>
+    </node>
+    <node id="Jane Wilson">
+      <data key="d0">18</data>
+    </node>
+    <node id="Mrs. Jones">
+      <data key="d0">16</data>
+    </node>
+    <node id="Amy">
+      <data key="d0">11</data>
+    </node>
+    <node id="Mr. Bridgenorth">
+      <data key="d0">11</data>
+    </node>
+    <node id="Mrs. Davenport">
+      <data key="d0">11</data>
+    </node>
+    <node id="Margaret">
+      <data key="d0">8</data>
+    </node>
+    <node id="Mr. Duncombe">
+      <data key="d0">7</data>
+    </node>
+    <node id="John Slater">
+      <data key="d0">6</data>
+    </node>
+    <node id="Helen">
+      <data key="d0">6</data>
+    </node>
+    <node id="Mrs. Sturgis">
+      <data key="d0">6</data>
+    </node>
+    <node id="Mrs. Barton">
+      <data key="d0">5</data>
+    </node>
+    <node id="ELLIOTT">
+      <data key="d0">5</data>
+    </node>
+    <node id="Miss Simmonds">
+      <data key="d0">5</data>
+    </node>
+    <node id="Will Wilson">
+      <data key="d0">4</data>
+    </node>
+    <node id="God">
+      <data key="d0">4</data>
+    </node>
+    <node id="Hoo">
+      <data key="d0">3</data>
+    </node>
+    <node id="Deep">
+      <data key="d0">3</data>
+    </node>
+    <node id="MILMAN">
+      <data key="d0">3</data>
+    </node>
+    <node id="BURNS">
+      <data key="d0">2</data>
+    </node>
+    <node id="SOUTHEY">
+      <data key="d0">2</data>
+    </node>
+    <node id="Old Job">
+      <data key="d0">2</data>
+    </node>
+    <node id="Daddy">
+      <data key="d0">1</data>
+    </node>
+    <node id="Elizabeth Cleghorn Gaskell">
+      <data key="d0">1</data>
+    </node>
+    <node id="DEBUT">
+      <data key="d0">1</data>
+    </node>
+    <node id="Wicklife">
+      <data key="d0">1</data>
+    </node>
+    <node id="MRS . NORTON">
+      <data key="d0">1</data>
+    </node>
+    <node id="Chaucer">
+      <data key="d0">1</data>
+    </node>
+    <node id="COLERIDGE">
+      <data key="d0">1</data>
+    </node>
+    <node id="BARTON 'S NIGHT - ERRAND">
+      <data key="d0">1</data>
+    </node>
+    <node id="WITHER">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mrs. Hemans">
+      <data key="d0">1</data>
+    </node>
+    <node id="Nurse">
+      <data key="d0">1</data>
+    </node>
+    <node id="Reynard">
+      <data key="d0">1</data>
+    </node>
+    <node id="Susan">
+      <data key="d0">1</data>
+    </node>
+    <node id="WORDSWORTH">
+      <data key="d0">1</data>
+    </node>
+    <node id="William Wilson">
+      <data key="d0">1</data>
+    </node>
+    <node id="Barbara Allen">
+      <data key="d0">1</data>
+    </node>
+    <node id="Ben Sturgis">
+      <data key="d0">1</data>
+    </node>
+    <node id="BYRON">
+      <data key="d0">1</data>
+    </node>
+    <node id="BARRY CORNWALL">
+      <data key="d0">1</data>
+    </node>
+    <node id="Project Gutenberg">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Mary" target="Mrs. Wilson">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="Mary" target="Alice">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Mary" target="John Barton">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Mary" target="Jem">
+      <data key="d1">75</data>
+    </edge>
+    <edge source="Mary" target="God">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mary" target="Mr. Carson">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mary" target="DEBUT">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mary" target="Mrs. Davenport">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mary" target="Sally">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="Mary" target="Margaret">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Mary" target="MRS . NORTON">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mary" target="Job">
+      <data key="d1">54</data>
+    </edge>
+    <edge source="Mary" target="Old Job">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mary" target="ELLIOTT">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mary" target="Jane Wilson">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Mary" target="WITHER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mary" target="Deep">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mary" target="Esther">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Mary" target="Will Wilson">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mary" target="COLERIDGE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mary" target="Mrs. Jones">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Mary" target="Charley">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Mary" target="Barbara Allen">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mary" target="William Wilson">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mary" target="Mr. Bridgenorth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mary" target="Mrs. Sturgis">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Mary" target="MILMAN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mary" target="Ben Sturgis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mary" target="Mr. Duncombe">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mary" target="BARRY CORNWALL">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mary" target="Project Gutenberg">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jem" target="Alice">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Jem" target="God">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jem" target="Hoo">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Jem" target="Job">
+      <data key="d1">41</data>
+    </edge>
+    <edge source="Jem" target="John Barton">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Jem" target="Daddy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Jem" target="Wicklife">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Jem" target="DEBUT">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jem" target="Chaucer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jem" target="Esther">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jem" target="Mr. Carson">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Jem" target="Sophy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jem" target="Sally">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jem" target="Reynard">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jem" target="Mrs. Wilson">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jem" target="ELLIOTT">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jem" target="SOUTHEY">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jem" target="BYRON">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jem" target="Mr. Duncombe">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Jem" target="Jane Wilson">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Job" target="Mrs. Davenport">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Job" target="John Barton">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Job" target="Will Wilson">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Job" target="Margaret">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Job" target="Sally">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Job" target="Mr. Bridgenorth">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Job" target="Mrs. Jones">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Job" target="Charley">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Job" target="WORDSWORTH">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Job" target="Mrs. Wilson">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Job" target="Mr. Carson">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Job" target="BYRON">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John Barton" target="Mrs. Wilson">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="John Barton" target="Alice">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John Barton" target="Amy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John Barton" target="Chaucer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John Barton" target="Sally">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="John Barton" target="Old Job">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John Barton" target="ELLIOTT">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John Barton" target="BURNS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John Barton" target="Esther">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="John Barton" target="Mr. Carson">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Mrs. Wilson" target="Elizabeth Cleghorn Gaskell">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Wilson" target="Mrs. Barton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Wilson" target="Sally">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Wilson" target="Jane Wilson">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mrs. Wilson" target="Alice">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Wilson" target="Mrs. Davenport">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mrs. Wilson" target="Susan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Wilson" target="Charley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Wilson" target="Mr. Bridgenorth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Carson" target="Amy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Carson" target="Deep">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Carson" target="Sally">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Carson" target="God">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Carson" target="Sophy">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Carson" target="COLERIDGE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Carson" target="Jane Wilson">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Carson" target="BARRY CORNWALL">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sally" target="Miss Simmonds">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sally" target="Jane Wilson">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sally" target="SOUTHEY">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sophy" target="Amy">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Sophy" target="Helen">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Sophy" target="Nurse">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sophy" target="Mrs. Hemans">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Charley" target="Mrs. Jones">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alice" target="Mrs. Barton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alice" target="God">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jane Wilson" target="Reynard">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Amy" target="Helen">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Bridgenorth" target="MILMAN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John Slater" target="God">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John Slater" target="BARTON 'S NIGHT - ERRAND">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Sturgis" target="Ben Sturgis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Will Wilson" target="BARTON 'S NIGHT - ERRAND">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BURNS" target="WITHER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Susan" target="WORDSWORTH">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="quotes" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="God">
+      <data key="d0">7</data>
+    </node>
+    <node id="Juan">
+      <data key="d0">7</data>
+    </node>
+    <node id="Wretch">
+      <data key="d0">5</data>
+    </node>
+    <node id="Alonzo">
+      <data key="d0">5</data>
+    </node>
+    <node id="Satan">
+      <data key="d0">5</data>
+    </node>
+    <node id="Rise">
+      <data key="d0">3</data>
+    </node>
+    <node id="Butler">
+      <data key="d0">3</data>
+    </node>
+    <node id="Satana">
+      <data key="d0">3</data>
+    </node>
+    <node id="Brother St Joseph">
+      <data key="d0">2</data>
+    </node>
+    <node id="The Superior">
+      <data key="d0">2</data>
+    </node>
+    <node id="What?”--“You">
+      <data key="d0">1</data>
+    </node>
+    <node id="Madrid">
+      <data key="d0">1</data>
+    </node>
+    <node id="Agag">
+      <data key="d0">1</data>
+    </node>
+    <node id="HENRY THE SIXTH">
+      <data key="d0">1</data>
+    </node>
+    <node id="COLMAN">
+      <data key="d0">1</data>
+    </node>
+    <node id="Elizabeth">
+      <data key="d0">1</data>
+    </node>
+    <node id="God God">
+      <data key="d0">1</data>
+    </node>
+    <edge source="God" target="Madrid">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Wretch">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Satan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="What?”--“You">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="God" target="Alonzo">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="God" target="Rise">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Juan" target="Alonzo">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Juan" target="COLMAN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Juan" target="HENRY THE SIXTH">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Juan" target="Elizabeth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Juan" target="God God">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Wretch" target="Madrid">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Wretch" target="Satana">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Satan" target="Brother St Joseph">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Satan" target="God God">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Satan" target="The Superior">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rise" target="COLMAN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Butler" target="HENRY THE SIXTH">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Butler" target="Elizabeth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Satana" target="Agag">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Brother St Joseph" target="Agag">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

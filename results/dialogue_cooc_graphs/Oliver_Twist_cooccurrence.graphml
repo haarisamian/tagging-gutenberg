@@ -1,0 +1,2206 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="mentions" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Oliver">
+      <data key="d0">3042</data>
+    </node>
+    <node id="Sikes">
+      <data key="d0">1023</data>
+    </node>
+    <node id="Fagin">
+      <data key="d0">974</data>
+    </node>
+    <node id="Mr. Bumble">
+      <data key="d0">664</data>
+    </node>
+    <node id="Rose">
+      <data key="d0">561</data>
+    </node>
+    <node id="Mr. Brownlow">
+      <data key="d0">481</data>
+    </node>
+    <node id="Noah">
+      <data key="d0">451</data>
+    </node>
+    <node id="Monks">
+      <data key="d0">371</data>
+    </node>
+    <node id="Nancy">
+      <data key="d0">357</data>
+    </node>
+    <node id="Master Bates">
+      <data key="d0">319</data>
+    </node>
+    <node id="Mr. Giles">
+      <data key="d0">286</data>
+    </node>
+    <node id="Toby">
+      <data key="d0">205</data>
+    </node>
+    <node id="Mr. Grimwig">
+      <data key="d0">194</data>
+    </node>
+    <node id="Harry">
+      <data key="d0">167</data>
+    </node>
+    <node id="Mrs. Maylie">
+      <data key="d0">149</data>
+    </node>
+    <node id="Mr. Bolter">
+      <data key="d0">142</data>
+    </node>
+    <node id="Mrs. Corney">
+      <data key="d0">131</data>
+    </node>
+    <node id="Brittles">
+      <data key="d0">104</data>
+    </node>
+    <node id="Mrs. Mann">
+      <data key="d0">103</data>
+    </node>
+    <node id="Mr. Sowerberry">
+      <data key="d0">96</data>
+    </node>
+    <node id="Charlotte">
+      <data key="d0">93</data>
+    </node>
+    <node id="Mr. Sikes">
+      <data key="d0">81</data>
+    </node>
+    <node id="Mr. Chitling">
+      <data key="d0">81</data>
+    </node>
+    <node id="Mr. Losberne">
+      <data key="d0">80</data>
+    </node>
+    <node id="Mrs. Sowerberry">
+      <data key="d0">78</data>
+    </node>
+    <node id="Mr. Gamfield">
+      <data key="d0">67</data>
+    </node>
+    <node id="Mr. Fang">
+      <data key="d0">64</data>
+    </node>
+    <node id="Blathers">
+      <data key="d0">64</data>
+    </node>
+    <node id="Barney">
+      <data key="d0">60</data>
+    </node>
+    <node id="the Dodger">
+      <data key="d0">58</data>
+    </node>
+    <node id="Tom">
+      <data key="d0">46</data>
+    </node>
+    <node id="Mrs. Bedwin">
+      <data key="d0">44</data>
+    </node>
+    <node id="Spyers">
+      <data key="d0">43</data>
+    </node>
+    <node id="Mr. Dawkins">
+      <data key="d0">43</data>
+    </node>
+    <node id="Chickweed">
+      <data key="d0">40</data>
+    </node>
+    <node id="old Sally">
+      <data key="d0">39</data>
+    </node>
+    <node id="Mr. Limbkins">
+      <data key="d0">27</data>
+    </node>
+    <node id="Dick">
+      <data key="d0">25</data>
+    </node>
+    <node id="Duff">
+      <data key="d0">24</data>
+    </node>
+    <node id="The Jew">
+      <data key="d0">22</data>
+    </node>
+    <node id="Miss Maylie">
+      <data key="d0">21</data>
+    </node>
+    <node id="God">
+      <data key="d0">20</data>
+    </node>
+    <node id="Work’us">
+      <data key="d0">18</data>
+    </node>
+    <node id="Bet">
+      <data key="d0">18</data>
+    </node>
+    <node id="Kags">
+      <data key="d0">16</data>
+    </node>
+    <node id="the Clerkinwell Sessions">
+      <data key="d0">13</data>
+    </node>
+    <node id="Mr. Browlow">
+      <data key="d0">12</data>
+    </node>
+    <node id="Jack Dawkins">
+      <data key="d0">10</data>
+    </node>
+    <node id="Messrs. Blathers">
+      <data key="d0">10</data>
+    </node>
+    <node id="Heaven">
+      <data key="d0">9</data>
+    </node>
+    <node id="Little Oliver">
+      <data key="d0">8</data>
+    </node>
+    <node id="Mr. Lively">
+      <data key="d0">8</data>
+    </node>
+    <node id="Cod">
+      <data key="d0">8</data>
+    </node>
+    <node id="Agnes">
+      <data key="d0">7</data>
+    </node>
+    <node id="Mr. Maylie">
+      <data key="d0">6</data>
+    </node>
+    <node id="the Cripples">
+      <data key="d0">6</data>
+    </node>
+    <node id="Mr.">
+      <data key="d0">6</data>
+    </node>
+    <node id="Lor">
+      <data key="d0">6</data>
+    </node>
+    <node id="Mrs. Bolter">
+      <data key="d0">6</data>
+    </node>
+    <node id="Faguey">
+      <data key="d0">5</data>
+    </node>
+    <node id="Mother">
+      <data key="d0">4</data>
+    </node>
+    <node id="Aunt">
+      <data key="d0">4</data>
+    </node>
+    <node id="Phil Barker">
+      <data key="d0">4</data>
+    </node>
+    <node id="Hem">
+      <data key="d0">4</data>
+    </node>
+    <node id="Spiders">
+      <data key="d0">3</data>
+    </node>
+    <node id="Lord">
+      <data key="d0">3</data>
+    </node>
+    <node id="Mr. Grannett">
+      <data key="d0">3</data>
+    </node>
+    <node id="Damme">
+      <data key="d0">3</data>
+    </node>
+    <node id="Nature">
+      <data key="d0">3</data>
+    </node>
+    <node id="Beadle">
+      <data key="d0">3</data>
+    </node>
+    <node id="THE READER">
+      <data key="d0">3</data>
+    </node>
+    <node id="Edward Leeford">
+      <data key="d0">3</data>
+    </node>
+    <node id="Ben">
+      <data key="d0">3</data>
+    </node>
+    <node id="Mr. Corney">
+      <data key="d0">3</data>
+    </node>
+    <node id="Poor Oliver">
+      <data key="d0">3</data>
+    </node>
+    <node id="Susan">
+      <data key="d0">2</data>
+    </node>
+    <node id="So">
+      <data key="d0">2</data>
+    </node>
+    <node id="Hallo">
+      <data key="d0">2</data>
+    </node>
+    <node id="Tom White">
+      <data key="d0">2</data>
+    </node>
+    <node id="Oliver White">
+      <data key="d0">2</data>
+    </node>
+    <node id="Jove">
+      <data key="d0">2</data>
+    </node>
+    <node id="CONNECTED WITH WHOM VARIOUS PLEASANT MATTERS">
+      <data key="d0">2</data>
+    </node>
+    <node id="Joe">
+      <data key="d0">2</data>
+    </node>
+    <node id="Jacob">
+      <data key="d0">2</data>
+    </node>
+    <node id="THE PLEASANT OLD GENTLEMAN">
+      <data key="d0">2</data>
+    </node>
+    <node id="Beak">
+      <data key="d0">1</data>
+    </node>
+    <node id="Hullo">
+      <data key="d0">1</data>
+    </node>
+    <node id="YOUNG GENTLEMAN Oliver">
+      <data key="d0">1</data>
+    </node>
+    <node id="Morrice">
+      <data key="d0">1</data>
+    </node>
+    <node id="D’ye">
+      <data key="d0">1</data>
+    </node>
+    <node id="Bayton">
+      <data key="d0">1</data>
+    </node>
+    <node id="Char">
+      <data key="d0">1</data>
+    </node>
+    <node id="Unwin">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr. B.">
+      <data key="d0">1</data>
+    </node>
+    <node id="Beadles">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mrs. Thingummy">
+      <data key="d0">1</data>
+    </node>
+    <node id="Oliver!—seventy shillins">
+      <data key="d0">1</data>
+    </node>
+    <node id="Juries">
+      <data key="d0">1</data>
+    </node>
+    <node id="APPERTAINING TO THIS HISTORY XIV COMPRISING FURTHER PARTICULARS OF OLIVER ’S STAY AT MR . BROWNLOW">
+      <data key="d0">1</data>
+    </node>
+    <node id="NANCY XVII OLIVER">
+      <data key="d0">1</data>
+    </node>
+    <node id="OLIVER CONTINUES REFRACTORY VIII OLIVER">
+      <data key="d0">1</data>
+    </node>
+    <node id="A NOTABLE PLAN">
+      <data key="d0">1</data>
+    </node>
+    <node id="Charles Dickens Contents">
+      <data key="d0">1</data>
+    </node>
+    <node id="OLIVER MINGLES WITH NEW ASSOCIATES">
+      <data key="d0">1</data>
+    </node>
+    <node id="Angels">
+      <data key="d0">1</data>
+    </node>
+    <node id="Dobody">
+      <data key="d0">1</data>
+    </node>
+    <node id="Biss Dadsy">
+      <data key="d0">1</data>
+    </node>
+    <node id="Pretty creetur">
+      <data key="d0">1</data>
+    </node>
+    <node id="French">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lined">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lauk">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mealy">
+      <data key="d0">1</data>
+    </node>
+    <node id="CHAPTER XIII">
+      <data key="d0">1</data>
+    </node>
+    <node id="CHAPTER XIV">
+      <data key="d0">1</data>
+    </node>
+    <node id="Dear heart">
+      <data key="d0">1</data>
+    </node>
+    <node id="CHAPTER X. OLIVER">
+      <data key="d0">1</data>
+    </node>
+    <node id="Jack Ketch">
+      <data key="d0">1</data>
+    </node>
+    <node id="Martin">
+      <data key="d0">1</data>
+    </node>
+    <node id="Scarce">
+      <data key="d0">1</data>
+    </node>
+    <node id="Newgate">
+      <data key="d0">1</data>
+    </node>
+    <node id="Thoroughly">
+      <data key="d0">1</data>
+    </node>
+    <node id="Hush">
+      <data key="d0">1</data>
+    </node>
+    <node id="Quiet">
+      <data key="d0">1</data>
+    </node>
+    <node id="Gently">
+      <data key="d0">1</data>
+    </node>
+    <node id="Anny">
+      <data key="d0">1</data>
+    </node>
+    <node id="Martha">
+      <data key="d0">1</data>
+    </node>
+    <node id="TREATS ON A VERY POOR SUBJECT">
+      <data key="d0">1</data>
+    </node>
+    <node id="peaching">
+      <data key="d0">1</data>
+    </node>
+    <node id="Wud of Bister Fagid">
+      <data key="d0">1</data>
+    </node>
+    <node id="Becky">
+      <data key="d0">1</data>
+    </node>
+    <node id="Ecod">
+      <data key="d0">1</data>
+    </node>
+    <node id="Hampton">
+      <data key="d0">1</data>
+    </node>
+    <node id="These">
+      <data key="d0">1</data>
+    </node>
+    <node id="young Green">
+      <data key="d0">1</data>
+    </node>
+    <node id="THE EXPEDITION">
+      <data key="d0">1</data>
+    </node>
+    <node id="THE NARRATIVE">
+      <data key="d0">1</data>
+    </node>
+    <node id="Staunch">
+      <data key="d0">1</data>
+    </node>
+    <node id="Irish">
+      <data key="d0">1</data>
+    </node>
+    <node id="Neptune">
+      <data key="d0">1</data>
+    </node>
+    <node id="Pincher">
+      <data key="d0">1</data>
+    </node>
+    <node id="Misses">
+      <data key="d0">1</data>
+    </node>
+    <node id="Vice">
+      <data key="d0">1</data>
+    </node>
+    <node id="Brittle">
+      <data key="d0">1</data>
+    </node>
+    <node id="Doctor Losberne">
+      <data key="d0">1</data>
+    </node>
+    <node id="PROCEEDS WITH">
+      <data key="d0">1</data>
+    </node>
+    <node id="Parliament">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr. Slout">
+      <data key="d0">1</data>
+    </node>
+    <node id="Faugh">
+      <data key="d0">1</data>
+    </node>
+    <node id="MR">
+      <data key="d0">1</data>
+    </node>
+    <node id="Young Twist">
+      <data key="d0">1</data>
+    </node>
+    <node id="Goodness">
+      <data key="d0">1</data>
+    </node>
+    <node id="CONTAINING THE UNSATISFACTORY RESULT OF OLIVER ’S ADVENTURE">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr. Harry">
+      <data key="d0">1</data>
+    </node>
+    <node id="Halloa">
+      <data key="d0">1</data>
+    </node>
+    <node id="Death">
+      <data key="d0">1</data>
+    </node>
+    <node id="A YOUNG GENTLEMAN WHO NOW ARRIVES UPON THE SCENE">
+      <data key="d0">1</data>
+    </node>
+    <node id="Frob the cuttry">
+      <data key="d0">1</data>
+    </node>
+    <node id="EXHIBITING DECIDED MARKS OF GENIUS">
+      <data key="d0">1</data>
+    </node>
+    <node id="Pockets">
+      <data key="d0">1</data>
+    </node>
+    <node id="CHAPTER XLIV">
+      <data key="d0">1</data>
+    </node>
+    <node id="_">
+      <data key="d0">1</data>
+    </node>
+    <node id="Brass">
+      <data key="d0">1</data>
+    </node>
+    <node id="FRESH DISCOVERIES">
+      <data key="d0">1</data>
+    </node>
+    <node id="Illness">
+      <data key="d0">1</data>
+    </node>
+    <node id="FATAL CONSEQUENCES">
+      <data key="d0">1</data>
+    </node>
+    <node id="the Mussulman">
+      <data key="d0">1</data>
+    </node>
+    <node id="Dow">
+      <data key="d0">1</data>
+    </node>
+    <node id="Providence">
+      <data key="d0">1</data>
+    </node>
+    <node id="King">
+      <data key="d0">1</data>
+    </node>
+    <node id="G">
+      <data key="d0">1</data>
+    </node>
+    <node id="Young Bates">
+      <data key="d0">1</data>
+    </node>
+    <node id="Strokes">
+      <data key="d0">1</data>
+    </node>
+    <node id="Edwin Leeford">
+      <data key="d0">1</data>
+    </node>
+    <node id="Edward Leeford’s">
+      <data key="d0">1</data>
+    </node>
+    <node id="Master Oliver">
+      <data key="d0">1</data>
+    </node>
+    <node id="Monks—“has">
+      <data key="d0">1</data>
+    </node>
+    <node id="Guilty">
+      <data key="d0">1</data>
+    </node>
+    <node id="Steady">
+      <data key="d0">1</data>
+    </node>
+    <node id="CHAPTER LIII">
+      <data key="d0">1</data>
+    </node>
+    <node id="Rose Fleming">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Oliver" target="A NOTABLE PLAN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="APPERTAINING TO THIS HISTORY XIV COMPRISING FURTHER PARTICULARS OF OLIVER ’S STAY AT MR . BROWNLOW">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Beadle">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Oliver" target="CONNECTED WITH WHOM VARIOUS PLEASANT MATTERS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Fagin">
+      <data key="d1">36</data>
+    </edge>
+    <edge source="Oliver" target="Harry">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Oliver" target="Monks">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Oliver" target="Mr. Brownlow">
+      <data key="d1">74</data>
+    </edge>
+    <edge source="Oliver" target="Mr. Bumble">
+      <data key="d1">72</data>
+    </edge>
+    <edge source="Oliver" target="Mr. Grimwig">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Oliver" target="NANCY XVII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Nancy">
+      <data key="d1">33</data>
+    </edge>
+    <edge source="Oliver" target="OLIVER CONTINUES REFRACTORY VIII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="OLIVER MINGLES WITH NEW ASSOCIATES">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Rose">
+      <data key="d1">46</data>
+    </edge>
+    <edge source="Oliver" target="THE READER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="The Jew">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Oliver" target="Nature">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Mrs. Mann">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Oliver" target="Susan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Poor Oliver">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Oliver" target="Mr. Limbkins">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Oliver" target="Mr. Gamfield">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Oliver" target="Oliver!—seventy shillins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Mr. Sowerberry">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="Oliver" target="Mrs. Sowerberry">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="Oliver" target="Charlotte">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Oliver" target="Work’us">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Oliver" target="Noah">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Oliver" target="D’ye">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Mr.">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Char">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="God">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Oliver" target="Dick">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Oliver" target="Angels">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="YOUNG GENTLEMAN Oliver">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Hullo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Beak">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Morrice">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Jack Dawkins">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Oliver" target="Mr. Dawkins">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Oliver" target="the Dodger">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Oliver" target="Master Bates">
+      <data key="d1">34</data>
+    </edge>
+    <edge source="Oliver" target="Bet">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Oliver" target="French">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="CHAPTER X. OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Mr. Fang">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="THE NARRATIVE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Pretty creetur">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Hem">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Mrs. Bedwin">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Oliver" target="Tom White">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Oliver White">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Oliver" target="Sikes">
+      <data key="d1">81</data>
+    </edge>
+    <edge source="Oliver" target="CHAPTER XIV">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Dear heart">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Mealy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Spiders">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Tom">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Oliver" target="Mr. Chitling">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Mr. Sikes">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Oliver" target="Toby">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Oliver" target="Edward Leeford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Hampton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Ecod">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Barney">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Oliver" target="Mrs. Corney">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Oliver" target="PROCEEDS WITH">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Brittles">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Oliver" target="Mr. Giles">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="Oliver" target="Mr. Losberne">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="Oliver" target="Blathers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Spyers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Duff">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Oliver" target="Messrs. Blathers">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Oliver" target="Chickweed">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Mrs. Maylie">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="Oliver" target="Miss Maylie">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Oliver" target="A YOUNG GENTLEMAN WHO NOW ARRIVES UPON THE SCENE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Mr. Maylie">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Oliver" target="Young Twist">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="old Sally">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Heaven">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="EXHIBITING DECIDED MARKS OF GENIUS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Agnes">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Oliver" target="Edwin Leeford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oliver" target="Master Oliver">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sikes" target="Mr. Sowerberry">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sikes" target="Fagin">
+      <data key="d1">64</data>
+    </edge>
+    <edge source="Sikes" target="Nancy">
+      <data key="d1">53</data>
+    </edge>
+    <edge source="Sikes" target="Mr. Sikes">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Sikes" target="Barney">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Sikes" target="The Jew">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sikes" target="Hallo">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sikes" target="Little Oliver">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sikes" target="Master Bates">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Sikes" target="Toby">
+      <data key="d1">31</data>
+    </edge>
+    <edge source="Sikes" target="These">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sikes" target="Tom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sikes" target="Edward Leeford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sikes" target="Faguey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sikes" target="the Cripples">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sikes" target="Monks">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Sikes" target="Jack Ketch">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sikes" target="Mr. Dawkins">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sikes" target="the Dodger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sikes" target="Mr. Chitling">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sikes" target="Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sikes" target="Heaven">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sikes" target="Rose">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sikes" target="Damme">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sikes" target="Noah">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Sikes" target="Mr. Bolter">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sikes" target="God">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sikes" target="Mr. Brownlow">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="A NOTABLE PLAN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="APPERTAINING TO THIS HISTORY XIV COMPRISING FURTHER PARTICULARS OF OLIVER ’S STAY AT MR . BROWNLOW">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="Beadle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="CONNECTED WITH WHOM VARIOUS PLEASANT MATTERS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="Harry">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="Monks">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Fagin" target="Mr. Brownlow">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Fagin" target="Mr. Bumble">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="Mr. Grimwig">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Fagin" target="NANCY XVII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="Nancy">
+      <data key="d1">34</data>
+    </edge>
+    <edge source="Fagin" target="OLIVER CONTINUES REFRACTORY VIII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="OLIVER MINGLES WITH NEW ASSOCIATES">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="Rose">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Fagin" target="THE READER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="The Jew">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Fagin" target="Jack Dawkins">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Fagin" target="Staunch">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="Master Bates">
+      <data key="d1">39</data>
+    </edge>
+    <edge source="Fagin" target="Mr. Sikes">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Fagin" target="Barney">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Fagin" target="Hallo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="Mr. Dawkins">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Fagin" target="Bet">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Fagin" target="Mr. Chitling">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Fagin" target="Toby">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Fagin" target="Tom">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Fagin" target="the Dodger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="Mr. Lively">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="the Cripples">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Fagin" target="Mr. Giles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="Damme">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="Heaven">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="Frob the cuttry">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="Charlotte">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Fagin" target="Noah">
+      <data key="d1">36</data>
+    </edge>
+    <edge source="Fagin" target="Mrs. Bolter">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Fagin" target="Mr. Bolter">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="Fagin" target="Cod">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="_">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="G">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="Kags">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="King">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="Mr. Losberne">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fagin" target="Guilty">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bumble" target="A NOTABLE PLAN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bumble" target="APPERTAINING TO THIS HISTORY XIV COMPRISING FURTHER PARTICULARS OF OLIVER ’S STAY AT MR . BROWNLOW">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Beadle">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Bumble" target="CONNECTED WITH WHOM VARIOUS PLEASANT MATTERS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Harry">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Monks">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Mr. Brownlow">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Mr. Grimwig">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Mr. Bumble" target="NANCY XVII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Nancy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bumble" target="OLIVER CONTINUES REFRACTORY VIII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bumble" target="OLIVER MINGLES WITH NEW ASSOCIATES">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Rose">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bumble" target="THE READER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bumble" target="The Jew">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Mrs. Mann">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Susan">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Lor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Beadles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Mr. B.">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Mr. Limbkins">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Mr. Gamfield">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Oliver!—seventy shillins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Mr. Sowerberry">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Juries">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Hem">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Mrs. Sowerberry">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Bayton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Noah">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Charlotte">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Lauk">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bumble" target="the Clerkinwell Sessions">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Dick">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Mrs. Bedwin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Mrs. Corney">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Mr. Grannett">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Bumble" target="old Sally">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Mr. Slout">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Mr.">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Faugh">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Parliament">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Young Twist">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bumble" target="MR">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bumble" target="Master Oliver">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rose" target="A NOTABLE PLAN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rose" target="APPERTAINING TO THIS HISTORY XIV COMPRISING FURTHER PARTICULARS OF OLIVER ’S STAY AT MR . BROWNLOW">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rose" target="Beadle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rose" target="CONNECTED WITH WHOM VARIOUS PLEASANT MATTERS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rose" target="Harry">
+      <data key="d1">34</data>
+    </edge>
+    <edge source="Rose" target="Monks">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Rose" target="Mr. Brownlow">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Rose" target="Mr. Grimwig">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Rose" target="NANCY XVII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rose" target="Nancy">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Rose" target="OLIVER CONTINUES REFRACTORY VIII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rose" target="OLIVER MINGLES WITH NEW ASSOCIATES">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rose" target="THE READER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rose" target="The Jew">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rose" target="Mrs. Maylie">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Rose" target="Aunt">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rose" target="Blathers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Rose" target="Chickweed">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Rose" target="Spyers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rose" target="Mr. Losberne">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Rose" target="Miss Maylie">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Rose" target="Mother">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rose" target="CONTAINING THE UNSATISFACTORY RESULT OF OLIVER ’S ADVENTURE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rose" target="Heaven">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Rose" target="Mr. Maylie">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rose" target="Mr. Giles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rose" target="God">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rose" target="Mrs. Bedwin">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Rose" target="Duff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rose" target="Messrs. Blathers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rose" target="CHAPTER XLIV">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rose" target="Dick">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="A NOTABLE PLAN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="APPERTAINING TO THIS HISTORY XIV COMPRISING FURTHER PARTICULARS OF OLIVER ’S STAY AT MR . BROWNLOW">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Beadle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="CONNECTED WITH WHOM VARIOUS PLEASANT MATTERS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Harry">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Monks">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Mr. Grimwig">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="NANCY XVII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Nancy">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="OLIVER CONTINUES REFRACTORY VIII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="OLIVER MINGLES WITH NEW ASSOCIATES">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="THE READER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="The Jew">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Mr. Fang">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Mrs. Bedwin">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Tom White">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Oliver White">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Master Bates">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="CHAPTER XIV">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Mealy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Mr. Losberne">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Miss Maylie">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Mrs. Maylie">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Duff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Messrs. Blathers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Edward Leeford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Heaven">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Mr. Maylie">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Agnes">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Edwin Leeford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Edward Leeford’s">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="God">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Brittles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Brownlow" target="Mr. Giles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Noah" target="Mr. Sowerberry">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Noah" target="Mrs. Sowerberry">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Noah" target="Charlotte">
+      <data key="d1">41</data>
+    </edge>
+    <edge source="Noah" target="D’ye">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Noah" target="Work’us">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Noah" target="Lor">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Noah" target="Char">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Noah" target="Mr.">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Noah" target="Parliament">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Noah" target="Cod">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Noah" target="the Cripples">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Noah" target="Barney">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Noah" target="Pockets">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Noah" target="Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Noah" target="Mr. Bolter">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Noah" target="Mrs. Bolter">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Noah" target="Master Bates">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Noah" target="Mr. Dawkins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Noah" target="Nancy">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Monks" target="A NOTABLE PLAN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Monks" target="APPERTAINING TO THIS HISTORY XIV COMPRISING FURTHER PARTICULARS OF OLIVER ’S STAY AT MR . BROWNLOW">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Monks" target="Beadle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Monks" target="CONNECTED WITH WHOM VARIOUS PLEASANT MATTERS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Monks" target="Harry">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Monks" target="Mr. Grimwig">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Monks" target="NANCY XVII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Monks" target="Nancy">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Monks" target="OLIVER CONTINUES REFRACTORY VIII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Monks" target="OLIVER MINGLES WITH NEW ASSOCIATES">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Monks" target="THE READER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Monks" target="The Jew">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Monks" target="French">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Monks" target="Master Bates">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Monks" target="the Dodger">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Monks" target="Mrs. Corney">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Monks" target="MR">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Monks" target="Hem">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Monks" target="Heaven">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Monks" target="Mr. Browlow">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Monks" target="Mr. Losberne">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Monks" target="Agnes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Monks" target="old Sally">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Monks" target="God">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nancy" target="A NOTABLE PLAN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nancy" target="APPERTAINING TO THIS HISTORY XIV COMPRISING FURTHER PARTICULARS OF OLIVER ’S STAY AT MR . BROWNLOW">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nancy" target="Beadle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nancy" target="CONNECTED WITH WHOM VARIOUS PLEASANT MATTERS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nancy" target="Harry">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nancy" target="Mr. Grimwig">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nancy" target="NANCY XVII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nancy" target="OLIVER CONTINUES REFRACTORY VIII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nancy" target="OLIVER MINGLES WITH NEW ASSOCIATES">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nancy" target="THE READER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nancy" target="The Jew">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Nancy" target="Bet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nancy" target="Mr. Sikes">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Nancy" target="Mr. Fang">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nancy" target="Master Bates">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Nancy" target="Barney">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nancy" target="So">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nancy" target="These">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nancy" target="Toby">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Nancy" target="Mr. Chitling">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nancy" target="Miss Maylie">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Nancy" target="Heaven">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nancy" target="Mr. Losberne">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nancy" target="Mrs. Maylie">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nancy" target="Duff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nancy" target="Messrs. Blathers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nancy" target="CHAPTER XLIV">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Master Bates" target="French">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Master Bates" target="the Dodger">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Master Bates" target="Mr. Sikes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Master Bates" target="Poor Oliver">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Master Bates" target="Bet">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Master Bates" target="Mr. Dawkins">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Master Bates" target="So">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Master Bates" target="peaching">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Master Bates" target="Jack Dawkins">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Master Bates" target="Mr. Chitling">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Master Bates" target="Tom">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Master Bates" target="Newgate">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Master Bates" target="Thoroughly">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Master Bates" target="Gently">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Master Bates" target="Hush">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Master Bates" target="Quiet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Master Bates" target="Scarce">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Master Bates" target="Toby">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Master Bates" target="Mr. Bolter">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Master Bates" target="Kags">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Giles" target="Brittles">
+      <data key="d1">35</data>
+    </edge>
+    <edge source="Mr. Giles" target="Brittle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Giles" target="Mr. Losberne">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Mr. Giles" target="Doctor Losberne">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Giles" target="Mrs. Maylie">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Giles" target="Misses">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Giles" target="Blathers">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Giles" target="Duff">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Giles" target="Messrs. Blathers">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Giles" target="Spyers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Giles" target="Mr. Harry">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Giles" target="Mr. Maylie">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Giles" target="Harry">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Toby" target="Mr. Sikes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Toby" target="Barney">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Toby" target="Faguey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Toby" target="Mr. Chitling">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Toby" target="Damme">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Toby" target="Tom">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Toby" target="Kags">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Toby" target="Mr. Bolter">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Grimwig" target="A NOTABLE PLAN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Grimwig" target="APPERTAINING TO THIS HISTORY XIV COMPRISING FURTHER PARTICULARS OF OLIVER ’S STAY AT MR . BROWNLOW">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Grimwig" target="Beadle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Grimwig" target="CONNECTED WITH WHOM VARIOUS PLEASANT MATTERS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Grimwig" target="Harry">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Grimwig" target="NANCY XVII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Grimwig" target="OLIVER CONTINUES REFRACTORY VIII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Grimwig" target="OLIVER MINGLES WITH NEW ASSOCIATES">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Grimwig" target="THE READER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Grimwig" target="The Jew">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Grimwig" target="CHAPTER XIV">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Grimwig" target="Mrs. Bedwin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Grimwig" target="Miss Maylie">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Grimwig" target="Mr. Losberne">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Grimwig" target="Monks—“has">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Harry" target="A NOTABLE PLAN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Harry" target="APPERTAINING TO THIS HISTORY XIV COMPRISING FURTHER PARTICULARS OF OLIVER ’S STAY AT MR . BROWNLOW">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Harry" target="Beadle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Harry" target="CONNECTED WITH WHOM VARIOUS PLEASANT MATTERS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Harry" target="NANCY XVII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Harry" target="OLIVER CONTINUES REFRACTORY VIII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Harry" target="OLIVER MINGLES WITH NEW ASSOCIATES">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Harry" target="THE READER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Harry" target="The Jew">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Harry" target="Mrs. Maylie">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Harry" target="Mr. Losberne">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Harry" target="CONTAINING THE UNSATISFACTORY RESULT OF OLIVER ’S ADVENTURE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Harry" target="Rose Fleming">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Maylie" target="Doctor Losberne">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Maylie" target="Mr. Losberne">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Mrs. Maylie" target="Blathers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Maylie" target="Chickweed">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Maylie" target="Duff">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Maylie" target="Messrs. Blathers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Maylie" target="God">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Maylie" target="Mrs. Bedwin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bolter" target="Mrs. Bolter">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Bolter" target="Cod">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bolter" target="G">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bolter" target="Kags">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Bolter" target="King">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bolter" target="Mr. Chitling">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mrs. Corney" target="Mr. Corney">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Corney" target="Anny">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Corney" target="Mr. Slout">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Corney" target="old Sally">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Brittles" target="Brittle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Brittles" target="Mr. Losberne">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Brittles" target="Blathers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Brittles" target="Duff">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Brittles" target="Messrs. Blathers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Mann" target="Susan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Mann" target="Lor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Mann" target="Beadles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Mann" target="Mr. B.">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Mann" target="Unwin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Mann" target="Lauk">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Mann" target="the Clerkinwell Sessions">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Mann" target="Dick">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Mr. Sowerberry" target="Mrs. Sowerberry">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Mr. Sowerberry" target="Charlotte">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Sowerberry" target="Mr.">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charlotte" target="D’ye">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charlotte" target="Mrs. Sowerberry">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Charlotte" target="Char">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charlotte" target="the Cripples">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Charlotte" target="Lor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Sikes" target="Illness">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Chitling" target="the Dodger">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Chitling" target="Bet">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Mr. Chitling" target="Jack Dawkins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Chitling" target="Tom">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Chitling" target="Thoroughly">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Chitling" target="Mr. Dawkins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Losberne" target="Duff">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Losberne" target="Messrs. Blathers">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Losberne" target="Blathers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Losberne" target="Spyers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Losberne" target="Mr.">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Losberne" target="Chickweed">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Sowerberry" target="Mr.">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Sowerberry" target="Cod">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Sowerberry" target="Mr. Gamfield">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Gamfield" target="Mr. Limbkins">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Blathers" target="Duff">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Blathers" target="Messrs. Blathers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Blathers" target="Chickweed">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Blathers" target="Spyers">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Barney" target="Biss Dadsy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Barney" target="Dobody">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Barney" target="Wud of Bister Fagid">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Barney" target="the Cripples">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Barney" target="Phil Barker">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Barney" target="Frob the cuttry">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the Dodger" target="Mr. Dawkins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the Dodger" target="Faguey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the Dodger" target="Tom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tom" target="Bet">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Tom" target="Mr. Dawkins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tom" target="Gently">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tom" target="Hush">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tom" target="Quiet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tom" target="Scarce">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Bedwin" target="Hem">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Bedwin" target="Dear heart">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Spyers" target="Chickweed">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Dawkins" target="Newgate">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Dawkins" target="Bet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chickweed" target="Duff">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Chickweed" target="Messrs. Blathers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Duff" target="Messrs. Blathers">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="The Jew" target="A NOTABLE PLAN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="The Jew" target="APPERTAINING TO THIS HISTORY XIV COMPRISING FURTHER PARTICULARS OF OLIVER ’S STAY AT MR . BROWNLOW">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="The Jew" target="Beadle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="The Jew" target="CONNECTED WITH WHOM VARIOUS PLEASANT MATTERS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="The Jew" target="NANCY XVII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="The Jew" target="OLIVER CONTINUES REFRACTORY VIII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="The Jew" target="OLIVER MINGLES WITH NEW ASSOCIATES">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="The Jew" target="THE READER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Maylie" target="Mr. Browlow">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Maylie" target="God">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Work’us" target="Lor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Kags" target="G">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Kags" target="King">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Kags" target="Young Bates">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Browlow" target="Heaven">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Heaven" target="Edward Leeford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Lively" target="the Cripples">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Agnes" target="Edwin Leeford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Faguey" target="Jove">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Faguey" target="Martin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Beadle" target="A NOTABLE PLAN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Beadle" target="APPERTAINING TO THIS HISTORY XIV COMPRISING FURTHER PARTICULARS OF OLIVER ’S STAY AT MR . BROWNLOW">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Beadle" target="CONNECTED WITH WHOM VARIOUS PLEASANT MATTERS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Beadle" target="NANCY XVII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Beadle" target="OLIVER CONTINUES REFRACTORY VIII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Beadle" target="OLIVER MINGLES WITH NEW ASSOCIATES">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Beadle" target="THE READER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="THE READER" target="A NOTABLE PLAN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="THE READER" target="APPERTAINING TO THIS HISTORY XIV COMPRISING FURTHER PARTICULARS OF OLIVER ’S STAY AT MR . BROWNLOW">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="THE READER" target="CONNECTED WITH WHOM VARIOUS PLEASANT MATTERS">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="THE READER" target="NANCY XVII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="THE READER" target="OLIVER CONTINUES REFRACTORY VIII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="THE READER" target="OLIVER MINGLES WITH NEW ASSOCIATES">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="THE READER" target="CHAPTER XIII">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Corney" target="Goodness">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jove" target="Martin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="CONNECTED WITH WHOM VARIOUS PLEASANT MATTERS" target="A NOTABLE PLAN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="CONNECTED WITH WHOM VARIOUS PLEASANT MATTERS" target="APPERTAINING TO THIS HISTORY XIV COMPRISING FURTHER PARTICULARS OF OLIVER ’S STAY AT MR . BROWNLOW">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="CONNECTED WITH WHOM VARIOUS PLEASANT MATTERS" target="NANCY XVII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="CONNECTED WITH WHOM VARIOUS PLEASANT MATTERS" target="OLIVER CONTINUES REFRACTORY VIII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="CONNECTED WITH WHOM VARIOUS PLEASANT MATTERS" target="OLIVER MINGLES WITH NEW ASSOCIATES">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="CONNECTED WITH WHOM VARIOUS PLEASANT MATTERS" target="CHAPTER XIII">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="APPERTAINING TO THIS HISTORY XIV COMPRISING FURTHER PARTICULARS OF OLIVER ’S STAY AT MR . BROWNLOW" target="A NOTABLE PLAN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="APPERTAINING TO THIS HISTORY XIV COMPRISING FURTHER PARTICULARS OF OLIVER ’S STAY AT MR . BROWNLOW" target="NANCY XVII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="APPERTAINING TO THIS HISTORY XIV COMPRISING FURTHER PARTICULARS OF OLIVER ’S STAY AT MR . BROWNLOW" target="OLIVER CONTINUES REFRACTORY VIII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="APPERTAINING TO THIS HISTORY XIV COMPRISING FURTHER PARTICULARS OF OLIVER ’S STAY AT MR . BROWNLOW" target="OLIVER MINGLES WITH NEW ASSOCIATES">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="NANCY XVII OLIVER" target="A NOTABLE PLAN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="NANCY XVII OLIVER" target="OLIVER CONTINUES REFRACTORY VIII OLIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="NANCY XVII OLIVER" target="OLIVER MINGLES WITH NEW ASSOCIATES">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="OLIVER CONTINUES REFRACTORY VIII OLIVER" target="A NOTABLE PLAN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="OLIVER CONTINUES REFRACTORY VIII OLIVER" target="OLIVER MINGLES WITH NEW ASSOCIATES">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="A NOTABLE PLAN" target="OLIVER MINGLES WITH NEW ASSOCIATES">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dobody" target="Biss Dadsy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Scarce" target="Gently">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Scarce" target="Hush">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Scarce" target="Quiet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hush" target="Gently">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hush" target="Quiet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Quiet" target="Gently">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Neptune" target="Pincher">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King" target="G">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

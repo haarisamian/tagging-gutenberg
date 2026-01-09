@@ -1,0 +1,5903 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d1" for="node" attr.name="dc_in" attr.type="long" />
+  <key id="d0" for="node" attr.name="dc_out" attr.type="long" />
+  <graph edgedefault="directed">
+    <node id="Patsey">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Stickney">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Tom Smith">
+      <data key="d0">3</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Fairoaks Martha">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="the Sylphide">
+      <data key="d0">4</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Lady Diana">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Saint Cloud">
+      <data key="d0">0</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Mrs. O’Leary">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="poor Foker , who went away without any beat of drum , or offer to drive the coach out of Oxbridge">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Queen Charlotte">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Bungay">
+      <data key="d0">34</data>
+      <data key="d1">39</data>
+    </node>
+    <node id="Pendennis!—Pendennis">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Jack Holt">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Trefoil">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Santiago">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Hessians">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Hannibal">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Jeames">
+      <data key="d0">1</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Tom Spring,—the Black">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="young Poldoody">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="the Duke of Kent">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Bunion">
+      <data key="d0">0</data>
+      <data key="d1">12</data>
+    </node>
+    <node id="Sir James">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="First Love">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Judkin">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Neaera">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Coralie">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Lord Bangbanagher">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Prometheus">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Jack Bludyer">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Portman">
+      <data key="d0">10</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Taglioni">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Fribsby">
+      <data key="d0">4</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Frosch">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mason">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Emly Budd">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Charles">
+      <data key="d0">0</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Cutts">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Paley">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Tom Tufthunt">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="the Thiers">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Jack Hobnell">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Glowry">
+      <data key="d0">3</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Hodge">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Trelawney">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="De Profundis">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Dad">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Amelia - Ann">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Andromache">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Jordan">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Dr. Johnson">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Erith">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Miss O’Neill">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Grindle">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Fido">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Grisi">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Eales">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="the Lord Chamberlain">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mar">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Lord Magnus Charters">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Wordsworth">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Pendennis,—In">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Honly">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Caleb Balderstone">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Quel preux Chevalier">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Jove">
+      <data key="d0">5</data>
+      <data key="d1">31</data>
+    </node>
+    <node id="Miss F">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Martha">
+      <data key="d0">10</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Faith">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Monsieur le Colonel">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Jones">
+      <data key="d0">7</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Haller">
+      <data key="d0">1</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Helen">
+      <data key="d0">8</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Bob Acres">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Pendennis?”—Strong">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Pen">
+      <data key="d0">12</data>
+      <data key="d1">10</data>
+    </node>
+    <node id="Mick">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Hamlet">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Warrington?—angcored">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Clown">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Tuesday">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Harthur">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="captain Broadwood">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Cobden">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Suffolk Bloundells">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="O Mong Roy">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Laura">
+      <data key="d0">233</data>
+      <data key="d1">142</data>
+    </node>
+    <node id="Mr. Stultz">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Sir Derby Oaks">
+      <data key="d0">0</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="Governor">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mademoiselle Sauterelle">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Monsieur Dubois">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Pa">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+    </node>
+    <node id="Miss De la Bosky">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Doolan">
+      <data key="d0">2</data>
+      <data key="d1">8</data>
+    </node>
+    <node id="Parlons d’autre">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Fortnum">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mahomet">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Beauty">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Jack Costigan">
+      <data key="d0">5</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Hoolan">
+      <data key="d0">4</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Mr. Dolphin">
+      <data key="d0">2</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Old Bows">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Molloy Maloney">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Marshal Massena">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Moufflet">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Tommy">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Angelo">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Saint Dominies">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Papa">
+      <data key="d0">0</data>
+      <data key="d1">18</data>
+    </node>
+    <node id="Counts">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Condy Roony">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Old Pendennis">
+      <data key="d0">3</data>
+      <data key="d1">5</data>
+    </node>
+    <node id="Maecenas">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Betsy">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Balls">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Lady Rosherville">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Hobbler">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Bonner—“poor">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Dear Wenham,”—he">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="John Armstrong">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="The Tredyddlums">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Amory">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lord Levant">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Georges">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Meejor">
+      <data key="d0">3</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Mr. Paxton">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Pentweazle">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Captain Broadfoot">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Stunning Warrington">
+      <data key="d0">2</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Artises">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Pekin">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Venus">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Finucane">
+      <data key="d0">3</data>
+      <data key="d1">8</data>
+    </node>
+    <node id="Paul de Kock">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Captain Sumph">
+      <data key="d0">10</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="the Poker">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Saint Bartholomew">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss">
+      <data key="d0">0</data>
+      <data key="d1">8</data>
+    </node>
+    <node id="Miss Rouncy">
+      <data key="d0">0</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="Maman">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Jessamy">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Harrington">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Capting">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Lady Agnes">
+      <data key="d0">15</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="Sibwright">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Captain Crackenbury">
+      <data key="d0">7</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Chinese">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Sir Richard">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Bingley">
+      <data key="d0">0</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="Tom">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Hullo">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Mr. Pendennis">
+      <data key="d0">3</data>
+      <data key="d1">9</data>
+    </node>
+    <node id="Sir Thomas Oaks">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Garbetts">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Job">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Damme">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="poor Shelley">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Planter">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Johnny Armstrong">
+      <data key="d0">0</data>
+      <data key="d1">9</data>
+    </node>
+    <node id="Blanche">
+      <data key="d0">138</data>
+      <data key="d1">189</data>
+    </node>
+    <node id="Miss F.">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Leonora">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="the Gent">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Peachum">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Hem">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Bunce">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Bell—“a Mr. Pendennis">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Lowton">
+      <data key="d0">24</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Mrs. Dropsicum">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Bungay?—one">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Dammy">
+      <data key="d0">0</data>
+      <data key="d1">8</data>
+    </node>
+    <node id="Mrs. Archer">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Bloundell - Bloundell">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Doctor Johnson">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lord Colchicum">
+      <data key="d0">1</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Meantime">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Foker">
+      <data key="d0">2</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Poor Lady Clavering">
+      <data key="d0">4</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Mrs. Serle">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Costigan">
+      <data key="d0">10</data>
+      <data key="d1">16</data>
+    </node>
+    <node id="Miss S.">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Brava">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="poor Snip">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr.">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Fanny.—Where">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Blenkinsop">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Imogen">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Rolt">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Stooks">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Warrington laughed—“Stunning Warrington">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Mrs. Bacon">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lady Catherine Martingale">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Cras">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Begad">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the immortal Gods">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Skinner,—crying">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Blenkinsop">
+      <data key="d0">2</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Mary">
+      <data key="d0">0</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Dear Fanny">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Mamma">
+      <data key="d0">4</data>
+      <data key="d1">12</data>
+    </node>
+    <node id="Lady Whiston">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Mr.—well">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Madame Mere">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the English Miss">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Popjoy">
+      <data key="d0">7</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Mrs. Bolton">
+      <data key="d0">47</data>
+      <data key="d1">16</data>
+    </node>
+    <node id="Miss Hunkle">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Smirke">
+      <data key="d0">8</data>
+      <data key="d1">21</data>
+    </node>
+    <node id="Byron">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Miss Milly.—“Ye">
+      <data key="d0">4</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="the Marquis of Steyne">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Gammon">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Burton">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Pynsent">
+      <data key="d0">16</data>
+      <data key="d1">21</data>
+    </node>
+    <node id="Bloundell">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Gretna Green">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Jenny">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Boosey">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Fanny">
+      <data key="d0">68</data>
+      <data key="d1">89</data>
+    </node>
+    <node id="Pendennis”—she">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Ponto">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Zuleika">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Jack;—he">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Jack Alias">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Fo">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Dr. Portman">
+      <data key="d0">1</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Tom Staples">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Bravo">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Bell">
+      <data key="d0">4</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Psha">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+    </node>
+    <node id="Mr. Hack">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Rowkins">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lady Pontypool">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Ophelia">
+      <data key="d0">14</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Pauline">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Mr. Macready">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Pendennis of Boniface">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Mr. Pendennis!”—a">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Whatdyecallem">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Marobblan">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Pendennis">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+    </node>
+    <node id="the Duke of Wellington">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="the Day">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Poyntz">
+      <data key="d0">3</data>
+      <data key="d1">8</data>
+    </node>
+    <node id="Poor Mirobolant">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Ai Ai">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Myra">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Henrico">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Dixi">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Hebe">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Warrington">
+      <data key="d0">231</data>
+      <data key="d1">112</data>
+    </node>
+    <node id="Miss Hamory">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Mr. F.">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Strong">
+      <data key="d0">107</data>
+      <data key="d1">70</data>
+    </node>
+    <node id="Par">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Bill Simes">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Morgan">
+      <data key="d0">106</data>
+      <data key="d1">61</data>
+    </node>
+    <node id="Lady Rockminster">
+      <data key="d0">40</data>
+      <data key="d1">22</data>
+    </node>
+    <node id="Hope">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lothario">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Garbetts?—I">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Grindley">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Pybus">
+      <data key="d0">1</data>
+      <data key="d1">5</data>
+    </node>
+    <node id="Julia">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Tatham?—very">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Purley">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Volile">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Tiptoff">
+      <data key="d0">2</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Mother">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Snell">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Foker">
+      <data key="d0">154</data>
+      <data key="d1">109</data>
+    </node>
+    <node id="Bacon">
+      <data key="d0">1</data>
+      <data key="d1">22</data>
+    </node>
+    <node id="my Uncle Colchicum">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Captain Blackball">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. B.">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Mr. Tattersall">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Costigan">
+      <data key="d0">9</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Lieutenant R. Thistlewood">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Arthur’s">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Alnaschar">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Waither">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Doctor Portman">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Desperation">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Hobson">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Russia">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. M.">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Lady Elizabeth Firebrace">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Pincott">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lady Fanny Fantail">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="young Spoony">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Suffolk Warringtons">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Aeschylus">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Pendennis’s">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Laura—“I">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Shakspeare">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="the French">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Mr. Parkins">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mahers">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Germans">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Dr. Goodenough">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Pascal">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Nothink">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Bob O’Toole">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Penn">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Towler">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lady Portsea">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Spavin">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Pen">
+      <data key="d0">716</data>
+      <data key="d1">236</data>
+    </node>
+    <node id="Brian Boru">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Madame Massena">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="the Pendennises">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. H.">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Mrs. Bonner">
+      <data key="d0">10</data>
+      <data key="d1">17</data>
+    </node>
+    <node id="Lady Mirabel’s">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Corkoran">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Kidneys">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Francis">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Champignon">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Claude Melnotte">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Bedad">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Brookes">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Lord Fiddlestick">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Homer">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Mrs. Lightfoot">
+      <data key="d0">4</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Barbara">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Professor Spineto">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Sir Pitt Crawley">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Richard">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Newton">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lord Rochester">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Plutarch">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Jupiter">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="would say , whom I intend to be very fond of ; and who I am sure is very clever and pretty">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Monsieur Pendennis">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="the old Madara">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Cos">
+      <data key="d0">3</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Ma">
+      <data key="d0">0</data>
+      <data key="d1">8</data>
+    </node>
+    <node id="Mr. Shamble">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Looney MacTwolter">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Leggat minor">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Lord Cinqbar">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Mr. Spavin">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Harry the Fourth">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Foth">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Hallo">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Stanfield">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="young Swettenham">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Punch">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Guizot">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Captain Glanders">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Harry the Fifth">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="old Mr. Bowser">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Doctor Goodenough">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Turks">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lady Hobanob">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Columbine">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss A.">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="O Marmaduke">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Marks">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Rougemont">
+      <data key="d0">1</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Dr. Slocum">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Fanny?—and">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Blondel">
+      <data key="d0">1</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Delia">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Lady Ann">
+      <data key="d0">3</data>
+      <data key="d1">11</data>
+    </node>
+    <node id="Calvin">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Damon">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Master Shallow">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="young Mr. Suckling">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="God">
+      <data key="d0">0</data>
+      <data key="d1">20</data>
+    </node>
+    <node id="Hay">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Pendennis—“Hullo">
+      <data key="d0">9</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="the French Ambassador">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Emily">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Miss Rider">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Mr. P.">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Mr. Lightfoot">
+      <data key="d0">33</data>
+      <data key="d1">12</data>
+    </node>
+    <node id="the brave Abercrombie">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Monsieur">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lady Clementina">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Hang gallypots">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Moss">
+      <data key="d0">0</data>
+      <data key="d1">11</data>
+    </node>
+    <node id="Dear Laura">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+    </node>
+    <node id="the Begum">
+      <data key="d0">20</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="my Lady Poldoody of Oystherstown Castle">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Alcides">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Sir Charles Mirabel">
+      <data key="d0">0</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Mrs. Wapshot">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Mars">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="The Costigans">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Bell">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Missy">
+      <data key="d0">0</data>
+      <data key="d1">11</data>
+    </node>
+    <node id="the Princess Marie Cunegonde">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Bull">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lord Rosherville">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Unlawful">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Doctor Boyne">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Clavering">
+      <data key="d0">3</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Stunner">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Countess">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="the Claverings">
+      <data key="d0">0</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Calverley">
+      <data key="d0">3</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Fancy">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Emery">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lady Violet">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Tennyson">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Skinner">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Notowious old wogue">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="I,—Arthur">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lady Flamingo">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="poor Buzzard">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Madame Fribsby">
+      <data key="d0">4</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Hurray!—claret">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Walter Lorraine">
+      <data key="d0">0</data>
+      <data key="d1">17</data>
+    </node>
+    <node id="Louisa Salter">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Madam Fribsy">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Captain Shandon">
+      <data key="d0">19</data>
+      <data key="d1">11</data>
+    </node>
+    <node id="Sheridan">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Mrs. Flanagan">
+      <data key="d0">2</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="D">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Dear Blanche">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Biddy">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Baronet">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Tom Diver">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Alice">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Towzer">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Ned">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Laura!—and">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Queen Anne">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="L.">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Major - General Sir Hector O’Dowd">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Port St Martin">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Grandjean">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Hodgen">
+      <data key="d0">3</data>
+      <data key="d1">5</data>
+    </node>
+    <node id="Bob Suckling">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Phaynix">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="poor Rawdon Crawley">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Pendennis">
+      <data key="d0">20</data>
+      <data key="d1">62</data>
+    </node>
+    <node id="Altamont">
+      <data key="d0">29</data>
+      <data key="d1">42</data>
+    </node>
+    <node id="Sir Hugh Trumpington">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Creed">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Old Smirke">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Lord Grampound Bowser">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Arther Pendennis">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. William Minns">
+      <data key="d0">1</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Bob Bows">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Hobnell">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Anatole">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Cupid">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Major Pendennis">
+      <data key="d0">180</data>
+      <data key="d1">160</data>
+    </node>
+    <node id="Cardinal Mezzocaldo">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Voyons">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Wagg">
+      <data key="d0">43</data>
+      <data key="d1">10</data>
+    </node>
+    <node id="Fairoaks">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Garbanzos Amontillado">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Wigsby">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="the Whigs">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="The Miss Notleys">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Welbore Welbore">
+      <data key="d0">1</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Warrington,—I">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Fin">
+      <data key="d0">3</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Mr. Rincer">
+      <data key="d0">2</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Mary Hann">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Tom Fleet">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Madame Fribsbi">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="July">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Hobhouse">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Brixham">
+      <data key="d0">4</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Mr. Grump">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Sir John">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Percy Popjoy">
+      <data key="d0">4</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Miss Kewsey">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Doctor Hicks">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Fokey">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Washywomen">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Georgy">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Admiral Bowser">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Fate">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Law">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Passion - Flowers">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Flint">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Burgundy">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Dr. Fell">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Jemima Augusta">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Cap’n">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Bolton">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Amori">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="herself—“Well">
+      <data key="d0">4</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Dear Arthur">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Cinderella">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lady Teazle">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Missa Pendennis">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lady Mirabel">
+      <data key="d0">2</data>
+      <data key="d1">12</data>
+    </node>
+    <node id="the Liberal Conservatives">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Lady R.">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Roshervilles">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Pop">
+      <data key="d0">3</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Messrs. Tatham">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Blanche,”—and">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Mrs. Doolan">
+      <data key="d0">1</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Russians">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="King Death">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Finucane,—a">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Thompson">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Briseis">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Roundle">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Lady Grampound Bowser">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. R.">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Barney Brallaghan">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Captain Boldweather">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Undine">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Fou - choo - foo">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Prince Metternitch">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Gad">
+      <data key="d0">0</data>
+      <data key="d1">10</data>
+    </node>
+    <node id="Potts">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Venice">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Fox">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="old Samuel Johnson">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Bezonian">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Michaelmas">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Keightley">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Miss Lauwa">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mirobolant">
+      <data key="d0">12</data>
+      <data key="d1">13</data>
+    </node>
+    <node id="Lord Steyne">
+      <data key="d0">25</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Debrett">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Sand">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Betsy - Jane">
+      <data key="d0">3</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Lady C.">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Louy Philup reg’lar">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Arthur—“he">
+      <data key="d0">4</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="answer”—yes">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Bob Blades">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="George">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Wallack">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Costigan">
+      <data key="d0">21</data>
+      <data key="d1">23</data>
+    </node>
+    <node id="Miss Rancy">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Ringwood">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="General Hobbler">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Bessy">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Griggs">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Heaven">
+      <data key="d0">4</data>
+      <data key="d1">9</data>
+    </node>
+    <node id="Mr. Murray">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lightfoot">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="The Countess Dowager of Rockminster">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Docthor">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Master Francis">
+      <data key="d0">3</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Uncle Arthur">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Saint Bernards">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Monsieur le Misanthrope">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Shandon">
+      <data key="d0">3</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Chatteris">
+      <data key="d0">4</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Mr. Wapshot">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Dominic">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Rebecca">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+    </node>
+    <node id="Lady Mullingar">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Arthur">
+      <data key="d0">191</data>
+      <data key="d1">284</data>
+    </node>
+    <node id="Galileo">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Genius">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lovelace">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Bows">
+      <data key="d0">88</data>
+      <data key="d1">37</data>
+    </node>
+    <node id="Socrates">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Wenham">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+    </node>
+    <node id="Mr. Trail">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Lord B.">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Kotzebue">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Mr. Roberts">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Clavering Arms">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Pleaceman">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lord John">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Professor Sandiman">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Pendennis.—The">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Grady">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Sir Poyntz Clavering">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Ariadne">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Miss Bunyan">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Flora">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+    </node>
+    <node id="Hodson">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Apres">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Tatham">
+      <data key="d0">11</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Susan Bonner">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="E. Strong">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Absard">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Psyche">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Dr. Boyne">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Cooky">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Fabius">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Theseus">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Huxter">
+      <data key="d0">38</data>
+      <data key="d1">55</data>
+    </node>
+    <node id="Miss Fotheringay">
+      <data key="d0">44</data>
+      <data key="d1">49</data>
+    </node>
+    <node id="Mrs. A. P.">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Mr. Trotter">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Bo">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Tom Pouter of the Blues">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Cora">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="The Duke of Saint David ’s , whom I have the honour of knowing">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Crack">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Archer">
+      <data key="d0">47</data>
+      <data key="d1">12</data>
+    </node>
+    <node id="Mr. Amory">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Lord Pontypool">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lady Macbeth">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="John">
+      <data key="d0">0</data>
+      <data key="d1">11</data>
+    </node>
+    <node id="Merci">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Madame Frib">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Poole">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Soppington">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Laurar">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Jack Linton">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Mrs. Shandon">
+      <data key="d0">23</data>
+      <data key="d1">15</data>
+    </node>
+    <node id="Pendennis?—fine">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Cave">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Sir Charles Grandison">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Croesus">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. H.—no">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Bluebeard">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <edge source="Tom Smith" target="Artises">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tom Smith" target="Mr. Stanfield">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tom Smith" target="Mr. Roberts">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="the Sylphide" target="Quel preux Chevalier">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="the Sylphide" target="Major Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="the Sylphide" target="Strong">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="the Sylphide" target="Grady">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bungay" target="Papa">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bungay" target="Capting">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bungay" target="Morgan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bungay" target="Mary">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Bungay" target="Mrs. Shandon">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Bungay" target="Mr. B.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bungay" target="O Marmaduke">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bungay" target="Mrs. Bolton">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Bungay" target="Bessy">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bungay" target="Bacon">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bungay" target="Finucane">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bungay" target="Par">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bungay" target="Flora">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Bungay" target="Warrington">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Bungay" target="Arthur">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Bungay" target="Doolan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bungay" target="Archer">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Bungay" target="Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Santiago" target="Moss">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Jeames" target="Pleaceman">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="First Love" target="Mrs. Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Coralie" target="Mr. Poyntz">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Coralie" target="Maman">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Portman" target="Smirke">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mrs. Portman" target="Mrs. Pendennis">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Portman" target="John">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Portman" target="Mrs. Pybus">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Portman" target="Myra">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Portman" target="Miss Thompson">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Fribsby" target="Amory">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Fribsby" target="Johnny Armstrong">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Fribsby" target="John Armstrong">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tom Tufthunt" target="Arthur">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Glowry" target="Major Pendennis">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Glowry" target="Hay">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Eales" target="Major Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jove" target="Costigan">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Jove" target="Fanny">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jove" target="Pen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jove" target="Mrs. Bolton">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Martha" target="Law">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Martha" target="Bell">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Martha" target="Sibwright">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Martha" target="Lady Mullingar">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Martha" target="Miss Kewsey">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Martha" target="Laura">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Martha" target="Fairoaks Martha">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Jones" target="Lady Rockminster">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mr. Jones" target="Laura">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Jones" target="Huxter">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Haller" target="Fancy">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Helen" target="Arthur">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Helen" target="Pen">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Helen" target="Foker">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Helen" target="Mrs. Pendennis">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Helen" target="Doctor Portman">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Pen" target="Undine">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Pen" target="Major Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Pen" target="Miss Bell—“a Mr. Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Pen" target="Arthur">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Pen" target="Blanche">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Pen" target="Mr. Paxton">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Pen" target="Warrington">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Pen" target="Foker">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Pen" target="Fanny">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Pen" target="Pen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mick" target="Morgan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mick" target="the Docthor">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mick" target="Condy Roony">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mick" target="the Phaynix">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Laura" target="Mrs. Pendennis">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Laura" target="Pen">
+      <data key="d2">64</data>
+    </edge>
+    <edge source="Laura" target="Arthur">
+      <data key="d2">67</data>
+    </edge>
+    <edge source="Laura" target="Mrs. Pybus">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Laura" target="Mamma">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Laura" target="Blanche">
+      <data key="d2">25</data>
+    </edge>
+    <edge source="Laura" target="Major Pendennis">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Laura" target="Mr. Pen">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Laura" target="Dear Laura">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Laura" target="Mr. Pynsent">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Laura" target="Miss Roundle">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Laura" target="Dear Arthur">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Laura" target="Martha">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Laura" target="Doctor Portman">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Laura" target="Warrington">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Laura" target="Delia">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Laura" target="Damon">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Laura" target="Grandjean">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Laura" target="Rebecca">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Laura" target="Lady Rockminster">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Laura" target="Lady Diana">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Laura" target="Mrs. Bonner">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Laura" target="Mr. Lightfoot">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Laura" target="Fanny">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Laura" target="Heaven">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Laura" target="Lady R.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Laura" target="L.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Laura" target="Mrs. Bolton">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Laura" target="answer”—yes">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Laura" target="Foker">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Stultz" target="Pen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mademoiselle Sauterelle" target="Brava">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Doolan" target="Pen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Doolan" target="Bungay">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jack Costigan" target="Pen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jack Costigan" target="Major Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jack Costigan" target="Meejor">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jack Costigan" target="Costigan">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Hoolan" target="John">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Hoolan" target="Kidneys">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Hoolan" target="Morgan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Hoolan" target="Mrs. Doolan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Dolphin" target="Mr. William Minns">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Dolphin" target="Jove">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Old Pendennis" target="Mrs. Flanagan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Old Pendennis" target="Frosch">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Old Pendennis" target="Major Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Maecenas" target="Bungay">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Bonner—“poor" target="Major Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Meejor" target="Major Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Meejor" target="Costigan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Meejor" target="Arthur">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Stunning Warrington" target="Pen">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Finucane" target="Lord Fiddlestick">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Finucane" target="Tom Staples">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Finucane" target="Archer">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Captain Sumph" target="poor Shelley">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Captain Sumph" target="Jove">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Captain Sumph" target="Byron">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Captain Sumph" target="Trelawney">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Captain Sumph" target="Cardinal Mezzocaldo">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Captain Sumph" target="Hobhouse">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Agnes" target="Foker">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Lady Agnes" target="Mr. Fox">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Lady Agnes" target="Brookes">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Agnes" target="Erith">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Lady Agnes" target="Dr. Johnson">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Agnes" target="Fortnum">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Agnes" target="Sheridan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Agnes" target="the Claverings">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Agnes" target="Lady C.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Captain Crackenbury" target="Crack">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Captain Crackenbury" target="Lady Violet">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Captain Crackenbury" target="Major Pendennis">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Captain Crackenbury" target="Dammy">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Captain Crackenbury" target="the Begum">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Pendennis" target="Major Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Pendennis" target="Mr. Parkins">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Pendennis" target="Jack Costigan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Blanche" target="Major Pendennis">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Blanche" target="Mr. Pen">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Blanche" target="Mrs. Pybus">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Blanche" target="Laura">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Blanche" target="Undine">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Blanche" target="Pen">
+      <data key="d2">20</data>
+    </edge>
+    <edge source="Blanche" target="Mr. Pynsent">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Blanche" target="the Poker">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Blanche" target="Arthur">
+      <data key="d2">33</data>
+    </edge>
+    <edge source="Blanche" target="Mirobolant">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Blanche" target="Strong">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Blanche" target="Poor Mirobolant">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Blanche" target="God">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Blanche" target="Mamma">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Blanche" target="Mr. Hodgen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Blanche" target="Foker">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="Blanche" target="Miss Blanche,”—and">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Blanche" target="Monsieur">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Blanche" target="Captain Crackenbury">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Blanche" target="Mr.—well">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Blanche" target="Fanny">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Blanche" target="Huxter">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Blanche" target="Merci">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Blanche" target="Mrs. Planter">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Blanche" target="Mrs. A. P.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Blanche" target="Claude Melnotte">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Blanche" target="Alnaschar">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Blanche" target="Mrs. Shandon">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Blanche" target="Warrington">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Blanche" target="Finucane">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Blanche" target="Mrs. Finucane,—a">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Blanche" target="Morgan">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Blanche" target="Voyons">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Blanche" target="Mrs. Bonner">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Blanche" target="Mr. P.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Blanche" target="Mr. F.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Blanche" target="Altamont">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lowton" target="Boosey">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lowton" target="Miss Balls">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lowton" target="Hodge">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lowton" target="young Swettenham">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lowton" target="Mr. Grump">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lowton" target="Lord Cinqbar">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Lowton" target="Mr. Trail">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Lowton" target="Ringwood">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Lowton" target="Bob Suckling">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lowton" target="Pen">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Lowton" target="Corkoran">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Lowton" target="Major - General Sir Hector O’Dowd">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lowton" target="Molloy Maloney">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Lowton" target="Finucane">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lowton" target="Jove">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lord Colchicum" target="Coralie">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Foker" target="Mr. Hobnell">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Foker" target="Mr. Wapshot">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Poor Lady Clavering" target="Major Pendennis">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Miss Costigan" target="Martha">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Costigan" target="Mr. Foker">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Costigan" target="Mrs. Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Costigan" target="Pen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Costigan" target="Major Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Costigan" target="Arthur">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Costigan" target="Papa">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Miss Costigan" target="Sir Derby Oaks">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Costigan" target="Foker">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Blenkinsop" target="Major Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Blenkinsop" target="Pen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Blenkinsop" target="Miss Fotheringay">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mamma" target="Laura">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mamma" target="Blanche">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mamma" target="Betsy - Jane">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mamma" target="Major Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Popjoy" target="Bungay">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Popjoy" target="Captain Sumph">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Popjoy" target="Pen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Bolton" target="Fanny">
+      <data key="d2">16</data>
+    </edge>
+    <edge source="Mrs. Bolton" target="Arthur">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="Mrs. Bolton" target="Pen">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Bolton" target="Mrs. Serle">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Bolton" target="the Washywomen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Bolton" target="Miss De la Bosky">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Bolton" target="the Columbine">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Bolton" target="Emly Budd">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Bolton" target="Mr. Costigan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Bolton" target="Lady Mirabel">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Bolton" target="Fanny?—and">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Bolton" target="Emily">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Bolton" target="Mr. B.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Bolton" target="Capting">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Bolton" target="Mr. H.—no">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Bolton" target="Major Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Bolton" target="Betsy - Jane">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Smirke" target="Rebecca">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Smirke" target="Mrs. Pendennis">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Smirke" target="Pen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Smirke" target="Arthur">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Miss Milly.—“Ye" target="Papa">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Milly.—“Ye" target="Miss Fotheringay">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Milly.—“Ye" target="Pen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Milly.—“Ye" target="Imogen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Pynsent" target="Laura">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Mr. Pynsent" target="Miss Bell—“a Mr. Pendennis">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Pynsent" target="Wagg">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Pynsent" target="Pendennis of Boniface">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Pynsent" target="Lady Rockminster">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Pynsent" target="Arthur">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Pynsent" target="Blanche">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Pynsent" target="captain Broadwood">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fanny" target="Papa">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fanny" target="Mr. Pendennis!”—a">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fanny" target="Costigan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fanny" target="Pen">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Fanny" target="Arthur">
+      <data key="d2">22</data>
+    </edge>
+    <edge source="Fanny" target="Ma">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Fanny" target="Bows">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Fanny" target="Bessy">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fanny" target="Missa Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fanny" target="Walter Lorraine">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Fanny" target="Neaera">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fanny" target="Leonora">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fanny" target="Miss Costigan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fanny" target="Arthur’s">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fanny" target="Mr. Pendennis’s">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Fanny" target="Pauline">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Fanny" target="Mr. Macready">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fanny" target="Claude Melnotte">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fanny" target="Mother">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fanny" target="Old Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fanny" target="Mrs. Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fanny" target="Arther Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fanny" target="Huxter">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Fo" target="Mr. Poyntz">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fo" target="Sir Poyntz Clavering">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Portman" target="Arthur">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Bell" target="Helen">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Bell" target="Bell">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Bell" target="Francis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ophelia" target="Pentweazle">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Ophelia" target="Miss Rancy">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ophelia" target="Mr. Pendennis">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Ophelia" target="Judkin">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ophelia" target="Harrington">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Ophelia" target="Potts">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ophelia" target="Mrs. Bunce">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ophelia" target="Julia">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Poyntz" target="Foker">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Warrington" target="Arthur">
+      <data key="d2">22</data>
+    </edge>
+    <edge source="Warrington" target="Pen">
+      <data key="d2">41</data>
+    </edge>
+    <edge source="Warrington" target="Major Pendennis">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Warrington" target="Mrs. Flanagan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Lady Whiston">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Helen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Mr. Hodgen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Hoolan">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Warrington" target="Doolan">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Warrington" target="the Day">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Trefoil">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Lord Bangbanagher">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Doctor Boyne">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Captain Shandon">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Warrington" target="Dr. Boyne">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="the English Miss">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Jove">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Warrington" target="Mrs. Doolan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Psha">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Warrington" target="Archer">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Warrington" target="John">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Warrington" target="Madame Massena">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Lord B.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Bloundell">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Bob O’Toole">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Finucane">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Professor Spineto">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Laura">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Warrington" target="Laura!—and">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Bacon">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="Warrington" target="Lord Pontypool">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Mr. Hack">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Warrington" target="Bungay">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Warrington" target="Peachum">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Mrs. Bacon">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Wagg">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Mr. Grindle">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Barney Brallaghan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Looney MacTwolter">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Professor Sandiman">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Doctor Hicks">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Capting">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Paley">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Mrs. Shandon">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Warrington" target="old Samuel Johnson">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Mr. Cave">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Mr. Tattersall">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Mr. Murray">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Jack;—he">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="poor Snip">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Mary">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Tom">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Warrington" target="Dr. Slocum">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Flora">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Percy Popjoy">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Warrington" target="Blanche">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Warrington" target="Amori">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Ai Ai">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Prometheus">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Walter Lorraine">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Warrington" target="Tom Pouter of the Blues">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Jack Holt">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Stunner">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Mrs. Pendennis">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Warrington" target="Lovelace">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Bows">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Warrington" target="Doctor Goodenough">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Saint Bartholomew">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Fanny">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Ariadne">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Warrington" target="Theseus">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="God">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Warrington" target="Gad">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Master Shallow">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Bezonian">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Hem">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="the Pendennises">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Warrington" target="Strong">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Warrington" target="Altamont">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Strong" target="Major Pendennis">
+      <data key="d2">23</data>
+    </edge>
+    <edge source="Strong" target="Sir Richard">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Strong" target="Blanche">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Strong" target="Jove">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Strong" target="Missy">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Strong" target="Captain Glanders">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Strong" target="Mirobolant">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Strong" target="Jupiter">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Strong" target="Arthur">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Strong" target="Altamont">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Strong" target="Pendennis?”—Strong">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Strong" target="Pen">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Strong" target="Mr. Pynsent">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Strong" target="Captain Broadfoot">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Strong" target="Alcides">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Strong" target="Morgan">
+      <data key="d2">20</data>
+    </edge>
+    <edge source="Strong" target="Jack Holt">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Strong" target="the Countess">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Strong" target="Monsieur le Colonel">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Strong" target="Heaven">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Strong" target="Psha">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Strong" target="Master Francis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Strong" target="Old Pendennis">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Strong" target="Mr. Marks">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Strong" target="Begad">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Strong" target="Costigan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Strong" target="Mr. Bolton">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Strong" target="Bloundell">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Strong" target="Germans">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Strong" target="Russians">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Morgan" target="Mr. Harthur">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Morgan" target="Warrington">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Morgan" target="Honly">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Morgan" target="Arthur">
+      <data key="d2">22</data>
+    </edge>
+    <edge source="Morgan" target="Georgy">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Morgan" target="Patsey">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Morgan" target="Mick">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Morgan" target="Faith">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Morgan" target="the Docthor">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Morgan" target="Condy Roony">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Morgan" target="Mrs. Doolan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Morgan" target="Foker">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Morgan" target="the Claverings">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Morgan" target="Major Pendennis">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="Morgan" target="Michaelmas">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Morgan" target="Towler">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Morgan" target="Lord Steyne">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Morgan" target="Lord Levant">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Morgan" target="Marobblan">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Morgan" target="Strong">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Morgan" target="Miss Hamory">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Morgan" target="Madam Fribsy">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Morgan" target="Costigan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Morgan" target="Jack Costigan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Morgan" target="Mr. Lightfoot">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Morgan" target="Prince Metternitch">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Morgan" target="Louy Philup reg’lar">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Morgan" target="Lord John">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Morgan" target="Ringwood">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Morgan" target="Lightfoot">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Morgan" target="Mrs. Bonner">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Morgan" target="Mrs. Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Morgan" target="Blanche">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Morgan" target="Mrs. A. P.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Morgan" target="Miss A.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Morgan" target="Altamont">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Morgan" target="Moss">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Morgan" target="Johnny Armstrong">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Rockminster" target="Mr. Pynsent">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Rockminster" target="Warrington">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Lady Rockminster" target="Arthur">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Lady Rockminster" target="Fido">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Rockminster" target="Laura">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Lady Rockminster" target="Pen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Rockminster" target="Foker">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Lady Rockminster" target="Lady Ann">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Lady Rockminster" target="Lord Rosherville">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Lady Rockminster" target="Mr. Hobson">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Rockminster" target="Alice">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Rockminster" target="Barbara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Rockminster" target="Lady Agnes">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Lady Rockminster" target="Bluebeard">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Rockminster" target="Grindley">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Rockminster" target="Rebecca">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Pybus" target="Lady Pontypool">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tiptoff" target="Lady Mirabel">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Foker" target="Pen">
+      <data key="d2">23</data>
+    </edge>
+    <edge source="Foker" target="Helen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Towzer">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Spavin">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Rowkins">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Mrs. Pendennis">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Foker" target="Bingley">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Foker" target="Hessians">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Lady Macbeth">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Mrs. Dropsicum">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Major Pendennis">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="Foker" target="Miss Fotheringay">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Foker" target="Mrs. Bolton">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Arthur">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Foker" target="Sir Derby Oaks">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Foker" target="Queen Charlotte">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Sir Thomas Oaks">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Miss F.">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Foker" target="the Baronet">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Miss Rouncy">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Foker" target="Calverley">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Foker" target="Mr. Garbetts">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Hullo">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Jove">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Foker" target="Mr. Tatham">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Tatham?—very">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Miss Foth">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Foker" target="Job">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Mr. Bo">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="John">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Mr. Hobnell">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Blanche">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="Foker" target="Taglioni">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Volile">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Bravo">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Mr. Hodgen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Cutts">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Moufflet">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Foker" target="Miss Emery">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Miss Whatdyecallem">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Anatole">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Mr. Poyntz">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Foker" target="Homer">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Lady Ann">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Foker" target="Miss Rougemont">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Clown">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Lord Colchicum">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Foker" target="Coralie">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Walter Lorraine">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Foker" target="Mr. Blondel">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Venice">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="D">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Master Francis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Huxter">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Foker" target="Mr. Lightfoot">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Mrs. Lightfoot">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Foker" target="Dr. Fell">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Foker" target="Mrs. Bonner">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Bacon" target="Warrington">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Costigan" target="Major Pendennis">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mr. Costigan" target="Miss Fotheringay">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Costigan" target="Bob Bows">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Costigan" target="Tommy">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Costigan" target="Mr. Garbetts">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Costigan" target="Fanny">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Waither" target="Wagg">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Waither" target="Penn">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Waither" target="Pen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Waither" target="Doolan">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Waither" target="Bungay">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Laura—“I" target="Mr. Pynsent">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Mrs. Pendennis">
+      <data key="d2">20</data>
+    </edge>
+    <edge source="Pen" target="Ponto">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Flora">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Zuleika">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Laura">
+      <data key="d2">82</data>
+    </edge>
+    <edge source="Pen" target="Andromache">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Smirke">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Pen" target="Helen">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Pen" target="Lieutenant R. Thistlewood">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Foker">
+      <data key="d2">44</data>
+    </edge>
+    <edge source="Pen" target="Miss Fotheringay">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="Pen" target="Mr. Pendennis">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Pen" target="Mr. Costigan">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Pen" target="Miss F">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Miss Costigan">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Pen" target="Pendennis”—she">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Bingley">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Kotzebue">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Pentweazle">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Angelo">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Uncle Arthur">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Costigan">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Pen" target="Rebecca">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Mrs. Haller">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Unlawful">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Dammy">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Shakspeare">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Pen" target="the Duke of Wellington">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="the Duke of Kent">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="The Costigans">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Dr. Portman">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Pen" target="General Hobbler">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Pen" target="Gad">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Mrs. Hobbler">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="The Duke of Saint David ’s , whom I have the honour of knowing">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="the Claverings">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Pen" target="Major Pendennis">
+      <data key="d2">21</data>
+    </edge>
+    <edge source="Pen" target="Arthur">
+      <data key="d2">32</data>
+    </edge>
+    <edge source="Pen" target="Jove">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Pen" target="Hurray!—claret">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Brookes">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Sheridan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Old Smirke">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Pen" target="Mrs. Pybus">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Miss Rolt">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Madame Fribsby">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Madame Frib">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="the immortal Gods">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="God">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Pen" target="Purley">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Tom Spring,—the Black">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Ringwood">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="poor Foker , who went away without any beat of drum , or offer to drive the coach out of Oxbridge">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Pendennis of Boniface">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Bloundell - Bloundell">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Pen" target="Suffolk Bloundells">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="O Mong Roy">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Richard">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Mr. Spavin">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Pen" target="Psha">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Pen" target="Blanche">
+      <data key="d2">89</data>
+    </edge>
+    <edge source="Pen" target="Cap’n">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Mr. Pynsent">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Pen" target="Captain Broadfoot">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Mr. Poole">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Strong">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Pen" target="Mr. Pendennis.—The">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Cooky">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Mirobolant">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Pen" target="July">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Miss Roundle">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Dear Laura">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Lady Whiston">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Pen" target="Counts">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Turks">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Sir Charles Mirabel">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Pen" target="Lowton">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Pen" target="Warrington">
+      <data key="d2">59</data>
+    </edge>
+    <edge source="Pen" target="the Port St Martin">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Warrington laughed—“Stunning Warrington">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Pen" target="Bill Simes">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="The Miss Notleys">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Grisi">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Archer">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Pen" target="Governor">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Dixi">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Hang gallypots">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Captain Shandon">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Mrs. Shandon">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Pen" target="Genius">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Percy Popjoy">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Bungay">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Pen" target="Passion - Flowers">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Miss Bunion">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Pen" target="Bacon">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Pen" target="Wenham">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Pen" target="Pendennis?—fine">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Sir Hugh Trumpington">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Mamma">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Lady Rockminster">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Pen" target="Lady Catherine Martingale">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Altamont">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Pen" target="Jeames">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Pen" target="Lady Agnes">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="the Begum">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Pen" target="the Lady Rosherville">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Miss Blanche,”—and">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Mr. Poyntz">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Amori">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Walter Lorraine">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Pen" target="Leonora">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Pen" target="Lady Mirabel">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Pen" target="Monsieur Dubois">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Lord Magnus Charters">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Neaera">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Paley">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Pen" target="Aeschylus">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Homer">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Henrico">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Pen" target="Fo">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Pen" target="Mr. Hodgen">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Pen" target="Fanny">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="Pen" target="Lord Colchicum">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Huxter">
+      <data key="d2">28</data>
+    </edge>
+    <edge source="Pen" target="Mrs. Bolton">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Pen" target="Bows">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Pen" target="Mr. P.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Apres">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Dear Fanny">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Pen" target="Lovelace">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Captain Blackball">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Lady Portsea">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Mrs. Bull">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Wordsworth">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Tennyson">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Mrs. Flanagan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="the Lady Elizabeth Firebrace">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Pen" target="Miss A.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="the French">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Pen" target="Dominic">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Calvin">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Mahomet">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Saint Bernards">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Saint Dominies">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Heaven">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Pen" target="Miss S.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="young Spoony">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Miss Stickney">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Sir John">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Louisa Salter">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Flint">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Jenny">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Lady Clementina">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Jessamy">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Monsieur le Misanthrope">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Sir Charles Grandison">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Mason">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Hodson">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Mr. Stooks">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="would say , whom I intend to be very fond of ; and who I am sure is very clever and pretty">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Martha">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Bluebeard">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Pen" target="Queen Anne">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Madame Mere">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Mrs. Bonner">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Pen" target="Moss">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="the Liberal Conservatives">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Pen" target="the Whigs">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Punch">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Parlons d’autre">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Miss Snell">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Morgan">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Pen" target="Mr. Amory">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Pen" target="Harry the Fifth">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Harry the Fourth">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Mrs. Planter">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Lady Ann">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Mr.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="Dr. Goodenough">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="The Countess Dowager of Rockminster">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="I,—Arthur">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pen" target="George">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Bonner" target="Clavering">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mrs. Bonner" target="Susan Bonner">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Bonner" target="Blanche">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mrs. Bonner" target="Strong">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Bonner" target="Mr. Lightfoot">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Lightfoot" target="Blanche">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Lightfoot" target="Johnny Armstrong">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Lightfoot" target="Morgan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Cos" target="young Poldoody">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Cos" target="Dad">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Cos" target="Jack Costigan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Shamble" target="Fairoaks Martha">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Spavin" target="Pen">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mr. Spavin" target="Gammon">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Rougemont" target="Fokey">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Blondel" target="Champignon">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Ann" target="Foker">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Pendennis—“Hullo" target="Foker">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pendennis—“Hullo" target="Arthur">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pendennis—“Hullo" target="Pen">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Pendennis—“Hullo" target="Doolan">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Lightfoot" target="Morgan">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mr. Lightfoot" target="Blanche">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Lightfoot" target="Mrs. Bonner">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Mr. Lightfoot" target="Major Pendennis">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Lightfoot" target="Arthur">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Lightfoot" target="Mary Hann">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Lightfoot" target="Miss">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Mr. Lightfoot" target="Mr. Soppington">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Lightfoot" target="Miss Rider">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Lightfoot" target="Strong">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Lightfoot" target="Altamont">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Lightfoot" target="Mr. M.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Lightfoot" target="the Clavering Arms">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Lightfoot" target="Johnny Armstrong">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="the brave Abercrombie" target="Cutts">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="the Begum" target="Mr. Welbore Welbore">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="the Begum" target="Strong">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="the Begum" target="Leggat minor">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="the Begum" target="Pa">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="the Begum" target="Ma">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="the Begum" target="Major Pendennis">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="the Begum" target="Foker">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="the Begum" target="Lady Rockminster">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="the Begum" target="Laura">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="the Begum" target="Dr. Portman">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="the Begum" target="Arthur">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Wapshot" target="Arthur">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Clavering" target="Strong">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Clavering" target="Ned">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Calverley" target="Mr. Poyntz">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Madame Fribsby" target="Pincott">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Madame Fribsby" target="Strong">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Madame Fribsby" target="John Armstrong">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Madame Fribsby" target="Johnny Armstrong">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Captain Shandon" target="Warrington">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Captain Shandon" target="Charles">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Captain Shandon" target="Bungay">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Captain Shandon" target="Arthur">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Captain Shandon" target="Pen">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Captain Shandon" target="Bacon">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Captain Shandon" target="Gad">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Captain Shandon" target="Wagg">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Captain Shandon" target="Wenham">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Captain Shandon" target="Finucane">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Captain Shandon" target="Laura">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Flanagan" target="Warrington">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="the Baronet" target="Strong">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="the Baronet" target="Gad">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tom Diver" target="Jove">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Hodgen" target="King Death">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Hodgen" target="Mr. Warrington?—angcored">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Hodgen" target="John">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Pendennis" target="Mrs. Haller">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Pendennis" target="Pen">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mrs. Pendennis" target="Miss Fotheringay">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Pendennis" target="Arthur">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Pendennis" target="Smirke">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mrs. Pendennis" target="Laura">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mrs. Pendennis" target="Mamma">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Pendennis" target="Fanny">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mrs. Pendennis" target="Warrington">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Altamont" target="Pendennis!—Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Altamont" target="Major Pendennis">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Altamont" target="Jove">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Altamont" target="Wallack">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Altamont" target="Strong">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="Altamont" target="the Baronet">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Altamont" target="Damme">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Altamont" target="Moss">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Altamont" target="Tom Fleet">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Altamont" target="Arthur">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Altamont" target="Dammy">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Creed" target="Pen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Creed" target="Miss Fotheringay">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mrs. Creed" target="Pa">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Creed" target="old Mr. Bowser">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. William Minns" target="Mr. Bo">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Hobnell" target="Hodson">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Major Pendennis" target="Miss Fotheringay">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Major Pendennis" target="Miss Hunkle">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Major Pendennis" target="Mr. Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Hope">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Debrett">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="young Mr. Suckling">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Major Pendennis" target="Admiral Bowser">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Lady Grampound Bowser">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Lord Grampound Bowser">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Lady Hobanob">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Miss Rouncy">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Costigan">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Major Pendennis" target="Sir Derby Oaks">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Mr. Costigan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Mrs. Pendennis">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Major Pendennis" target="Arthur">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Major Pendennis" target="Mr. Foker">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Major Pendennis" target="Miss Costigan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Meantime">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Strong">
+      <data key="d2">21</data>
+    </edge>
+    <edge source="Major Pendennis" target="Laura">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Major Pendennis" target="Miss Lauwa">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Missy">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Major Pendennis" target="Pen">
+      <data key="d2">20</data>
+    </edge>
+    <edge source="Major Pendennis" target="Mar">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Major Pendennis" target="Nothink">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Laurar">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Wagg">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Lady Mirabel">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Lady Rockminster">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Major Pendennis" target="Paul de Kock">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Dammy">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Major Pendennis" target="Blanche">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Major Pendennis" target="the Marquis of Steyne">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Gad">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Major Pendennis" target="Sir Charles Mirabel">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Suffolk Warringtons">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Warrington">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Major Pendennis" target="Warrington,—I">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Absard">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Fanny">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Major Pendennis" target="Mr. Tatham">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="the Begum">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Major Pendennis" target="Finucane">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Gretna Green">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Tom Staples">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Psyche">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Cupid">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Briseis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Altamont">
+      <data key="d2">16</data>
+    </edge>
+    <edge source="Major Pendennis" target="Sir James">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Morgan">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="Major Pendennis" target="Moss">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Major Pendennis" target="Jove">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Major Pendennis" target="Lady C.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Major Pendennis" target="Foker">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Major Pendennis" target="Jemima Augusta">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wagg" target="Venus">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Wagg" target="Beauty">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wagg" target="Burgundy">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wagg" target="Major Pendennis">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Wagg" target="Wenham">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wagg" target="Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wagg" target="Mr. Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wagg" target="Caleb Balderstone">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Wagg" target="Lord Steyne">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Wagg" target="Arthur">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Wagg" target="Bungay">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Wagg" target="Sir Pitt Crawley">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wagg" target="poor Rawdon Crawley">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wagg" target="Mrs. Bolton">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Wagg" target="Griggs">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wagg" target="Bacon">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Wagg" target="Mrs. Shandon">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Wagg" target="Popjoy">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Wagg" target="Bob O’Toole">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wagg" target="poor Buzzard">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wagg" target="Desperation">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wagg" target="Mr. Trotter">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wagg" target="Captain Sumph">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Welbore Welbore" target="Major Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fin" target="Bungay">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Fin" target="Bedad">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Rincer" target="Mrs. R.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Rincer" target="Mr. Jones">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Brixham" target="Morgan">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Percy Popjoy" target="Warrington">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Percy Popjoy" target="Captain Shandon">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Percy Popjoy" target="Dammy">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="herself—“Well" target="Huxter">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="herself—“Well" target="Pen">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="herself—“Well" target="Fanny.—Where">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Mirabel" target="Papa">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Mirabel" target="Bows">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pop" target="Mr. Blondel">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pop" target="my Uncle Colchicum">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pop" target="Notowious old wogue">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Doolan" target="Mick">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Captain Boldweather" target="Pen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Keightley" target="The Tredyddlums">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mirobolant" target="Madame Fribsby">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mirobolant" target="Madame Fribsbi">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mirobolant" target="Betsy">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mirobolant" target="Cupid">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mirobolant" target="Blanche">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mirobolant" target="Miss">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mirobolant" target="Pen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mirobolant" target="Monsieur Pendennis">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Lord Steyne" target="Wagg">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lord Steyne" target="Wenham">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Lord Steyne" target="Venus">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lord Steyne" target="Major Pendennis">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Lord Steyne" target="Dear Wenham,”—he">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lord Steyne" target="Miss Fotheringay">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Lord Steyne" target="Lady Teazle">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lord Steyne" target="Mrs. Haller">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lord Steyne" target="Ophelia">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lord Steyne" target="Georges">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lord Steyne" target="Mr. Dolphin">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lord Steyne" target="Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lord Steyne" target="Hullo">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Betsy - Jane" target="Smirke">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Betsy - Jane" target="Miss Thompson">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Betsy - Jane" target="Mrs. Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur—“he" target="Huxter">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Arthur—“he" target="Arthur">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur—“he" target="Mrs. O’Leary">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Costigan" target="Sir Derby Oaks">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Costigan" target="Bows">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Costigan" target="Meejor">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Costigan" target="Faith">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Costigan" target="Major Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Costigan" target="Miss O’Neill">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Costigan" target="Mars">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Costigan" target="Mrs. Jordan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Costigan" target="Miss Fotheringay">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Costigan" target="the old Madara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Costigan" target="Garbetts?—I">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Costigan" target="Messrs. Tatham">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Costigan" target="Bob Acres">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Costigan" target="Wigsby">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Costigan" target="Cutts">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Costigan" target="Dad">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Costigan" target="Mr. Bolton">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Heaven" target="Miss Bunion">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Heaven" target="Dammy">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lightfoot" target="Arthur">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Lightfoot" target="Morgan">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Master Francis" target="Old Pendennis">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Master Francis" target="Arthur">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Shandon" target="Bungay">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Shandon" target="Bacon">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Chatteris" target="Arthur">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Chatteris" target="Clavering">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Chatteris" target="Blanche">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Chatteris" target="Major Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Miss Fotheringay">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Arthur" target="Smirke">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Foker">
+      <data key="d2">20</data>
+    </edge>
+    <edge source="Arthur" target="the Roshervilles">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Lady Agnes">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Heaven">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Arthur" target="Laura">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="Arthur" target="Dear Laura">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Warrington">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Arthur" target="Sir Charles Mirabel">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Bows">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Arthur" target="Archer">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="God">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Arthur" target="Blanche">
+      <data key="d2">25</data>
+    </edge>
+    <edge source="Arthur" target="Costigan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Fanny">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="Arthur" target="Lady Ann">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Arthur" target="Job">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Miss">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Huxter">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Arthur" target="Mrs. Bolton">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Guizot">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="the Thiers">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="De Profundis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Newton">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Pascal">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Socrates">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Arthur" target="Galileo">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Arthur" target="Fabius">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Arthur" target="Hannibal">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Plutarch">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Miss Bunyan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Major Pendennis">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="Arthur" target="Pen">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Arthur" target="Lady Mirabel’s">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Strong">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Arthur" target="Bloundell">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="the Begum">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Fate">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Undine">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Lady Rockminster">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Morgan">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Arthur" target="Dear Blanche">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Arthur" target="Claude Melnotte">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Alnaschar">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Cinderella">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Lady Mirabel">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Mrs. Lightfoot">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Pendennis,—In">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Arthur" target="Mrs. Pendennis">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Arthur" target="the Garbanzos Amontillado">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Mr. Amory">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="John Armstrong">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Jack Alias">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Arthur" target="Cora">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="E. Strong">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arthur" target="Tuesday">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bows" target="Miss Hebe">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Bows" target="Miss Fotheringay">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Bows" target="Bedad">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bows" target="Miss Costigan">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Bows" target="Jove">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bows" target="Croesus">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bows" target="Sir Derby Oaks">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bows" target="Cos">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bows" target="Wigsby">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bows" target="Mrs. Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bows" target="Pen">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Bows" target="Mrs. Bolton">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Bows" target="Arthur">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="Bows" target="Fanny">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Bows" target="Betsy - Jane">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bows" target="Amelia - Ann">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bows" target="Lady Mirabel">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bows" target="Doctor Johnson">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bows" target="the Gent">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bows" target="Mrs. H.">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Bows" target="Jack Linton">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bows" target="Bob Blades">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bows" target="Clavering">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bows" target="Huxter">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Bows" target="Costigan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bows" target="Lothario">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bows" target="Ma">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bows" target="Blanche">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bows" target="Pa">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wenham" target="Pendennis">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Wenham" target="Miss Bunion">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Wenham" target="Arthur">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wenham" target="Lady Fanny Fantail">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wenham" target="Popjoy">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Tatham" target="Major Pendennis">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mr. Tatham" target="Foker">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mr. Tatham" target="Mr. Costigan">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Tatham" target="Mr. Skinner">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Tatham" target="Mr. Skinner,—crying">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Huxter" target="Fanny">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="Huxter" target="Jack Hobnell">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Huxter" target="Arthur">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Huxter" target="Blanche">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Huxter" target="Strong">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Huxter" target="Cos">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Huxter" target="Altamont">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Huxter" target="Pen">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Huxter" target="Mrs. Lightfoot">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Huxter" target="Old Bows">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Huxter" target="Dammy">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Huxter" target="Jack Linton">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Fotheringay" target="Bows">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Miss Fotheringay" target="Pen">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Miss Fotheringay" target="Hamlet">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Fotheringay" target="Kotzebue">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Fotheringay" target="Sand">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Fotheringay" target="young Poldoody">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Fotheringay" target="Jack Costigan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Fotheringay" target="Costigan">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Miss Fotheringay" target="Arthur">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Miss Fotheringay" target="Mahers">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Fotheringay" target="Fanny">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Fotheringay" target="Biddy">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Fotheringay" target="Papa">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Miss Fotheringay" target="Pa">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Fotheringay" target="Miss Costigan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Fotheringay" target="Major Pendennis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Fotheringay" target="Mrs. Pendennis">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Miss Fotheringay" target="my Lady Poldoody of Oystherstown Castle">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Archer" target="John">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Archer" target="Fairoaks">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Archer" target="the Port St Martin">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Archer" target="the French Ambassador">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Archer" target="Lord Steyne">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Archer" target="the Lord Chamberlain">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Archer" target="Brian Boru">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Archer" target="Saint Cloud">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Archer" target="Marshal Massena">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Archer" target="Russia">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Archer" target="Madame Massena">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Archer" target="the Princess Marie Cunegonde">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Archer" target="Sir Charles Mirabel">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Archer" target="Fou - choo - foo">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Archer" target="Mrs. Bungay?—one">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Archer" target="Mrs. Archer">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Archer" target="the Chinese">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Archer" target="Fido">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Archer" target="Pekin">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Archer" target="Lady Flamingo">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Archer" target="Bungay">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Archer" target="Mrs. Pendennis">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Archer" target="Lord Rochester">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Archer" target="Lord John">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Archer" target="Sir James">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Archer" target="the Duke of Wellington">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Archer" target="Major Pendennis">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Archer" target="Blanche">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Archer" target="Foker">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Archer" target="Hallo">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Archer" target="Cobden">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Archer" target="Mrs. Shandon">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Shandon" target="Charles">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mrs. Shandon" target="Finucane">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Shandon" target="Mary">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Shandon" target="Burton">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Shandon" target="Bungay">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Shandon" target="Captain Sumph">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Shandon" target="Wagg">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mrs. Shandon" target="Warrington">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mrs. Shandon" target="Jack Bludyer">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Shandon" target="Sir Charles Mirabel">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Shandon" target="Laura">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Shandon" target="Cras">
+      <data key="d2">1</data>
+    </edge>
+  </graph>
+</graphml>

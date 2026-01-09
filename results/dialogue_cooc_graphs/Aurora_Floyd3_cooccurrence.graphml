@@ -1,0 +1,1279 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="mentions" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="John">
+      <data key="d0">1244</data>
+    </node>
+    <node id="Aurora">
+      <data key="d0">1157</data>
+    </node>
+    <node id="Talbot">
+      <data key="d0">950</data>
+    </node>
+    <node id="Mr. Grimstone">
+      <data key="d0">293</data>
+    </node>
+    <node id="Stephen Hargraves">
+      <data key="d0">237</data>
+    </node>
+    <node id="Lucy">
+      <data key="d0">225</data>
+    </node>
+    <node id="Mrs. Powell">
+      <data key="d0">151</data>
+    </node>
+    <node id="Samuel Prodder">
+      <data key="d0">126</data>
+    </node>
+    <node id="James Conyers">
+      <data key="d0">118</data>
+    </node>
+    <node id="Dork">
+      <data key="d0">66</data>
+    </node>
+    <node id="the &quot; Softy">
+      <data key="d0">52</data>
+    </node>
+    <node id="Tom">
+      <data key="d0">51</data>
+    </node>
+    <node id="Archibald Floyd">
+      <data key="d0">49</data>
+    </node>
+    <node id="Mrs. Bulstrode">
+      <data key="d0">48</data>
+    </node>
+    <node id="Captain Prodder">
+      <data key="d0">45</data>
+    </node>
+    <node id="Steeve Hargraves">
+      <data key="d0">33</data>
+    </node>
+    <node id="Mr. Hayward">
+      <data key="d0">32</data>
+    </node>
+    <node id="Dawson">
+      <data key="d0">20</data>
+    </node>
+    <node id="Mr. Harrison">
+      <data key="d0">19</data>
+    </node>
+    <node id="Mr. Lofthouse">
+      <data key="d0">19</data>
+    </node>
+    <node id="God">
+      <data key="d0">16</data>
+    </node>
+    <node id="Crosby">
+      <data key="d0">14</data>
+    </node>
+    <node id="Heaven">
+      <data key="d0">13</data>
+    </node>
+    <node id="Eliza">
+      <data key="d0">12</data>
+    </node>
+    <node id="Mr. Floyd">
+      <data key="d0">12</data>
+    </node>
+    <node id="Mrs. John Anderson">
+      <data key="d0">8</data>
+    </node>
+    <node id="Poor Aurora">
+      <data key="d0">8</data>
+    </node>
+    <node id="Lolly">
+      <data key="d0">8</data>
+    </node>
+    <node id="Smith">
+      <data key="d0">7</data>
+    </node>
+    <node id="Mr.">
+      <data key="d0">7</data>
+    </node>
+    <node id="Providence">
+      <data key="d0">6</data>
+    </node>
+    <node id="Aurora Conyers">
+      <data key="d0">6</data>
+    </node>
+    <node id="Langley">
+      <data key="d0">6</data>
+    </node>
+    <node id="Squire Mellish">
+      <data key="d0">5</data>
+    </node>
+    <node id="Othello">
+      <data key="d0">5</data>
+    </node>
+    <node id="John Mellish">
+      <data key="d0">5</data>
+    </node>
+    <node id="Mr. Pastern">
+      <data key="d0">5</data>
+    </node>
+    <node id="Parsons">
+      <data key="d0">4</data>
+    </node>
+    <node id="Tommy Barnes">
+      <data key="d0">3</data>
+    </node>
+    <node id="Lord Stamford">
+      <data key="d0">3</data>
+    </node>
+    <node id="Sir John Walter Raleigh Bulstrode">
+      <data key="d0">3</data>
+    </node>
+    <node id="Red Rover">
+      <data key="d0">3</data>
+    </node>
+    <node id="Jarvis">
+      <data key="d0">2</data>
+    </node>
+    <node id="Forbes">
+      <data key="d0">2</data>
+    </node>
+    <node id="Burke">
+      <data key="d0">2</data>
+    </node>
+    <node id="Tom Thumb">
+      <data key="d0">2</data>
+    </node>
+    <node id="Sir Cresswell Cresswell">
+      <data key="d0">2</data>
+    </node>
+    <node id="King David">
+      <data key="d0">2</data>
+    </node>
+    <node id="Jonathan Wild">
+      <data key="d0">2</data>
+    </node>
+    <node id="Reginald Lofthouse">
+      <data key="d0">2</data>
+    </node>
+    <node id="Colonel Maddison">
+      <data key="d0">2</data>
+    </node>
+    <node id="Miss Brown">
+      <data key="d0">2</data>
+    </node>
+    <node id="Mr. Morton">
+      <data key="d0">2</data>
+    </node>
+    <node id="Susan">
+      <data key="d0">2</data>
+    </node>
+    <node id="the Bulstrodes">
+      <data key="d0">2</data>
+    </node>
+    <node id="Uncle Archibald">
+      <data key="d0">2</data>
+    </node>
+    <node id="mad Lear">
+      <data key="d0">1</data>
+    </node>
+    <node id="Bow">
+      <data key="d0">1</data>
+    </node>
+    <node id="Nero">
+      <data key="d0">1</data>
+    </node>
+    <node id="Flying Dutchman">
+      <data key="d0">1</data>
+    </node>
+    <node id="Yes,&quot;--he">
+      <data key="d0">1</data>
+    </node>
+    <node id="Desdemona">
+      <data key="d0">1</data>
+    </node>
+    <node id="M. E. BRADDON">
+      <data key="d0">1</data>
+    </node>
+    <node id="Gutenberg">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lady Audley">
+      <data key="d0">1</data>
+    </node>
+    <node id="Joseph Conyers">
+      <data key="d0">1</data>
+    </node>
+    <node id="Stephen Hargraves,--&quot;th">
+      <data key="d0">1</data>
+    </node>
+    <node id="Miss Floyd">
+      <data key="d0">1</data>
+    </node>
+    <node id="James Conyers,--the">
+      <data key="d0">1</data>
+    </node>
+    <node id="Thorley">
+      <data key="d0">1</data>
+    </node>
+    <node id="Fagin">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lord Glasgow">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lord Zetland">
+      <data key="d0">1</data>
+    </node>
+    <node id="Conyers,--and">
+      <data key="d0">1</data>
+    </node>
+    <node id="Marie Antoinette">
+      <data key="d0">1</data>
+    </node>
+    <node id="Madame du Barry">
+      <data key="d0">1</data>
+    </node>
+    <node id="the untiring Sisyphus">
+      <data key="d0">1</data>
+    </node>
+    <node id="Goodness">
+      <data key="d0">1</data>
+    </node>
+    <node id="Johnsonese">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mechlin">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mrs. Haller">
+      <data key="d0">1</data>
+    </node>
+    <node id="Cicero">
+      <data key="d0">1</data>
+    </node>
+    <node id="heard----">
+      <data key="d0">1</data>
+    </node>
+    <node id="Charles">
+      <data key="d0">1</data>
+    </node>
+    <node id="the Royalist Mellish">
+      <data key="d0">1</data>
+    </node>
+    <node id="the Crooked Rabbit">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mellish,--&quot;we">
+      <data key="d0">1</data>
+    </node>
+    <node id="Talbot----">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lord Clyde">
+      <data key="d0">1</data>
+    </node>
+    <node id="CHAPTER XI . REUNION">
+      <data key="d0">1</data>
+    </node>
+    <node id="Viscount Palmerston">
+      <data key="d0">1</data>
+    </node>
+    <node id="dear Miss Pyne">
+      <data key="d0">1</data>
+    </node>
+    <node id="CHAPTER XIII">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr. Samuel Weller">
+      <data key="d0">1</data>
+    </node>
+    <node id="Yorkshire">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mellish Park">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lord">
+      <data key="d0">1</data>
+    </node>
+    <node id="Caliban">
+      <data key="d0">1</data>
+    </node>
+    <node id="Doncaster">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mrs. Mellish----">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mrs. Alexander Floyd">
+      <data key="d0">1</data>
+    </node>
+    <node id="Harper">
+      <data key="d0">1</data>
+    </node>
+    <edge source="John" target="Aurora">
+      <data key="d1">111</data>
+    </edge>
+    <edge source="John" target="James Conyers">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="John" target="Dork">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="John" target="Stephen Hargraves">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="John" target="Archibald Floyd">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="John" target="Desdemona">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John" target="Othello">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John" target="Colonel Maddison">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="John" target="Jarvis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John" target="Mr. Lofthouse">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="John" target="Steeve Hargraves">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="John" target="Mr. Hayward">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="John" target="Langley">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="John" target="Mr. Pastern">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="John" target="the &quot; Softy">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="John" target="Stephen Hargraves,--&quot;th">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John" target="Yes,&quot;--he">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John" target="Nero">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John" target="Heaven">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="John" target="Parsons">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="John" target="Talbot">
+      <data key="d1">110</data>
+    </edge>
+    <edge source="John" target="God">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="John" target="Squire Mellish">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John" target="Lolly">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="John" target="Mrs. Powell">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="John" target="Miss Floyd">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John" target="Aurora Conyers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John" target="Mr. Floyd">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="John" target="Mrs. Haller">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John" target="Lucy">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="John" target="Thorley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John" target="Goodness">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John" target="Providence">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="John" target="Forbes">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="John" target="Burke">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John" target="Eliza">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John" target="Mr.">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="John" target="Fagin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John" target="King David">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John" target="the Royalist Mellish">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John" target="Mrs. Bulstrode">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="John" target="Cicero">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John" target="Lord Clyde">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John" target="Viscount Palmerston">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John" target="Samuel Prodder">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="John" target="Mr. Grimstone">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="John" target="Mellish,--&quot;we">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John" target="Talbot----">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John" target="Crosby">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John" target="Dawson">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="John" target="Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John" target="Yorkshire">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John" target="Red Rover">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="John" target="Harper">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="James Conyers">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Aurora" target="Dork">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="God">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Aurora" target="Archibald Floyd">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Aurora" target="Desdemona">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Othello">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Colonel Maddison">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Mr. Hayward">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Aurora" target="Mr. Lofthouse">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Aurora" target="Joseph Conyers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Susan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="John Mellish">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Aurora" target="Mrs. John Anderson">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="mad Lear">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Bow">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Nero">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Stephen Hargraves">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Aurora" target="the &quot; Softy">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Aurora" target="Steeve Hargraves">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Aurora" target="Heaven">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Aurora" target="Lucy">
+      <data key="d1">42</data>
+    </edge>
+    <edge source="Aurora" target="Parsons">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Aurora" target="Mrs. Powell">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Aurora" target="Talbot">
+      <data key="d1">101</data>
+    </edge>
+    <edge source="Aurora" target="Squire Mellish">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Miss Floyd">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Aurora Conyers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Langley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Mrs. Haller">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Thorley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Mr.">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Aurora" target="Madame du Barry">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Marie Antoinette">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Mrs. Bulstrode">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Aurora" target="Mr. Pastern">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Providence">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Aurora" target="Lolly">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Eliza">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Tommy Barnes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Mr. Harrison">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Aurora" target="Fagin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="King David">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Sir Cresswell Cresswell">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="the Royalist Mellish">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Mellish,--&quot;we">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Mr. Grimstone">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Aurora" target="Mr. Floyd">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Aurora" target="Crosby">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Aurora" target="Captain Prodder">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Mr. Samuel Weller">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Mellish Park">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Burke">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Sir John Walter Raleigh Bulstrode">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="the Bulstrodes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Mrs. Alexander Floyd">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Samuel Prodder">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Harper">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Talbot" target="Archibald Floyd">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Talbot" target="Lucy">
+      <data key="d1">51</data>
+    </edge>
+    <edge source="Talbot" target="Mechlin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Talbot" target="Johnsonese">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Talbot" target="Mrs. Bulstrode">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Talbot" target="Mr.">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Talbot" target="Poor Aurora">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Talbot" target="Uncle Archibald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Talbot" target="God">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Talbot" target="James Conyers">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Talbot" target="the untiring Sisyphus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Talbot" target="Madame du Barry">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Talbot" target="Marie Antoinette">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Talbot" target="Mr. Hayward">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Talbot" target="Mr. Lofthouse">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Talbot" target="Lord Stamford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Talbot" target="Charles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Talbot" target="Cicero">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Talbot" target="Heaven">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Talbot" target="Samuel Prodder">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Talbot" target="Mr. Grimstone">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Talbot" target="Mellish,--&quot;we">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Talbot" target="Providence">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Talbot" target="Mrs. Powell">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Talbot" target="Tom Thumb">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Talbot" target="Mr. Floyd">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Talbot" target="Crosby">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Talbot" target="Stephen Hargraves">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Talbot" target="Yorkshire">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Talbot" target="Dawson">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Talbot" target="Red Rover">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Talbot" target="Burke">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Talbot" target="Sir John Walter Raleigh Bulstrode">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Talbot" target="the Bulstrodes">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Talbot" target="Caliban">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Talbot" target="the &quot; Softy">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Talbot" target="Doncaster">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Talbot" target="Captain Prodder">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Talbot" target="Mrs. Alexander Floyd">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Grimstone" target="God">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Grimstone" target="Mrs. Powell">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Grimstone" target="Tom Thumb">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Grimstone" target="James Conyers">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Grimstone" target="Crosby">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Mr. Grimstone" target="Lucy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Grimstone" target="Dawson">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Mr. Grimstone" target="Archibald Floyd">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Grimstone" target="Steeve Hargraves">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Grimstone" target="Stephen Hargraves">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Mr. Grimstone" target="the &quot; Softy">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Mr. Grimstone" target="Tom">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Mr. Grimstone" target="Jarvis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Grimstone" target="Mr. Hayward">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Grimstone" target="Mr. Lofthouse">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Grimstone" target="Sir John Walter Raleigh Bulstrode">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Stephen Hargraves" target="the &quot; Softy">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Stephen Hargraves" target="Mr. Lofthouse">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Stephen Hargraves" target="Steeve Hargraves">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Stephen Hargraves" target="Captain Prodder">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Stephen Hargraves" target="Samuel Prodder">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Stephen Hargraves" target="Mr. Floyd">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Stephen Hargraves" target="Eliza">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Stephen Hargraves" target="James Conyers">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Stephen Hargraves" target="Dawson">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Stephen Hargraves" target="Crosby">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Stephen Hargraves" target="Tom">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Stephen Hargraves" target="Jonathan Wild">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Stephen Hargraves" target="Providence">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Stephen Hargraves" target="Caliban">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Stephen Hargraves" target="the Bulstrodes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucy" target="Mechlin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucy" target="Johnsonese">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucy" target="Mrs. Bulstrode">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Lucy" target="Poor Aurora">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lucy" target="Uncle Archibald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucy" target="God">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucy" target="Madame du Barry">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucy" target="Marie Antoinette">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucy" target="Mr.">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucy" target="Archibald Floyd">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lucy" target="Heaven">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lucy" target="Mellish Park">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucy" target="Mrs. Alexander Floyd">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Powell" target="Heaven">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Powell" target="Parsons">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Powell" target="the &quot; Softy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Powell" target="Aurora Conyers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Powell" target="Mr. Floyd">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Powell" target="Mr. Lofthouse">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Powell" target="Mr. Hayward">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Powell" target="Mrs. Bulstrode">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Powell" target="James Conyers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Samuel Prodder" target="Dork">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Samuel Prodder" target="Captain Prodder">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Samuel Prodder" target="Lord Glasgow">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Samuel Prodder" target="Lord Zetland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Samuel Prodder" target="James Conyers">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Samuel Prodder" target="Heaven">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Samuel Prodder" target="the &quot; Softy">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Samuel Prodder" target="Doncaster">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Samuel Prodder" target="Eliza">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Samuel Prodder" target="Mrs. Mellish----">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="James Conyers" target="Dork">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="James Conyers" target="Mr. Hayward">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="James Conyers" target="Mr. Morton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="James Conyers" target="Colonel Maddison">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="James Conyers" target="Mr. Lofthouse">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="James Conyers" target="Archibald Floyd">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="James Conyers" target="Joseph Conyers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="James Conyers" target="Susan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="James Conyers" target="John Mellish">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="James Conyers" target="God">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="James Conyers" target="Mr. Harrison">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="James Conyers" target="Heaven">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="James Conyers" target="the &quot; Softy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="James Conyers" target="Mr.">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="James Conyers" target="Captain Prodder">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="James Conyers" target="Mr. Samuel Weller">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="James Conyers" target="Dawson">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="James Conyers" target="Red Rover">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dork" target="Colonel Maddison">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dork" target="Jarvis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dork" target="Mr. Lofthouse">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Dork" target="Steeve Hargraves">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dork" target="Flying Dutchman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dork" target="Mr. Hayward">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="the &quot; Softy" target="Steeve Hargraves">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="the &quot; Softy" target="Mr. Lofthouse">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the &quot; Softy" target="Captain Prodder">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the &quot; Softy" target="Mr. Harrison">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the &quot; Softy" target="Crosby">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the &quot; Softy" target="Tom">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="the &quot; Softy" target="Jonathan Wild">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the &quot; Softy" target="Providence">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the &quot; Softy" target="Caliban">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tom" target="Jonathan Wild">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tom" target="Providence">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Archibald Floyd" target="Lolly">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Archibald Floyd" target="Desdemona">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Archibald Floyd" target="Othello">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Archibald Floyd" target="Joseph Conyers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Archibald Floyd" target="Susan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Archibald Floyd" target="Mr. Pastern">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Archibald Floyd" target="Captain Prodder">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Archibald Floyd" target="Mr. Harrison">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Archibald Floyd" target="Mr. Samuel Weller">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Archibald Floyd" target="Mrs. Alexander Floyd">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Bulstrode" target="Johnsonese">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Bulstrode" target="Madame du Barry">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Bulstrode" target="Marie Antoinette">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Bulstrode" target="Mr.">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Captain Prodder" target="Lord Glasgow">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Captain Prodder" target="Lord Zetland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Captain Prodder" target="Eliza">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Captain Prodder" target="Mr. Harrison">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Captain Prodder" target="Mr. Samuel Weller">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Steeve Hargraves" target="Colonel Maddison">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Steeve Hargraves" target="Jarvis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Steeve Hargraves" target="Mr. Lofthouse">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Steeve Hargraves" target="Crosby">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Steeve Hargraves" target="Dawson">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hayward" target="Mr. Morton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hayward" target="Colonel Maddison">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hayward" target="Mr. Lofthouse">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Mr. Hayward" target="Flying Dutchman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hayward" target="Reginald Lofthouse">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dawson" target="Crosby">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Dawson" target="Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dawson" target="Red Rover">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Harrison" target="Mr. Samuel Weller">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Lofthouse" target="Colonel Maddison">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Lofthouse" target="Jarvis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Lofthouse" target="Stephen Hargraves,--&quot;th">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Lofthouse" target="Flying Dutchman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Lolly">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Providence">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Crosby" target="Mr. Floyd">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Heaven" target="Eliza">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Eliza" target="Burke">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Eliza" target="Providence">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Eliza" target="Tommy Barnes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Eliza" target="Mrs. Mellish----">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Floyd" target="Aurora Conyers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Floyd" target="Conyers,--and">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Floyd" target="James Conyers,--the">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. John Anderson" target="John Mellish">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. John Anderson" target="mad Lear">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Poor Aurora" target="Uncle Archibald">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lolly" target="Providence">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Smith" target="Miss Brown">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr." target="Madame du Barry">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr." target="Marie Antoinette">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Providence" target="Burke">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Providence" target="Jonathan Wild">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Langley" target="Mr. Pastern">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Langley" target="Mrs. Haller">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Langley" target="Susan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Langley" target="the Crooked Rabbit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Othello" target="Desdemona">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John Mellish" target="mad Lear">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir John Walter Raleigh Bulstrode" target="Burke">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir John Walter Raleigh Bulstrode" target="the Bulstrodes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jarvis" target="Colonel Maddison">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Burke" target="the Bulstrodes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King David" target="Fagin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Susan" target="Joseph Conyers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Susan" target="the Crooked Rabbit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="James Conyers,--the" target="Conyers,--and">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Glasgow" target="Lord Zetland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Marie Antoinette" target="Madame du Barry">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Clyde" target="Viscount Palmerston">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

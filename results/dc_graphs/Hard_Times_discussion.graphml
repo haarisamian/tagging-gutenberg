@@ -1,0 +1,934 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d1" for="node" attr.name="dc_in" attr.type="long" />
+  <key id="d0" for="node" attr.name="dc_out" attr.type="long" />
+  <graph edgedefault="directed">
+    <node id="Bitzer">
+      <data key="d0">26</data>
+      <data key="d1">39</data>
+    </node>
+    <node id="Rathcal">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Remus">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Tom">
+      <data key="d0">303</data>
+      <data key="d1">142</data>
+    </node>
+    <node id="Castlereagh">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Slackbridge">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Girl">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Sparsit">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Tho">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Master Kidderminster">
+      <data key="d0">5</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Jack the Giant Killer">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Gooseberry">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Thquire">
+      <data key="d0">0</data>
+      <data key="d1">22</data>
+    </node>
+    <node id="Hem">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Dropped">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Coventry">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lord">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. M’Choakumchild">
+      <data key="d0">0</data>
+      <data key="d1">9</data>
+    </node>
+    <node id="Thafe">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Brute">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Doctor">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Punch">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr.">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Mr. Childers">
+      <data key="d0">22</data>
+      <data key="d1">10</data>
+    </node>
+    <node id="Rachael">
+      <data key="d0">42</data>
+      <data key="d1">29</data>
+    </node>
+    <node id="Slack - Jeff">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Yorick">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Nickits">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Halloa">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="the Robinth">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Merrylegs">
+      <data key="d0">0</data>
+      <data key="d1">10</data>
+    </node>
+    <node id="Tom Gradgrind">
+      <data key="d0">3</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Missus">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Luth">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="God">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Mr. Sleary">
+      <data key="d0">66</data>
+      <data key="d1">8</data>
+    </node>
+    <node id="Miss Gradgrind">
+      <data key="d0">0</data>
+      <data key="d1">18</data>
+    </node>
+    <node id="a Cheethemonger">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="George">
+      <data key="d0">0</data>
+      <data key="d1">8</data>
+    </node>
+    <node id="Fortnet">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Rachel">
+      <data key="d0">2</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Banks">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Gin">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Romulus">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Harvey">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Old Bounderby">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Gradgrind">
+      <data key="d0">38</data>
+      <data key="d1">14</data>
+    </node>
+    <node id="Mr. Blackpool’—wind">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Heaven">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Mr. Bounderby">
+      <data key="d0">291</data>
+      <data key="d1">124</data>
+    </node>
+    <node id="Blackpot">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Pot">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Louisa">
+      <data key="d0">119</data>
+      <data key="d1">173</data>
+    </node>
+    <node id="Loo">
+      <data key="d0">1</data>
+      <data key="d1">60</data>
+    </node>
+    <node id="Emma Gordon">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Religion">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Providence">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="A Cackler">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Josephine">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Sissy">
+      <data key="d0">81</data>
+      <data key="d1">108</data>
+    </node>
+    <node id="Mrs. Pegler">
+      <data key="d0">12</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Mrs. M’Choakumchild">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Pray">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Joseph Gradgrind">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Loo Gradgrind">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Harthouse">
+      <data key="d0">76</data>
+      <data key="d1">79</data>
+    </node>
+    <node id="Josiah Bounderby">
+      <data key="d0">21</data>
+      <data key="d1">34</data>
+    </node>
+    <node id="Thank’ee">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Therry">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Jane">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Childerth">
+      <data key="d0">0</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Egod">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Lord Harry">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Lady Scadgers">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Joth’phine">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Thethilia">
+      <data key="d0">0</data>
+      <data key="d1">9</data>
+    </node>
+    <node id="Mercy">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Crack">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mother Sparsit">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Tight - Jeff">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Judas Iscariot">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Cupid">
+      <data key="d0">2</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Jack’th thervant">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Father">
+      <data key="d0">0</data>
+      <data key="d1">16</data>
+    </node>
+    <node id="Here’th Jothphine">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="addreth">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Pod">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Merrylegth">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Fetch Mr. Bounderby">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Dick Jones of Wapping">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Stephen">
+      <data key="d0">23</data>
+      <data key="d1">114</data>
+    </node>
+    <edge source="Bitzer" target="Mr. Bounderby">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Bitzer" target="Coventry">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bitzer" target="Stephen">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Bitzer" target="Tom">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Bitzer" target="Harvey">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tom" target="Girl">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tom" target="Sissy">
+      <data key="d2">58</data>
+    </edge>
+    <edge source="Tom" target="Bitzer">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="Tom" target="Mr. M’Choakumchild">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tom" target="Louisa">
+      <data key="d2">63</data>
+    </edge>
+    <edge source="Tom" target="Mr. Bounderby">
+      <data key="d2">38</data>
+    </edge>
+    <edge source="Tom" target="Pod">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tom" target="Halloa">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Tom" target="Mr. Childers">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Tom" target="Master Kidderminster">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Tom" target="Tight - Jeff">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tom" target="Pray">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tom" target="Thquire">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Tom" target="Mr.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Tom" target="Mr. Sleary">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tom" target="Mrs. Gradgrind">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Tom" target="Merrylegs">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Tom" target="Loo">
+      <data key="d2">39</data>
+    </edge>
+    <edge source="Tom" target="Mrs. M’Choakumchild">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tom" target="Mr. Harthouse">
+      <data key="d2">29</data>
+    </edge>
+    <edge source="Tom" target="Thank’ee">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Tom" target="Mother Sparsit">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Tom" target="Stephen">
+      <data key="d2">16</data>
+    </edge>
+    <edge source="Tom" target="God">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tom" target="Crack">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tom" target="Father">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tom" target="Josiah Bounderby">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Tom" target="Mrs. Pegler">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Slackbridge" target="Judas Iscariot">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Slackbridge" target="Castlereagh">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Slackbridge" target="Stephen">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Master Kidderminster" target="Mr. Childers">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Master Kidderminster" target="Tom">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Master Kidderminster" target="Tight - Jeff">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Childers" target="Sissy">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Mr. Childers" target="Master Kidderminster">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mr. Childers" target="Slack - Jeff">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Childers" target="Tight - Jeff">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Childers" target="Mr. Bounderby">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Mr. Childers" target="Punch">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Rachael" target="Stephen">
+      <data key="d2">28</data>
+    </edge>
+    <edge source="Rachael" target="Heaven">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Rachael" target="Doctor">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Rachael" target="Missus">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Rachael" target="Mr. Bounderby">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Rachael" target="Mercy">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Rachael" target="Sissy">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Rachael" target="Mrs. Pegler">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tom Gradgrind" target="Loo">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Tom Gradgrind" target="Old Bounderby">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Sleary" target="Tom">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mr. Sleary" target="Thquire">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Mr. Sleary" target="Therry">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Sleary" target="Brute">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Sleary" target="Thethilia">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Mr. Sleary" target="Joth’phine">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Sleary" target="Emma Gordon">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mr. Sleary" target="Sissy">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mr. Sleary" target="Here’th Jothphine">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Sleary" target="Childerth">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Mr. Sleary" target="the Robinth">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Sleary" target="a Cheethemonger">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Sleary" target="Thafe">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Sleary" target="Jack the Giant Killer">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Sleary" target="Jack’th thervant">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Sleary" target="Louisa">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Mr. Sleary" target="Mr. Bounderby">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Sleary" target="Mr. Harthouse">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Sleary" target="Bitzer">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mr. Sleary" target="Rathcal">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Sleary" target="addreth">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Sleary" target="Merrylegth">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Sleary" target="Tho">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Rachel" target="God">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Rachel" target="Stephen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Gradgrind" target="Louisa">
+      <data key="d2">25</data>
+    </edge>
+    <edge source="Mrs. Gradgrind" target="Tom">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Mrs. Gradgrind" target="Mr. Bounderby">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Gradgrind" target="Loo">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Gradgrind" target="Sissy">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mrs. Gradgrind" target="Josiah Bounderby">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Gradgrind" target="Joseph Gradgrind">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Mrs. Gradgrind">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Tom">
+      <data key="d2">58</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Louisa">
+      <data key="d2">42</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Sissy">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Gin">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="George">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Merrylegs">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Mr. Childers">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="A Cackler">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Dick Jones of Wapping">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Josiah Bounderby">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="the Lord Harry">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Miss Gradgrind">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Stephen">
+      <data key="d2">39</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Gooseberry">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Hem">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Bitzer">
+      <data key="d2">18</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Mr. Sparsit">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Mr. Harthouse">
+      <data key="d2">37</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Loo">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Slackbridge">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Mr. Blackpool’—wind">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Nickits">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Dropped">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Egod">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Pot">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Religion">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Banks">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Remus">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Romulus">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Loo Gradgrind">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Rachael">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Fetch Mr. Bounderby">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Mrs. Pegler">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Lady Scadgers">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Louisa" target="Tom">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="Louisa" target="Josiah Bounderby">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Louisa" target="Mr. Bounderby">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="Louisa" target="Loo">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Louisa" target="Mrs. M’Choakumchild">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Louisa" target="Mr.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Louisa" target="Sissy">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="Louisa" target="Mr. M’Choakumchild">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Louisa" target="Father">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Louisa" target="Merrylegs">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Louisa" target="Mr. Harthouse">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Louisa" target="Stephen">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="Louisa" target="Rachael">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Louisa" target="Mr. Sparsit">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Louisa" target="Yorick">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Louisa" target="Miss Gradgrind">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Louisa" target="God">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Louisa" target="Jane">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Louisa" target="Heaven">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Louisa" target="Thethilia">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Louisa" target="Childerth">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Louisa" target="Thquire">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Louisa" target="Luth">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Loo" target="Tom">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sissy" target="Father">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Sissy" target="Josephine">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sissy" target="Louisa">
+      <data key="d2">31</data>
+    </edge>
+    <edge source="Sissy" target="Mrs. M’Choakumchild">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sissy" target="Mr.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sissy" target="Mr. M’Choakumchild">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Sissy" target="Miss">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sissy" target="Merrylegs">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sissy" target="Tom">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Sissy" target="Mr. Sleary">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Sissy" target="Mr. Harthouse">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Sissy" target="Mr. Bounderby">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Sissy" target="Rachael">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Sissy" target="Stephen">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Sissy" target="Thquire">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mrs. Pegler" target="Stephen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Pegler" target="Josiah Bounderby">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Mrs. Pegler" target="Lord">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Pegler" target="Tom">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Harthouse" target="Mr. Bounderby">
+      <data key="d2">29</data>
+    </edge>
+    <edge source="Mr. Harthouse" target="Tom">
+      <data key="d2">27</data>
+    </edge>
+    <edge source="Mr. Harthouse" target="Loo">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Mr. Harthouse" target="Louisa">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mr. Harthouse" target="Bitzer">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Harthouse" target="Blackpot">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Harthouse" target="Miss Gradgrind">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Harthouse" target="Sissy">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Josiah Bounderby" target="Mrs. Gradgrind">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Josiah Bounderby" target="Tom">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Josiah Bounderby" target="Mr. Bounderby">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Josiah Bounderby" target="Louisa">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Josiah Bounderby" target="George">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Cupid" target="Mr. Childers">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Stephen" target="Providence">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Stephen" target="Rachael">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Stephen" target="Mr. Bounderby">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Stephen" target="Bitzer">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Stephen" target="Mr. Harthouse">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Stephen" target="Heaven">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Stephen" target="Fortnet">
+      <data key="d2">1</data>
+    </edge>
+  </graph>
+</graphml>

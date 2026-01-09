@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="quotes" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Melmoth">
+      <data key="d0">63</data>
+    </node>
+    <node id="Stanton">
+      <data key="d0">24</data>
+    </node>
+    <node id="Old Melmoth">
+      <data key="d0">21</data>
+    </node>
+    <node id="God">
+      <data key="d0">21</data>
+    </node>
+    <node id="Father Olavida">
+      <data key="d0">6</data>
+    </node>
+    <node id="Vide Pope">
+      <data key="d0">5</data>
+    </node>
+    <node id="Senhor">
+      <data key="d0">5</data>
+    </node>
+    <node id="aunt Dinah">
+      <data key="d0">5</data>
+    </node>
+    <node id="Sybil">
+      <data key="d0">4</data>
+    </node>
+    <node id="Colonel Harrison">
+      <data key="d0">2</data>
+    </node>
+    <node id="Colonel Blunt">
+      <data key="d0">2</data>
+    </node>
+    <node id="Vide Southern">
+      <data key="d0">2</data>
+    </node>
+    <node id="Lord">
+      <data key="d0">2</data>
+    </node>
+    <node id="Satan">
+      <data key="d0">2</data>
+    </node>
+    <node id="Father Fay">
+      <data key="d0">2</data>
+    </node>
+    <node id="Monster">
+      <data key="d0">2</data>
+    </node>
+    <node id="Miss Edgeworth">
+      <data key="d0">1</data>
+    </node>
+    <node id="Dogberry,--his">
+      <data key="d0">1</data>
+    </node>
+    <node id="great Glendower">
+      <data key="d0">1</data>
+    </node>
+    <node id="THE AUTHOR OF “ BERTRAM">
+      <data key="d0">1</data>
+    </node>
+    <node id="Cousin">
+      <data key="d0">1</data>
+    </node>
+    <node id="Miss Baillie">
+      <data key="d0">1</data>
+    </node>
+    <node id="Fatima">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mrs Aphra Behn">
+      <data key="d0">1</data>
+    </node>
+    <node id="Tabitha">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lee">
+      <data key="d0">1</data>
+    </node>
+    <node id="Oliva">
+      <data key="d0">1</data>
+    </node>
+    <node id="Wretch">
+      <data key="d0">1</data>
+    </node>
+    <node id="Director">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Melmoth" target="THE AUTHOR OF “ BERTRAM">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Melmoth" target="Sybil">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Melmoth" target="Old Melmoth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Melmoth" target="God">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Melmoth" target="great Glendower">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Melmoth" target="Stanton">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Melmoth" target="Fatima">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Melmoth" target="Miss Baillie">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Melmoth" target="Father Fay">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Melmoth" target="Oliva">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Stanton" target="great Glendower">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Stanton" target="Father Olavida">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Stanton" target="Dogberry,--his">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Stanton" target="Vide Pope">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Stanton" target="Vide Southern">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Stanton" target="Cousin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Stanton" target="Lee">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Stanton" target="Mrs Aphra Behn">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Stanton" target="Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Old Melmoth" target="Miss Edgeworth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Old Melmoth" target="Lord">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="God" target="Satan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Wretch">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="God" target="Father Fay">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Senhor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Monster">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vide Pope" target="aunt Dinah">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Senhor" target="Father Fay">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Senhor" target="Monster">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Senhor" target="Director">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="aunt Dinah" target="Director">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sybil" target="Miss Edgeworth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Colonel Harrison" target="Tabitha">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Colonel Harrison" target="Colonel Blunt">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Colonel Blunt" target="Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Satan" target="Oliva">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cousin" target="Lee">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Baillie" target="Fatima">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs Aphra Behn" target="Tabitha">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

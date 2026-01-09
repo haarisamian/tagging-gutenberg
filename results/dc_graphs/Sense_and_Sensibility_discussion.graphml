@@ -1,0 +1,1177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d1" for="node" attr.name="dc_in" attr.type="long" />
+  <key id="d0" for="node" attr.name="dc_out" attr.type="long" />
+  <graph edgedefault="directed">
+    <node id="Confess">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Palmer">
+      <data key="d0">1</data>
+      <data key="d1">29</data>
+    </node>
+    <node id="Sir John">
+      <data key="d0">59</data>
+      <data key="d1">35</data>
+    </node>
+    <node id="Mr. Impudence">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Madam">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Jennings">
+      <data key="d0">200</data>
+      <data key="d1">41</data>
+    </node>
+    <node id="Mrs. Ferrars—“very pretty,”—and">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Dashwood">
+      <data key="d0">113</data>
+      <data key="d1">16</data>
+    </node>
+    <node id="the Gilberts">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Edward">
+      <data key="d0">34</data>
+      <data key="d1">229</data>
+    </node>
+    <node id="William">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Cleveland">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Smith">
+      <data key="d0">0</data>
+      <data key="d1">17</data>
+    </node>
+    <node id="Eliza">
+      <data key="d0">0</data>
+      <data key="d1">17</data>
+    </node>
+    <node id="Martha Sharpe">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Palmer">
+      <data key="d0">30</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="Miss Grey">
+      <data key="d0">0</data>
+      <data key="d1">8</data>
+    </node>
+    <node id="Lord">
+      <data key="d0">0</data>
+      <data key="d1">26</data>
+    </node>
+    <node id="Cleveland!”—she">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Richard">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Richardson">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Barton">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Whitakers">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Cartwright">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Ma">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Robert">
+      <data key="d0">23</data>
+      <data key="d1">34</data>
+    </node>
+    <node id="Willoughby">
+      <data key="d0">58</data>
+      <data key="d1">159</data>
+    </node>
+    <node id="Mr.">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Colonel Brandon">
+      <data key="d0">14</data>
+      <data key="d1">111</data>
+    </node>
+    <node id="Music">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Folly">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Godby">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Palmers;—and">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Sally">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Charlotte">
+      <data key="d0">10</data>
+      <data key="d1">13</data>
+    </node>
+    <node id="La">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Michaelmas">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Willoughby.—Remember">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="God">
+      <data key="d0">0</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Margaret">
+      <data key="d0">14</data>
+      <data key="d1">8</data>
+    </node>
+    <node id="Ma’am">
+      <data key="d0">0</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="Biddy Henshawe">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Thomas">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Lady Middleton">
+      <data key="d0">16</data>
+      <data key="d1">22</data>
+    </node>
+    <node id="Fanny">
+      <data key="d0">15</data>
+      <data key="d1">15</data>
+    </node>
+    <node id="the Careys">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Allenham">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Annamaria">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Mr. Donavan">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+    </node>
+    <node id="_">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Palmers">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="so?—we">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mama">
+      <data key="d0">0</data>
+      <data key="d1">12</data>
+    </node>
+    <node id="Miss Morton">
+      <data key="d0">0</data>
+      <data key="d1">8</data>
+    </node>
+    <node id="the Richardsons">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+    </node>
+    <node id="Mrs. Burgess">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Sparks">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Heaven">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Hamlet">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Dashwood">
+      <data key="d0">4</data>
+      <data key="d1">49</data>
+    </node>
+    <node id="Mr. Simpson">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Colonel Brandon;—he">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+    </node>
+    <node id="Sophia">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Hunters">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Edward—“but">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Ay">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the late Lord Morton">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Edward?—Why">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Willoughby">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Marianne">
+      <data key="d0">206</data>
+      <data key="d1">201</data>
+    </node>
+    <node id="Mr. Pratt">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+    </node>
+    <node id="Cowper">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Lucy!—There">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Miss Dashwoods;”—was">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Nancy">
+      <data key="d0">0</data>
+      <data key="d1">12</data>
+    </node>
+    <node id="Combe Magna">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="the Westons">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Mrs. John Dashwood—_that">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Scott">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Mrs. Taylor">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Dashwood?—you">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Dr. Davies">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Mrs. Palmer;—“Not">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Mrs. Ellison">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Mrs. Clarke">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Miss Steeles">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="the Middletons">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+    </node>
+    <node id="Lady Elliott">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+    </node>
+    <node id="poor Mr. Edward , who , she was sure , had quite doted upon the worthless hussy , and was now , by all accounts , almost broken - hearted , at Oxford">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="the Ellisons">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Dashwood">
+      <data key="d0">12</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Norland">
+      <data key="d0">0</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Miss Williams">
+      <data key="d0">0</data>
+      <data key="d1">11</data>
+    </node>
+    <node id="Miss Walker">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Rose">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Steele">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="DEAR SIR">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Brandon">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Lucy">
+      <data key="d0">113</data>
+      <data key="d1">92</data>
+    </node>
+    <node id="the Miss Dashwoods">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Elinor">
+      <data key="d0">536</data>
+      <data key="d1">143</data>
+    </node>
+    <edge source="Mr. Palmer" target="Charlotte">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sir John" target="Willoughby">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="Sir John" target="Miss Dashwood">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Sir John" target="Marianne">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Sir John" target="Colonel Brandon">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Sir John" target="the Miss Dashwoods">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sir John" target="the Careys">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sir John" target="Mrs. Jennings">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Sir John" target="Elinor">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Sir John" target="the Palmers">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sir John" target="Charlotte">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Sir John" target="Mr. Palmer">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sir John" target="the Gilberts">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sir John" target="Edward">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sir John" target="Barton">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sir John" target="Lord">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sir John" target="Folly">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Margaret">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Fanny">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Colonel Brandon;—he">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Sir John">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Colonel Brandon">
+      <data key="d2">23</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Miss Dashwood">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Marianne">
+      <data key="d2">27</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Miss Williams">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="the Careys">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Whitakers">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Elinor">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Mrs. Dashwood">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Mrs. Palmer">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Mr. Palmer">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Lucy">
+      <data key="d2">27</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Robert">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Lord">
+      <data key="d2">18</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Eliza">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Charlotte">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Cartwright">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Willoughby">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Ay">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Lady Middleton">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Biddy Henshawe">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Mr.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Miss Grey">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Mrs. Ellison">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Miss Walker">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Mrs. Taylor">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Edward">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Mr. Dashwood">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Mrs. Clarke">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Miss Godby">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Miss Morton">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Miss Sparks">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Richard">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="the Richardsons">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Mrs. Richardson">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="La">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Martha Sharpe">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Mr. Steele">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Mr. Pratt">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Cleveland!”—she">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Michaelmas">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Nancy">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Mrs. Burgess">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="poor Mr. Edward , who , she was sure , had quite doted upon the worthless hussy , and was now , by all accounts , almost broken - hearted , at Oxford">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Jennings" target="Barton">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Dashwood" target="Mr. Dashwood">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mrs. Dashwood" target="Fanny">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Dashwood" target="Edward">
+      <data key="d2">26</data>
+    </edge>
+    <edge source="Mrs. Dashwood" target="Marianne">
+      <data key="d2">16</data>
+    </edge>
+    <edge source="Mrs. Dashwood" target="Elinor">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="Mrs. Dashwood" target="Mama">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mrs. Dashwood" target="Cowper">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Dashwood" target="Colonel Brandon">
+      <data key="d2">16</data>
+    </edge>
+    <edge source="Mrs. Dashwood" target="Mrs. Jennings">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Dashwood" target="Sir John">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mrs. Dashwood" target="Willoughby">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Mrs. Dashwood" target="Lady Middleton">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Dashwood" target="Mrs. Smith">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Dashwood" target="Hamlet">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Dashwood" target="Margaret">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Dashwood" target="the Middletons">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Dashwood" target="Robert">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mrs. Dashwood" target="Thomas">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Dashwood" target="Lucy">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Edward" target="Marianne">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Edward" target="Miss Dashwood">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Edward" target="Cowper">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Edward" target="Scott">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Edward" target="Elinor">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Edward" target="Lucy">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Edward" target="Mrs. Jennings">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Edward" target="Colonel Brandon">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Edward" target="Robert">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Palmer" target="Mama">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Palmer" target="Mrs. Dashwood">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mrs. Palmer" target="Mr. Palmer">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Mrs. Palmer" target="the Westons">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Palmer" target="Marianne">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Palmer" target="Sir John">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Mrs. Palmer" target="Miss Dashwood">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mrs. Palmer" target="the Miss Dashwoods">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Palmer" target="Cleveland">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Palmer" target="Combe Magna">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Palmer" target="Fanny">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Robert" target="Edward">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Robert" target="Mr. Pratt">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Robert" target="Elinor">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Robert" target="Miss Dashwood">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Robert" target="Lucy">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Robert" target="DEAR SIR">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Robert" target="Colonel Brandon">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Willoughby" target="Colonel Brandon">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Willoughby" target="Lady Middleton">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Willoughby" target="Mrs. Jennings">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Willoughby" target="Miss Dashwood">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Willoughby" target="Marianne">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Willoughby" target="Mrs. Smith">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Willoughby" target="Mrs. Dashwood">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Willoughby" target="Allenham">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Willoughby" target="Elinor">
+      <data key="d2">20</data>
+    </edge>
+    <edge source="Willoughby" target="Mrs. Palmer">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Willoughby" target="the Middletons">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Willoughby" target="Mr. Palmer">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Willoughby" target="God">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Willoughby" target="Ma">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Colonel Brandon" target="Elinor">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Colonel Brandon" target="Mr. Palmer">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Colonel Brandon" target="Mrs. Jennings">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Colonel Brandon" target="Miss Grey">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Colonel Brandon" target="Willoughby">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Colonel Brandon" target="Mrs. Ellison">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Colonel Brandon" target="Eliza">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Charlotte" target="Mr. Palmer">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Charlotte" target="Elinor">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Margaret" target="Elinor">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Margaret" target="Marianne">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Margaret" target="Willoughby">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Lady Middleton" target="Colonel Brandon">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Lady Middleton" target="Colonel Brandon;—he">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Lady Middleton" target="Fanny">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Middleton" target="Sir John">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Middleton" target="William">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Middleton" target="Annamaria">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Lady Middleton" target="Lucy">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Middleton" target="Elinor">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Fanny" target="Edward">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Fanny" target="Mrs. Ferrars—“very pretty,”—and">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fanny" target="Miss Morton">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Fanny" target="Elinor">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fanny" target="the late Lord Morton">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fanny" target="Lady Middleton">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Fanny" target="the Miss Steeles">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Fanny" target="Mr. Dashwood">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Dashwood" target="Elinor">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Miss Dashwood" target="Willoughby">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Edward—“but" target="Hunters">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Marianne" target="Edward">
+      <data key="d2">45</data>
+    </edge>
+    <edge source="Marianne" target="Mama">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Marianne" target="Music">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Marianne" target="Elinor">
+      <data key="d2">50</data>
+    </edge>
+    <edge source="Marianne" target="Norland">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Marianne" target="Colonel Brandon">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Marianne" target="Confess">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Marianne" target="Sir John">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Marianne" target="Willoughby">
+      <data key="d2">33</data>
+    </edge>
+    <edge source="Marianne" target="Margaret">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Marianne" target="Mr. Brandon">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Marianne" target="Miss Williams">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Marianne" target="Mr. Impudence">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Marianne" target="Mrs. Jennings">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Marianne" target="Mrs. Smith">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Marianne" target="Fanny">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Marianne" target="Lady Middleton">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Marianne" target="Mrs. Dashwood">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Marianne" target="God">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Marianne" target="Miss Grey">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Marianne" target="the Ellisons">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Marianne" target="Edward?—Why">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Marianne" target="Lucy">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Marianne" target="so?—we">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Marianne" target="Miss Morton">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Marianne" target="the Miss Dashwoods;”—was">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Marianne" target="the Palmers;—and">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Marianne" target="the Palmers">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Marianne" target="the Miss Steeles">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Marianne" target="the Middletons">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Palmer;—“Not" target="Willoughby">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Dashwood" target="Fanny">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mr. Dashwood" target="Lady Middleton">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Dashwood" target="Mrs. Jennings">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mr. Dashwood" target="Edward">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mr. Dashwood" target="poor Mr. Edward , who , she was sure , had quite doted upon the worthless hussy , and was now , by all accounts , almost broken - hearted , at Oxford">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lucy" target="Lady Middleton">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Lucy" target="Elinor">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="Lucy" target="Miss Dashwood">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Lucy" target="Sir John">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Lucy" target="the Miss Dashwoods">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Lucy" target="Mr. Rose">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lucy" target="Mr. Simpson">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lucy" target="Edward">
+      <data key="d2">41</data>
+    </edge>
+    <edge source="Lucy" target="Nancy">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Lucy" target="Robert">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Lucy" target="Mrs. Dashwood">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Lucy" target="Annamaria">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lucy" target="Marianne">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Lucy" target="Dr. Davies">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Lucy" target="Lord">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lucy" target="the Richardsons">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Lucy" target="Mrs. Jennings">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Elinor" target="Edward">
+      <data key="d2">86</data>
+    </edge>
+    <edge source="Elinor" target="Marianne">
+      <data key="d2">118</data>
+    </edge>
+    <edge source="Elinor" target="Fanny">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Elinor" target="Mama">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Elinor" target="Colonel Brandon">
+      <data key="d2">36</data>
+    </edge>
+    <edge source="Elinor" target="Willoughby">
+      <data key="d2">86</data>
+    </edge>
+    <edge source="Elinor" target="Cowper">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Elinor" target="Scott">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Elinor" target="Lady Middleton">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Elinor" target="Mrs. Dashwood">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Elinor" target="Margaret">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Elinor" target="Mrs. Smith">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Elinor" target="Norland">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Elinor" target="Mr. Palmer">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Elinor" target="Mrs. Palmer">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Elinor" target="Mr. Brandon">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Elinor" target="Lucy">
+      <data key="d2">52</data>
+    </edge>
+    <edge source="Elinor" target="Sir John">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Elinor" target="Robert">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="Elinor" target="Mr. Pratt">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Elinor" target="Miss Dashwood">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Elinor" target="Nancy">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Elinor" target="Mrs. John Dashwood—_that">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Elinor" target="Combe Magna">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Elinor" target="God">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Elinor" target="Ma’am">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Elinor" target="Mrs. Jennings">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="Elinor" target="the Palmers">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Elinor" target="the Middletons">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Elinor" target="Miss Grey">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Elinor" target="Eliza">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="Elinor" target="Miss Dashwood?—you">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Elinor" target="Heaven">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Elinor" target="Lady Elliott">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Elinor" target="Lord">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Elinor" target="Charlotte">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Elinor" target="Mr. Donavan">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Elinor" target="Lucy!—There">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Elinor" target="Mr. Dashwood">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Elinor" target="Miss Morton">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Elinor" target="Mr. Willoughby.—Remember">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Elinor" target="Sophia">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Elinor" target="Madam">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Elinor" target="Mrs. Willoughby">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Elinor" target="_">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Elinor" target="Sally">
+      <data key="d2">1</data>
+    </edge>
+  </graph>
+</graphml>

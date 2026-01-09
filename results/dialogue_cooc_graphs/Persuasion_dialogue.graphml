@@ -1,0 +1,316 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="quotes" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Anne">
+      <data key="d0">203</data>
+    </node>
+    <node id="Captain Wentworth">
+      <data key="d0">69</data>
+    </node>
+    <node id="Mrs Smith">
+      <data key="d0">66</data>
+    </node>
+    <node id="Mary">
+      <data key="d0">56</data>
+    </node>
+    <node id="Charles">
+      <data key="d0">48</data>
+    </node>
+    <node id="Sir Walter">
+      <data key="d0">37</data>
+    </node>
+    <node id="Elizabeth">
+      <data key="d0">25</data>
+    </node>
+    <node id="Lady Russell">
+      <data key="d0">20</data>
+    </node>
+    <node id="Captain Harville">
+      <data key="d0">20</data>
+    </node>
+    <node id="Mr Elliot">
+      <data key="d0">19</data>
+    </node>
+    <node id="Mrs Croft">
+      <data key="d0">18</data>
+    </node>
+    <node id="Louisa">
+      <data key="d0">14</data>
+    </node>
+    <node id="Mrs Musgrove">
+      <data key="d0">14</data>
+    </node>
+    <node id="Mr Shepherd">
+      <data key="d0">13</data>
+    </node>
+    <node id="Mrs Clay">
+      <data key="d0">11</data>
+    </node>
+    <node id="Captain Benwick">
+      <data key="d0">7</data>
+    </node>
+    <node id="Henrietta">
+      <data key="d0">3</data>
+    </node>
+    <node id="Lady Dalrymple">
+      <data key="d0">3</data>
+    </node>
+    <node id="Charles II">
+      <data key="d0">2</data>
+    </node>
+    <node id="Mrs Wallis">
+      <data key="d0">2</data>
+    </node>
+    <node id="the Miss Musgroves">
+      <data key="d0">2</data>
+    </node>
+    <node id="The Mr Musgroves">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr">
+      <data key="d0">1</data>
+    </node>
+    <node id="Michaelmas">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mrs Harville">
+      <data key="d0">1</data>
+    </node>
+    <node id="Kellynch">
+      <data key="d0">1</data>
+    </node>
+    <node id="the Crofts">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Anne" target="Mr Shepherd">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Anne" target="Mrs Clay">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Anne" target="Sir Walter">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Anne" target="Elizabeth">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Anne" target="Mary">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Anne" target="Mr">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Anne" target="Charles">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Anne" target="Mrs Musgrove">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Anne" target="Captain Wentworth">
+      <data key="d1">33</data>
+    </edge>
+    <edge source="Anne" target="Louisa">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Anne" target="Mrs Croft">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Anne" target="Henrietta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Anne" target="Captain Benwick">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Anne" target="Mrs Harville">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Anne" target="Lady Russell">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Anne" target="Mr Elliot">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Anne" target="Mrs Smith">
+      <data key="d1">52</data>
+    </edge>
+    <edge source="Anne" target="Captain Harville">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Captain Wentworth" target="the Miss Musgroves">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Captain Wentworth" target="Louisa">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Captain Wentworth" target="Charles">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Captain Wentworth" target="Mary">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Captain Wentworth" target="Mrs Croft">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Captain Wentworth" target="Henrietta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Captain Wentworth" target="Captain Benwick">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Captain Wentworth" target="Mrs Harville">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Captain Wentworth" target="Sir Walter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Captain Wentworth" target="Elizabeth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Captain Wentworth" target="Captain Harville">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mrs Smith" target="Elizabeth">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mary" target="Mr Shepherd">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mary" target="Elizabeth">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mary" target="Mr">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mary" target="Charles">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Mary" target="Michaelmas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mary" target="Mrs Croft">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mary" target="Louisa">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mary" target="Sir Walter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mary" target="Captain Benwick">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mary" target="Lady Russell">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Charles" target="Sir Walter">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Charles" target="Charles II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="The Mr Musgroves">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="Mrs Musgrove">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Charles" target="Mrs Croft">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Charles" target="Louisa">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="Lady Russell">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sir Walter" target="Charles II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Walter" target="Lady Russell">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sir Walter" target="Mr Shepherd">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Sir Walter" target="Mrs Clay">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Sir Walter" target="Mr Elliot">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Sir Walter" target="Mrs Wallis">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sir Walter" target="Mrs Musgrove">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Walter" target="Elizabeth">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Sir Walter" target="Kellynch">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Walter" target="the Crofts">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sir Walter" target="Lady Dalrymple">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Elizabeth" target="Mrs Clay">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Elizabeth" target="Lady Russell">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Russell" target="Mr Shepherd">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Russell" target="Mrs Clay">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Russell" target="Lady Dalrymple">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Russell" target="Kellynch">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Captain Harville" target="Mrs Croft">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr Elliot" target="Mrs Wallis">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr Elliot" target="Mrs Musgrove">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr Elliot" target="Mrs Clay">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr Elliot" target="Lady Dalrymple">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs Croft" target="Louisa">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs Croft" target="Mrs Musgrove">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Louisa" target="Mrs Musgrove">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Louisa" target="Captain Benwick">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs Musgrove" target="the Miss Musgroves">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr Shepherd" target="Mrs Clay">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="The Mr Musgroves" target="Michaelmas">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

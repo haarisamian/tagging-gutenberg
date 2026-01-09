@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="quotes" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Mr. Bounderby">
+      <data key="d0">638</data>
+    </node>
+    <node id="Tom">
+      <data key="d0">377</data>
+    </node>
+    <node id="Louisa">
+      <data key="d0">221</data>
+    </node>
+    <node id="Mr. Harthouse">
+      <data key="d0">139</data>
+    </node>
+    <node id="Stephen">
+      <data key="d0">120</data>
+    </node>
+    <node id="Rachael">
+      <data key="d0">107</data>
+    </node>
+    <node id="Sissy">
+      <data key="d0">94</data>
+    </node>
+    <node id="Mr. Sleary">
+      <data key="d0">67</data>
+    </node>
+    <node id="Bitzer">
+      <data key="d0">58</data>
+    </node>
+    <node id="Mr. Childers">
+      <data key="d0">36</data>
+    </node>
+    <node id="Mrs. Gradgrind">
+      <data key="d0">36</data>
+    </node>
+    <node id="Josiah Bounderby">
+      <data key="d0">30</data>
+    </node>
+    <node id="Mrs. Pegler">
+      <data key="d0">15</data>
+    </node>
+    <node id="Slackbridge">
+      <data key="d0">13</data>
+    </node>
+    <node id="Master Kidderminster">
+      <data key="d0">6</data>
+    </node>
+    <node id="Brothers">
+      <data key="d0">4</data>
+    </node>
+    <node id="Cupid">
+      <data key="d0">4</data>
+    </node>
+    <node id="Signor Jupe">
+      <data key="d0">3</data>
+    </node>
+    <node id="Tom Gradgrind">
+      <data key="d0">3</data>
+    </node>
+    <node id="Rachel">
+      <data key="d0">2</data>
+    </node>
+    <node id="Loo">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Mr. Bounderby" target="Tom">
+      <data key="d1">73</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Mrs. Gradgrind">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Josiah Bounderby">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Louisa">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Bitzer">
+      <data key="d1">41</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Sissy">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Mr. Childers">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Cupid">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Mr. Sleary">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Rachael">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Stephen">
+      <data key="d1">30</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Tom Gradgrind">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Mr. Harthouse">
+      <data key="d1">39</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Loo">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Bounderby" target="Mrs. Pegler">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Tom" target="Bitzer">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Tom" target="Mr. Sleary">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Tom" target="Signor Jupe">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tom" target="Louisa">
+      <data key="d1">48</data>
+    </edge>
+    <edge source="Tom" target="Mrs. Gradgrind">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Tom" target="Sissy">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="Tom" target="Cupid">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Tom" target="Mr. Childers">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="Tom" target="Master Kidderminster">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Tom" target="Rachael">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Tom" target="Mr. Harthouse">
+      <data key="d1">34</data>
+    </edge>
+    <edge source="Tom" target="Brothers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tom" target="Stephen">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Tom" target="Mrs. Pegler">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Tom" target="Josiah Bounderby">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Louisa" target="Josiah Bounderby">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Louisa" target="Mrs. Gradgrind">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Louisa" target="Sissy">
+      <data key="d1">40</data>
+    </edge>
+    <edge source="Louisa" target="Mr. Harthouse">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Louisa" target="Stephen">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Louisa" target="Rachael">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Louisa" target="Slackbridge">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Louisa" target="Mr. Sleary">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Louisa" target="Mr. Childers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Harthouse" target="Josiah Bounderby">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Harthouse" target="Rachael">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Harthouse" target="Bitzer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Harthouse" target="Sissy">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Stephen" target="Mrs. Gradgrind">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Stephen" target="Rachael">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="Stephen" target="Slackbridge">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Stephen" target="Bitzer">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Stephen" target="Mrs. Pegler">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rachael" target="Mrs. Pegler">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Rachael" target="Sissy">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Rachael" target="Rachel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sissy" target="Mr. Sleary">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Sissy" target="Rachel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sissy" target="Bitzer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Sleary" target="Signor Jupe">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Sleary" target="Bitzer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Sleary" target="Mr. Childers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Childers" target="Cupid">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Childers" target="Master Kidderminster">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Josiah Bounderby" target="Slackbridge">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Josiah Bounderby" target="Mrs. Pegler">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Slackbridge" target="Brothers">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

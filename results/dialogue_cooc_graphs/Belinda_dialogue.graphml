@@ -1,0 +1,526 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="quotes" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Lady Delacour">
+      <data key="d0">810</data>
+    </node>
+    <node id="Belinda">
+      <data key="d0">598</data>
+    </node>
+    <node id="Mr. Hervey">
+      <data key="d0">407</data>
+    </node>
+    <node id="Mrs. Ormond">
+      <data key="d0">174</data>
+    </node>
+    <node id="Virginia">
+      <data key="d0">168</data>
+    </node>
+    <node id="Lady Anne">
+      <data key="d0">107</data>
+    </node>
+    <node id="Mr. Vincent">
+      <data key="d0">105</data>
+    </node>
+    <node id="Mr. Percival">
+      <data key="d0">103</data>
+    </node>
+    <node id="Marriott">
+      <data key="d0">100</data>
+    </node>
+    <node id="Mrs. Delacour">
+      <data key="d0">81</data>
+    </node>
+    <node id="Sir Philip">
+      <data key="d0">68</data>
+    </node>
+    <node id="Mrs. Freke">
+      <data key="d0">63</data>
+    </node>
+    <node id="Dr. X----">
+      <data key="d0">56</data>
+    </node>
+    <node id="Helena">
+      <data key="d0">55</data>
+    </node>
+    <node id="Lord Delacour">
+      <data key="d0">51</data>
+    </node>
+    <node id="Rochfort">
+      <data key="d0">30</data>
+    </node>
+    <node id="Mr. Hartley">
+      <data key="d0">26</data>
+    </node>
+    <node id="Charles">
+      <data key="d0">18</data>
+    </node>
+    <node id="Lady Boucher">
+      <data key="d0">17</data>
+    </node>
+    <node id="Mrs. Stanhope">
+      <data key="d0">14</data>
+    </node>
+    <node id="Mr. St. George">
+      <data key="d0">12</data>
+    </node>
+    <node id="Mrs. Smith">
+      <data key="d0">7</data>
+    </node>
+    <node id="Mrs. Luttridge">
+      <data key="d0">6</data>
+    </node>
+    <node id="Champfort">
+      <data key="d0">6</data>
+    </node>
+    <node id="Clarence">
+      <data key="d0">4</data>
+    </node>
+    <node id="Juba">
+      <data key="d0">4</data>
+    </node>
+    <node id="Mrs. Franks">
+      <data key="d0">3</data>
+    </node>
+    <node id="Hervey.--“Pray">
+      <data key="d0">2</data>
+    </node>
+    <node id="Mrs. Dumont">
+      <data key="d0">2</data>
+    </node>
+    <node id="Virginia--“always">
+      <data key="d0">2</data>
+    </node>
+    <node id="Lady Delacour--“it">
+      <data key="d0">2</data>
+    </node>
+    <node id="Sir Philip.--“In">
+      <data key="d0">2</data>
+    </node>
+    <node id="Lady Delacour--“lay">
+      <data key="d0">2</data>
+    </node>
+    <node id="Doctor X----">
+      <data key="d0">2</data>
+    </node>
+    <node id="Miss Portman----">
+      <data key="d0">2</data>
+    </node>
+    <node id="Eve">
+      <data key="d0">1</data>
+    </node>
+    <node id="Clarence Hervey">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lady Singleton">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lady Anne.--“What">
+      <data key="d0">1</data>
+    </node>
+    <node id="Clary">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mrs. Delacour--“I’ve">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr. Percival--“why">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mrs. Stanhope:--">
+      <data key="d0">1</data>
+    </node>
+    <node id="Charles:--“Oh">
+      <data key="d0">1</data>
+    </node>
+    <node id="Clarence----">
+      <data key="d0">1</data>
+    </node>
+    <node id="Edward">
+      <data key="d0">1</data>
+    </node>
+    <node id="Edwards">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Lady Delacour" target="Lord Delacour">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Lady Delacour" target="Mr. Hervey">
+      <data key="d1">103</data>
+    </edge>
+    <edge source="Lady Delacour" target="Belinda">
+      <data key="d1">319</data>
+    </edge>
+    <edge source="Lady Delacour" target="Marriott">
+      <data key="d1">61</data>
+    </edge>
+    <edge source="Lady Delacour" target="Eve">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lady Delacour" target="Mrs. Franks">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lady Delacour" target="Clarence Hervey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Delacour" target="Lady Delacour--“it">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lady Delacour" target="Clarence">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Lady Delacour" target="Sir Philip">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Lady Delacour" target="Dr. X----">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Lady Delacour" target="Rochfort">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lady Delacour" target="Clarence----">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Delacour" target="Helena">
+      <data key="d1">41</data>
+    </edge>
+    <edge source="Lady Delacour" target="Edward">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Delacour" target="Lady Boucher">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Lady Delacour" target="Champfort">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lady Delacour" target="Doctor X----">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Delacour" target="Mr. Vincent">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lady Delacour" target="Mrs. Delacour">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Lady Delacour" target="Mrs. Ormond">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Lady Delacour" target="Virginia">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Lady Delacour" target="Mr. Hartley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Belinda" target="Mrs. Stanhope">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Belinda" target="Lord Delacour">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="Belinda" target="Mr. Hervey">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="Belinda" target="Marriott">
+      <data key="d1">33</data>
+    </edge>
+    <edge source="Belinda" target="Lady Singleton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Belinda" target="Sir Philip">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Belinda" target="Mrs. Franks">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Belinda" target="Dr. X----">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Belinda" target="Doctor X----">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Belinda" target="Miss Portman----">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Belinda" target="Champfort">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Belinda" target="Lady Boucher">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Belinda" target="Helena">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Belinda" target="Rochfort">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Belinda" target="Lady Anne">
+      <data key="d1">43</data>
+    </edge>
+    <edge source="Belinda" target="Mrs. Stanhope:--">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Belinda" target="Mrs. Freke">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="Belinda" target="Mr. Percival">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="Belinda" target="Mr. Vincent">
+      <data key="d1">38</data>
+    </edge>
+    <edge source="Belinda" target="Mrs. Dumont">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Belinda" target="Mr. Hartley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Belinda" target="Mrs. Ormond">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Belinda" target="Mrs. Delacour">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Belinda" target="Virginia">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Hervey" target="Mrs. Stanhope">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Hervey" target="Lady Singleton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hervey" target="Sir Philip">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Mr. Hervey" target="Rochfort">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Hervey" target="Mr. St. George">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Hervey" target="Dr. X----">
+      <data key="d1">34</data>
+    </edge>
+    <edge source="Mr. Hervey" target="Mr. Percival">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Mr. Hervey" target="Mr. Percival--“why">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hervey" target="Lady Anne">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Mr. Hervey" target="Lady Anne.--“What">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Hervey" target="Helena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hervey" target="Mrs. Delacour">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Mr. Hervey" target="Lady Delacour--“lay">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hervey" target="Clary">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hervey" target="Clarence----">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hervey" target="Mr. Vincent">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="Mr. Hervey" target="Mrs. Smith">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hervey" target="Mrs. Ormond">
+      <data key="d1">34</data>
+    </edge>
+    <edge source="Mr. Hervey" target="Virginia">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="Mr. Hervey" target="Mrs. Freke">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Hervey" target="Mr. Hartley">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Mr. Hervey" target="Lord Delacour">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Mrs. Ormond" target="Virginia">
+      <data key="d1">77</data>
+    </edge>
+    <edge source="Mrs. Ormond" target="Virginia--“always">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Ormond" target="Helena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Ormond" target="Dr. X----">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Ormond" target="Mrs. Delacour">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Virginia" target="Mrs. Smith">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Virginia" target="Virginia--“always">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Virginia" target="Mr. Hartley">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Virginia" target="Lord Delacour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Anne" target="Helena">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lady Anne" target="Mrs. Delacour">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Lady Anne" target="Mrs. Delacour--“I’ve">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lady Anne" target="Charles">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Lady Anne" target="Dr. X----">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Anne" target="Lady Boucher">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Anne" target="Mr. Vincent">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lady Anne" target="Mr. Percival">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Vincent" target="Mrs. Stanhope">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Vincent" target="Juba">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Vincent" target="Mrs. Freke">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Vincent" target="Mr. Percival">
+      <data key="d1">33</data>
+    </edge>
+    <edge source="Mr. Vincent" target="Charles">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Mr. Vincent" target="Charles:--“Oh">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Vincent" target="Mrs. Luttridge">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Vincent" target="Sir Philip">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Percival" target="Dr. X----">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Percival" target="Mr. St. George">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Percival" target="Mrs. Freke">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="Mr. Percival" target="Charles:--“Oh">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Percival" target="Juba">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Marriott" target="Mrs. Franks">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Marriott" target="Clarence Hervey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Marriott" target="Helena">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Marriott" target="Lord Delacour">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Marriott" target="Mrs. Freke">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Delacour" target="Mr. Hartley">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Delacour" target="Lord Delacour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Delacour" target="Lady Boucher">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Delacour" target="Edwards">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Philip" target="Rochfort">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="Sir Philip" target="Mr. St. George">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Sir Philip" target="Sir Philip.--“In">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sir Philip" target="Miss Portman----">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dr. X----" target="Helena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dr. X----" target="Mr. Hartley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Helena" target="Lady Boucher">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Helena" target="Edward">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Helena" target="Lord Delacour">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Helena" target="Mrs. Dumont">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Delacour" target="Lady Delacour--“lay">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Delacour" target="Champfort">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Rochfort" target="Mr. St. George">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Rochfort" target="Clary">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Boucher" target="Mrs. Dumont">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Stanhope" target="Mrs. Stanhope:--">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. St. George" target="Hervey.--“Pray">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hervey.--“Pray" target="Mr. Percival--“why">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

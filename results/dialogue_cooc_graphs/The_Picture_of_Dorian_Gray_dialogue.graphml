@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="quotes" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Lord Henry">
+      <data key="d0">445</data>
+    </node>
+    <node id="Dorian">
+      <data key="d0">373</data>
+    </node>
+    <node id="Basil">
+      <data key="d0">137</data>
+    </node>
+    <node id="Sibyl">
+      <data key="d0">26</data>
+    </node>
+    <node id="Mr. Erskine">
+      <data key="d0">16</data>
+    </node>
+    <node id="Alan">
+      <data key="d0">15</data>
+    </node>
+    <node id="Lady Narborough">
+      <data key="d0">14</data>
+    </node>
+    <node id="Jim">
+      <data key="d0">13</data>
+    </node>
+    <node id="Lady Agatha">
+      <data key="d0">9</data>
+    </node>
+    <node id="Mrs. Vane">
+      <data key="d0">8</data>
+    </node>
+    <node id="Lord Fermor">
+      <data key="d0">7</data>
+    </node>
+    <node id="Sir Thomas">
+      <data key="d0">7</data>
+    </node>
+    <node id="Geoffrey">
+      <data key="d0">7</data>
+    </node>
+    <node id="Mr. Hubbard">
+      <data key="d0">4</data>
+    </node>
+    <node id="Adrian Singleton">
+      <data key="d0">4</data>
+    </node>
+    <node id="Mohammed">
+      <data key="d0">3</data>
+    </node>
+    <node id="Lady Ruxton">
+      <data key="d0">2</data>
+    </node>
+    <node id="Harry">
+      <data key="d0">2</data>
+    </node>
+    <node id="John the Priest">
+      <data key="d0">2</data>
+    </node>
+    <node id="Philostratus">
+      <data key="d0">2</data>
+    </node>
+    <node id="Mrs. Vandeleur">
+      <data key="d0">1</data>
+    </node>
+    <node id="Catherine de Medicis">
+      <data key="d0">1</data>
+    </node>
+    <node id="Marco Polo">
+      <data key="d0">1</data>
+    </node>
+    <node id="Nature">
+      <data key="d0">1</data>
+    </node>
+    <node id="Victor">
+      <data key="d0">1</data>
+    </node>
+    <node id="Hall">
+      <data key="d0">1</data>
+    </node>
+    <node id="Gautier">
+      <data key="d0">1</data>
+    </node>
+    <node id="Francis">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Lord Henry" target="Basil">
+      <data key="d1">60</data>
+    </edge>
+    <edge source="Lord Henry" target="Dorian">
+      <data key="d1">188</data>
+    </edge>
+    <edge source="Lord Henry" target="Lord Fermor">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Lord Henry" target="Lady Agatha">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Lord Henry" target="Sir Thomas">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Lord Henry" target="Mr. Erskine">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Lord Henry" target="Harry">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lord Henry" target="Jim">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lord Henry" target="Lady Narborough">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Lord Henry" target="Lady Ruxton">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lord Henry" target="Geoffrey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Basil">
+      <data key="d1">57</data>
+    </edge>
+    <edge source="Dorian" target="Sibyl">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Victor">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dorian" target="Mr. Hubbard">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Dorian" target="Nature">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Gautier">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dorian" target="Alan">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Dorian" target="Lady Narborough">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Dorian" target="Adrian Singleton">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Dorian" target="Jim">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Dorian" target="Geoffrey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Francis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sibyl" target="Mrs. Vane">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Sibyl" target="Jim">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Mr. Erskine" target="Lady Agatha">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Erskine" target="Sir Thomas">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Jim" target="Mrs. Vane">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lady Agatha" target="Sir Thomas">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lady Agatha" target="Mrs. Vandeleur">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Thomas" target="Mrs. Vandeleur">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mohammed" target="Catherine de Medicis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mohammed" target="Francis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John the Priest" target="Philostratus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John the Priest" target="Marco Polo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philostratus" target="Nature">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Catherine de Medicis" target="Hall">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Marco Polo" target="Hall">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,319 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="quotes" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Melmoth">
+      <data key="d0">40</data>
+    </node>
+    <node id="Elinor">
+      <data key="d0">38</data>
+    </node>
+    <node id="Isidora">
+      <data key="d0">26</data>
+    </node>
+    <node id="Donna Clara">
+      <data key="d0">25</data>
+    </node>
+    <node id="Don Francisco">
+      <data key="d0">21</data>
+    </node>
+    <node id="Walberg">
+      <data key="d0">14</data>
+    </node>
+    <node id="God">
+      <data key="d0">11</data>
+    </node>
+    <node id="Senhor">
+      <data key="d0">11</data>
+    </node>
+    <node id="Ines">
+      <data key="d0">9</data>
+    </node>
+    <node id="SHAKESPEARE">
+      <data key="d0">8</data>
+    </node>
+    <node id="Fra Jose">
+      <data key="d0">8</data>
+    </node>
+    <node id="Father">
+      <data key="d0">8</data>
+    </node>
+    <node id="Monçada">
+      <data key="d0">5</data>
+    </node>
+    <node id="Everhard">
+      <data key="d0">4</data>
+    </node>
+    <node id="Mrs Ann">
+      <data key="d0">4</data>
+    </node>
+    <node id="Elinor,--she">
+      <data key="d0">4</data>
+    </node>
+    <node id="MASON">
+      <data key="d0">4</data>
+    </node>
+    <node id="Julia">
+      <data key="d0">3</data>
+    </node>
+    <node id="Fernan">
+      <data key="d0">3</data>
+    </node>
+    <node id="Margaret">
+      <data key="d0">2</data>
+    </node>
+    <node id="Sir Arthur">
+      <data key="d0">2</data>
+    </node>
+    <node id="Donna Clara.--“Go">
+      <data key="d0">2</data>
+    </node>
+    <node id="Shropshire">
+      <data key="d0">2</data>
+    </node>
+    <node id="HORACE">
+      <data key="d0">2</data>
+    </node>
+    <node id="Wycherly">
+      <data key="d0">1</data>
+    </node>
+    <node id="Don Quixote DE Collins Obed">
+      <data key="d0">1</data>
+    </node>
+    <node id="God!”--as">
+      <data key="d0">1</data>
+    </node>
+    <node id="the misguided Laud">
+      <data key="d0">1</data>
+    </node>
+    <node id="Milton">
+      <data key="d0">1</data>
+    </node>
+    <node id="Prynne">
+      <data key="d0">1</data>
+    </node>
+    <node id="Cowley">
+      <data key="d0">1</data>
+    </node>
+    <node id="Margaret.--“Yes">
+      <data key="d0">1</data>
+    </node>
+    <node id="Fra Jose--“He">
+      <data key="d0">1</data>
+    </node>
+    <node id="Boy">
+      <data key="d0">1</data>
+    </node>
+    <node id="Daughter,--I">
+      <data key="d0">1</data>
+    </node>
+    <node id="Moribunda">
+      <data key="d0">1</data>
+    </node>
+    <node id="Pliny">
+      <data key="d0">1</data>
+    </node>
+    <node id="Isidora.--“If">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Melmoth" target="Donna Clara">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Melmoth" target="Isidora">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Melmoth" target="Father">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Melmoth" target="Fra Jose">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Melmoth" target="Fra Jose--“He">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Melmoth" target="Monçada">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Melmoth" target="Pliny">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Elinor" target="Don Francisco">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Elinor" target="Margaret.--“Yes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Elinor" target="Prynne">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Elinor" target="God">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Isidora" target="Monçada">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Isidora" target="Donna Clara.--“Go">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Isidora" target="Donna Clara">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Isidora" target="Fernan">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Isidora" target="Daughter,--I">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Isidora" target="MASON">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Isidora" target="Moribunda">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Isidora" target="Father">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Donna Clara" target="SHAKESPEARE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Donna Clara" target="Fra Jose">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Donna Clara" target="God">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Donna Clara" target="Don Francisco">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Donna Clara" target="Donna Clara.--“Go">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Donna Clara" target="Fra Jose--“He">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Don Francisco" target="Senhor">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Don Francisco" target="Don Quixote DE Collins Obed">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Don Francisco" target="Mrs Ann">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Don Francisco" target="Wycherly">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Don Francisco" target="Elinor,--she">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Don Francisco" target="HORACE">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Walberg" target="God">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Walberg" target="Ines">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Walberg" target="SHAKESPEARE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Walberg" target="Senhor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Walberg" target="God!”--as">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Walberg" target="Everhard">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Walberg" target="Father">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Walberg" target="Pliny">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Everhard">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="SHAKESPEARE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Ines">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Julia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Margaret">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Senhor" target="Ines">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Senhor" target="Father">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Senhor" target="Don Quixote DE Collins Obed">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ines" target="Everhard">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Ines" target="Shropshire">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fra Jose" target="Isidora.--“If">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Father" target="Everhard">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Father" target="Daughter,--I">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Father" target="MASON">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Father" target="Moribunda">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs Ann" target="Sir Arthur">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs Ann" target="the misguided Laud">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs Ann" target="Wycherly">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs Ann" target="Shropshire">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs Ann" target="Isidora.--“If">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Elinor,--she" target="Margaret">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Julia" target="God!”--as">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fernan" target="Boy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sir Arthur" target="Milton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the misguided Laud" target="Milton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prynne" target="Cowley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cowley" target="Margaret.--“Yes">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

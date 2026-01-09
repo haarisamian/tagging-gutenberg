@@ -1,0 +1,325 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="quotes" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Tess">
+      <data key="d0">500</data>
+    </node>
+    <node id="Clare">
+      <data key="d0">311</data>
+    </node>
+    <node id="Marian">
+      <data key="d0">95</data>
+    </node>
+    <node id="D’Urberville">
+      <data key="d0">54</data>
+    </node>
+    <node id="Izz">
+      <data key="d0">45</data>
+    </node>
+    <node id="Joan">
+      <data key="d0">37</data>
+    </node>
+    <node id="Mrs Durbeyfield">
+      <data key="d0">26</data>
+    </node>
+    <node id="Dairyman Crick">
+      <data key="d0">19</data>
+    </node>
+    <node id="Durbeyfield">
+      <data key="d0">19</data>
+    </node>
+    <node id="Retty">
+      <data key="d0">17</data>
+    </node>
+    <node id="Jonathan">
+      <data key="d0">15</data>
+    </node>
+    <node id="Abraham">
+      <data key="d0">13</data>
+    </node>
+    <node id="Mrs Crick">
+      <data key="d0">8</data>
+    </node>
+    <node id="Sir John">
+      <data key="d0">8</data>
+    </node>
+    <node id="Eve">
+      <data key="d0">8</data>
+    </node>
+    <node id="Liza - Lu">
+      <data key="d0">7</data>
+    </node>
+    <node id="Alec">
+      <data key="d0">7</data>
+    </node>
+    <node id="Mrs d’Urberville">
+      <data key="d0">6</data>
+    </node>
+    <node id="Mercy Chant">
+      <data key="d0">5</data>
+    </node>
+    <node id="Nature">
+      <data key="d0">3</data>
+    </node>
+    <node id="Felix">
+      <data key="d0">3</data>
+    </node>
+    <node id="Goethe">
+      <data key="d0">2</data>
+    </node>
+    <node id="Mr d’Urberville">
+      <data key="d0">2</data>
+    </node>
+    <node id="dark Car">
+      <data key="d0">2</data>
+    </node>
+    <node id="Roger Ascham">
+      <data key="d0">2</data>
+    </node>
+    <node id="Beck Knibbs">
+      <data key="d0">2</data>
+    </node>
+    <node id="Jeremy Taylor">
+      <data key="d0">1</data>
+    </node>
+    <node id="Robert South">
+      <data key="d0">1</data>
+    </node>
+    <node id="Rolliver">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lady Durbeyfield">
+      <data key="d0">1</data>
+    </node>
+    <node id="St Luke">
+      <data key="d0">1</data>
+    </node>
+    <node id="Cuthbert">
+      <data key="d0">1</data>
+    </node>
+    <node id="Pascal">
+      <data key="d0">1</data>
+    </node>
+    <node id="Friar Laurence">
+      <data key="d0">1</data>
+    </node>
+    <node id="the Nazarene">
+      <data key="d0">1</data>
+    </node>
+    <node id="M. Sully - Prudhomme">
+      <data key="d0">1</data>
+    </node>
+    <node id="Farmer Groby">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mrs Brooks">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Tess" target="Durbeyfield">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Tess" target="Joan">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Tess" target="Mrs Durbeyfield">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Tess" target="Rolliver">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tess" target="Abraham">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Tess" target="Alec">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Tess" target="D’Urberville">
+      <data key="d1">42</data>
+    </edge>
+    <edge source="Tess" target="Nature">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Tess" target="Sir John">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Tess" target="Lady Durbeyfield">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tess" target="Mrs d’Urberville">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tess" target="Liza - Lu">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Tess" target="Mr d’Urberville">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Tess" target="dark Car">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Tess" target="Robert South">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tess" target="Roger Ascham">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Tess" target="Jeremy Taylor">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Tess" target="Dairyman Crick">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Tess" target="Clare">
+      <data key="d1">99</data>
+    </edge>
+    <edge source="Tess" target="Mrs Crick">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Tess" target="Marian">
+      <data key="d1">34</data>
+    </edge>
+    <edge source="Tess" target="Izz">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Tess" target="Retty">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Tess" target="Beck Knibbs">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tess" target="Friar Laurence">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Tess" target="Jonathan">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Tess" target="M. Sully - Prudhomme">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Tess" target="Mercy Chant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tess" target="Farmer Groby">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tess" target="Eve">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Clare" target="Pascal">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Clare" target="Izz">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Clare" target="Marian">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Clare" target="Dairyman Crick">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Clare" target="Felix">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Clare" target="Cuthbert">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Clare" target="St Luke">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Clare" target="Mrs Crick">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Clare" target="Beck Knibbs">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clare" target="Retty">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clare" target="the Nazarene">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Clare" target="Mercy Chant">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Clare" target="Joan">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Clare" target="Mrs Brooks">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Marian" target="Retty">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Marian" target="Izz">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Marian" target="Mrs Crick">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="D’Urberville" target="Joan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="D’Urberville" target="Alec">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Izz" target="Retty">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Izz" target="Dairyman Crick">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Izz" target="Mercy Chant">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Izz" target="Farmer Groby">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Joan" target="Mrs Durbeyfield">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Joan" target="Sir John">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mrs Durbeyfield" target="Abraham">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Mrs Durbeyfield" target="Rolliver">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs Durbeyfield" target="Sir John">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mrs Durbeyfield" target="Robert South">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dairyman Crick" target="Jonathan">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Dairyman Crick" target="Mrs Crick">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dairyman Crick" target="Felix">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Durbeyfield" target="Goethe">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Durbeyfield" target="Abraham">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Retty" target="Mrs Crick">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir John" target="Lady Durbeyfield">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir John" target="the Nazarene">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Liza - Lu" target="Mrs d’Urberville">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

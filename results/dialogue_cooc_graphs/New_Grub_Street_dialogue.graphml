@@ -1,0 +1,349 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="quotes" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Jasper">
+      <data key="d0">839</data>
+    </node>
+    <node id="Marian">
+      <data key="d0">495</data>
+    </node>
+    <node id="Amy">
+      <data key="d0">493</data>
+    </node>
+    <node id="Reardon">
+      <data key="d0">226</data>
+    </node>
+    <node id="Dora">
+      <data key="d0">177</data>
+    </node>
+    <node id="Biffen">
+      <data key="d0">175</data>
+    </node>
+    <node id="Mrs Yule">
+      <data key="d0">160</data>
+    </node>
+    <node id="Maud">
+      <data key="d0">85</data>
+    </node>
+    <node id="Whelpdale">
+      <data key="d0">72</data>
+    </node>
+    <node id="John">
+      <data key="d0">59</data>
+    </node>
+    <node id="Edith">
+      <data key="d0">59</data>
+    </node>
+    <node id="Alfred Yule">
+      <data key="d0">49</data>
+    </node>
+    <node id="Mrs Milvain">
+      <data key="d0">23</data>
+    </node>
+    <node id="Mr Quarmby">
+      <data key="d0">22</data>
+    </node>
+    <node id="Carter">
+      <data key="d0">14</data>
+    </node>
+    <node id="Mrs Carter">
+      <data key="d0">14</data>
+    </node>
+    <node id="Miss Harrow">
+      <data key="d0">9</data>
+    </node>
+    <node id="Mr Hinks">
+      <data key="d0">5</data>
+    </node>
+    <node id="Mr Baker">
+      <data key="d0">4</data>
+    </node>
+    <node id="Sykes">
+      <data key="d0">3</data>
+    </node>
+    <node id="Jedwood">
+      <data key="d0">3</data>
+    </node>
+    <node id="Fadge">
+      <data key="d0">2</data>
+    </node>
+    <node id="Willie">
+      <data key="d0">2</data>
+    </node>
+    <node id="Mrs Whelpdale">
+      <data key="d0">2</data>
+    </node>
+    <node id="Mrs Haynes">
+      <data key="d0">2</data>
+    </node>
+    <node id="January">
+      <data key="d0">1</data>
+    </node>
+    <node id="Wattleborough">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mrs Goby">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr C. O. Goby">
+      <data key="d0">1</data>
+    </node>
+    <node id="The Lonely Man Chapter XXVIII">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr Briggs">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Jasper" target="Maud">
+      <data key="d1">39</data>
+    </edge>
+    <edge source="Jasper" target="Dora">
+      <data key="d1">101</data>
+    </edge>
+    <edge source="Jasper" target="Mrs Milvain">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Jasper" target="Miss Harrow">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Jasper" target="Alfred Yule">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Jasper" target="John">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Jasper" target="Marian">
+      <data key="d1">166</data>
+    </edge>
+    <edge source="Jasper" target="Wattleborough">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jasper" target="Reardon">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Jasper" target="Amy">
+      <data key="d1">103</data>
+    </edge>
+    <edge source="Jasper" target="Mr Quarmby">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jasper" target="Biffen">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Jasper" target="Carter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jasper" target="Whelpdale">
+      <data key="d1">30</data>
+    </edge>
+    <edge source="Jasper" target="Mrs Yule">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Jasper" target="Mrs Carter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jasper" target="Mrs Haynes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jasper" target="Edith">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jasper" target="Mrs Whelpdale">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Marian" target="Maud">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Marian" target="Alfred Yule">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Marian" target="Dora">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="Marian" target="Mr Quarmby">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Marian" target="Mrs Yule">
+      <data key="d1">48</data>
+    </edge>
+    <edge source="Marian" target="Fadge">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Marian" target="January">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Marian" target="Mrs Milvain">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Marian" target="Reardon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Marian" target="Mr Hinks">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Marian" target="Amy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Marian" target="Biffen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Amy" target="Reardon">
+      <data key="d1">50</data>
+    </edge>
+    <edge source="Amy" target="Mrs Yule">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="Amy" target="Edith">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Amy" target="Biffen">
+      <data key="d1">36</data>
+    </edge>
+    <edge source="Amy" target="Carter">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Amy" target="Willie">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Amy" target="Jedwood">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Amy" target="Mr Baker">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Amy" target="John">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Amy" target="Mrs Carter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Amy" target="The Lonely Man Chapter XXVIII">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Reardon" target="Mrs Yule">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="Reardon" target="Biffen">
+      <data key="d1">53</data>
+    </edge>
+    <edge source="Reardon" target="Carter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Reardon" target="Edith">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Reardon" target="John">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Reardon" target="Mrs Carter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Reardon" target="Sykes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dora" target="Maud">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="Dora" target="Mrs Milvain">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Dora" target="Wattleborough">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dora" target="Mrs Yule">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dora" target="Whelpdale">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="Dora" target="Biffen">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dora" target="Mrs Whelpdale">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Biffen" target="Mr Baker">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Biffen" target="Whelpdale">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Biffen" target="Mrs Carter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Biffen" target="John">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Biffen" target="The Lonely Man Chapter XXVIII">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Biffen" target="Sykes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Biffen" target="Mr Briggs">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs Yule" target="Fadge">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs Yule" target="Alfred Yule">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Mrs Yule" target="Mr Quarmby">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs Yule" target="John">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Mrs Yule" target="Mrs Carter">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mrs Yule" target="Mr C. O. Goby">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs Yule" target="Mrs Goby">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs Yule" target="Edith">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Maud" target="Mrs Milvain">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Maud" target="Alfred Yule">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="John" target="Miss Harrow">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="John" target="Alfred Yule">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="John" target="Mrs Carter">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="John" target="Mrs Haynes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Edith" target="Carter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Edith" target="Mrs Carter">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Alfred Yule" target="Miss Harrow">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs Milvain" target="Miss Harrow">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr Quarmby" target="Jedwood">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr Quarmby" target="Mr Hinks">
+      <data key="d1">3</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,841 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="mentions" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Kemp">
+      <data key="d0">1065</data>
+    </node>
+    <node id="Mr. Marvel">
+      <data key="d0">547</data>
+    </node>
+    <node id="Mrs. Hall">
+      <data key="d0">315</data>
+    </node>
+    <node id="Cuss">
+      <data key="d0">191</data>
+    </node>
+    <node id="the Invisible Man">
+      <data key="d0">155</data>
+    </node>
+    <node id="Griffin">
+      <data key="d0">151</data>
+    </node>
+    <node id="Henfrey">
+      <data key="d0">146</data>
+    </node>
+    <node id="Adye">
+      <data key="d0">129</data>
+    </node>
+    <node id="Mr. Bunting">
+      <data key="d0">86</data>
+    </node>
+    <node id="Millie">
+      <data key="d0">84</data>
+    </node>
+    <node id="Mr. Hall">
+      <data key="d0">72</data>
+    </node>
+    <node id="Mr. Huxter">
+      <data key="d0">69</data>
+    </node>
+    <node id="Jaffers">
+      <data key="d0">57</data>
+    </node>
+    <node id="the Voice">
+      <data key="d0">51</data>
+    </node>
+    <node id="Mr. Heelas">
+      <data key="d0">36</data>
+    </node>
+    <node id="Fearenside">
+      <data key="d0">28</data>
+    </node>
+    <node id="Mr. Wadgers">
+      <data key="d0">26</data>
+    </node>
+    <node id="Mrs. Bunting">
+      <data key="d0">20</data>
+    </node>
+    <node id="Mr. Wicksteed">
+      <data key="d0">13</data>
+    </node>
+    <node id="Gibbons">
+      <data key="d0">9</data>
+    </node>
+    <node id="Lord">
+      <data key="d0">9</data>
+    </node>
+    <node id="Iping">
+      <data key="d0">8</data>
+    </node>
+    <node id="Doctor Kemp">
+      <data key="d0">8</data>
+    </node>
+    <node id="The invisible Man">
+      <data key="d0">7</data>
+    </node>
+    <node id="God">
+      <data key="d0">7</data>
+    </node>
+    <node id="Young Archie Harker">
+      <data key="d0">5</data>
+    </node>
+    <node id="DR . KEMP">
+      <data key="d0">5</data>
+    </node>
+    <node id="Death">
+      <data key="d0">5</data>
+    </node>
+    <node id="Port Burdock">
+      <data key="d0">5</data>
+    </node>
+    <node id="Janny">
+      <data key="d0">5</data>
+    </node>
+    <node id="Mr. Kemp">
+      <data key="d0">4</data>
+    </node>
+    <node id="Heaven">
+      <data key="d0">4</data>
+    </node>
+    <node id="Mr. Gould">
+      <data key="d0">4</data>
+    </node>
+    <node id="Stones">
+      <data key="d0">3</data>
+    </node>
+    <node id="Lemme">
+      <data key="d0">3</data>
+    </node>
+    <node id="Whit Monday">
+      <data key="d0">3</data>
+    </node>
+    <node id="Oliver">
+      <data key="d0">3</data>
+    </node>
+    <node id="Mercy">
+      <data key="d0">2</data>
+    </node>
+    <node id="George">
+      <data key="d0">2</data>
+    </node>
+    <node id="Mr. Shuckleforth">
+      <data key="d0">2</data>
+    </node>
+    <node id="Tap">
+      <data key="d0">2</data>
+    </node>
+    <node id="the Stranger">
+      <data key="d0">2</data>
+    </node>
+    <node id="April">
+      <data key="d0">2</data>
+    </node>
+    <node id="Lord Burdock">
+      <data key="d0">2</data>
+    </node>
+    <node id="Dogs">
+      <data key="d0">2</data>
+    </node>
+    <node id="Gawd">
+      <data key="d0">2</data>
+    </node>
+    <node id="CHAPTER VI . THE FURNITURE THAT WENT MAD">
+      <data key="d0">1</data>
+    </node>
+    <node id="Daylight">
+      <data key="d0">1</data>
+    </node>
+    <node id="Whitsuntide">
+      <data key="d0">1</data>
+    </node>
+    <node id="Miss Statchell">
+      <data key="d0">1</data>
+    </node>
+    <node id="Leastways">
+      <data key="d0">1</data>
+    </node>
+    <node id="Carrier">
+      <data key="d0">1</data>
+    </node>
+    <node id="Silas Durgan">
+      <data key="d0">1</data>
+    </node>
+    <node id="Fearenside—“You’d">
+      <data key="d0">1</data>
+    </node>
+    <node id="H. G. Wells Contents">
+      <data key="d0">1</data>
+    </node>
+    <node id="Gleeson">
+      <data key="d0">1</data>
+    </node>
+    <node id="THE THOUSAND AND ONE BOTTLES">
+      <data key="d0">1</data>
+    </node>
+    <node id="old Toothsome">
+      <data key="d0">1</data>
+    </node>
+    <node id="Phipps">
+      <data key="d0">1</data>
+    </node>
+    <node id="Wodger">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr. Jaggers">
+      <data key="d0">1</data>
+    </node>
+    <node id="Arm">
+      <data key="d0">1</data>
+    </node>
+    <node id="Blimey">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr. J. A. Jaffers">
+      <data key="d0">1</data>
+    </node>
+    <node id="Higgins">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mrs. Gribble">
+      <data key="d0">1</data>
+    </node>
+    <node id="Hul - lo">
+      <data key="d0">1</data>
+    </node>
+    <node id="The Vicar">
+      <data key="d0">1</data>
+    </node>
+    <node id="old Fletcher">
+      <data key="d0">1</data>
+    </node>
+    <node id="Cuss—“incredible">
+      <data key="d0">1</data>
+    </node>
+    <node id="Haysman">
+      <data key="d0">1</data>
+    </node>
+    <node id="the Unseen">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mrs. Huxter">
+      <data key="d0">1</data>
+    </node>
+    <node id="Babel">
+      <data key="d0">1</data>
+    </node>
+    <node id="O Bogey">
+      <data key="d0">1</data>
+    </node>
+    <node id="the Sidderbridge carter">
+      <data key="d0">1</data>
+    </node>
+    <node id="Good Lord">
+      <data key="d0">1</data>
+    </node>
+    <node id="Fear">
+      <data key="d0">1</data>
+    </node>
+    <node id="Happily">
+      <data key="d0">1</data>
+    </node>
+    <node id="Hullo">
+      <data key="d0">1</data>
+    </node>
+    <node id="Thence">
+      <data key="d0">1</data>
+    </node>
+    <node id="Good Heavens!—Kemp">
+      <data key="d0">1</data>
+    </node>
+    <node id="Footsteps">
+      <data key="d0">1</data>
+    </node>
+    <node id="Burton">
+      <data key="d0">1</data>
+    </node>
+    <node id="Barman">
+      <data key="d0">1</data>
+    </node>
+    <node id="Crusoe">
+      <data key="d0">1</data>
+    </node>
+    <node id="Jove">
+      <data key="d0">1</data>
+    </node>
+    <node id="One">
+      <data key="d0">1</data>
+    </node>
+    <node id="Delilah">
+      <data key="d0">1</data>
+    </node>
+    <node id="Hopps">
+      <data key="d0">1</data>
+    </node>
+    <node id="Rats">
+      <data key="d0">1</data>
+    </node>
+    <node id="Cooper">
+      <data key="d0">1</data>
+    </node>
+    <node id="Jolly Cricketers">
+      <data key="d0">1</data>
+    </node>
+    <node id="Cobbett">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Kemp" target="Cuss">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Kemp" target="Henfrey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Kemp" target="Mr. Marvel">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Kemp" target="The invisible Man">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Kemp" target="the Stranger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Kemp" target="DR . KEMP">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Kemp" target="Hullo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Kemp" target="Thence">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Kemp" target="Good Heavens!—Kemp">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Kemp" target="the Voice">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Kemp" target="the Invisible Man">
+      <data key="d1">34</data>
+    </edge>
+    <edge source="Kemp" target="Griffin">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Kemp" target="God">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Kemp" target="Mr. Huxter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Kemp" target="Port Burdock">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Kemp" target="Adye">
+      <data key="d1">31</data>
+    </edge>
+    <edge source="Kemp" target="Delilah">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Kemp" target="Heaven">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Kemp" target="Hopps">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Kemp" target="Jove">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Kemp" target="One">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Kemp" target="Mr. Wicksteed">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Kemp" target="Death">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Kemp" target="Mr. Heelas">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Mr. Marvel" target="Cuss">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Marvel" target="Henfrey">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Marvel" target="The invisible Man">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Marvel" target="the Stranger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Marvel" target="Mrs. Hall">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Marvel" target="Millie">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Mr. Marvel" target="Lord">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Mr. Marvel" target="the Voice">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Mr. Marvel" target="Stones">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Marvel" target="Mr. Huxter">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Marvel" target="Mr. Hall">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Marvel" target="Mr. Bunting">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Marvel" target="the Invisible Man">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Mr. Marvel" target="Heaven">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Marvel" target="Blimey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Marvel" target="Fear">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Marvel" target="Footsteps">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Marvel" target="Gawd">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Marvel" target="Lemme">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Marvel" target="Port Burdock">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Millie">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Henfrey">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Gleeson">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Mr. Hall">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Fearenside">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Carrier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Mr. Huxter">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Mr. Wadgers">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mrs. Hall" target="God">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Mr. Gould">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Hall" target="April">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Cuss">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Whitsuntide">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Whit Monday">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Hall" target="George">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Janny">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Mr. Shuckleforth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Heaven">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Babel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Hall" target="O Bogey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Jaffers">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mrs. Hall" target="old Toothsome">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Hall" target="Mr. Bunting">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cuss" target="Henfrey">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Cuss" target="The invisible Man">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cuss" target="the Stranger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cuss" target="April">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cuss" target="Mr. Hall">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Cuss" target="Whitsuntide">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cuss" target="Mrs. Bunting">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cuss" target="God">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cuss" target="Lord">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cuss" target="Mr. Bunting">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Cuss" target="Jaffers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cuss" target="Iping">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cuss" target="Mr. Huxter">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cuss" target="the Invisible Man">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the Invisible Man" target="Mr. Bunting">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="the Invisible Man" target="Higgins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the Invisible Man" target="Iping">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the Invisible Man" target="Mrs. Gribble">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the Invisible Man" target="Griffin">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="the Invisible Man" target="God">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="the Invisible Man" target="Port Burdock">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="the Invisible Man" target="Mr. Wicksteed">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="the Invisible Man" target="Adye">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Griffin" target="Oliver">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Griffin" target="Adye">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Griffin" target="Mr. Wicksteed">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Griffin" target="Port Burdock">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Griffin" target="Jolly Cricketers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henfrey" target="The invisible Man">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henfrey" target="the Stranger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henfrey" target="Gleeson">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henfrey" target="Mr. Hall">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Henfrey" target="Fearenside">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Henfrey" target="Leastways">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henfrey" target="Mr. Gould">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henfrey" target="Janny">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henfrey" target="Millie">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henfrey" target="Jaffers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Henfrey" target="old Toothsome">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henfrey" target="Mr. Huxter">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Henfrey" target="Mr. Wadgers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henfrey" target="Phipps">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Adye" target="Port Burdock">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Adye" target="Heaven">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Adye" target="Hopps">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Adye" target="Jove">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Adye" target="Dogs">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Adye" target="Mr. Wicksteed">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Adye" target="the Voice">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Bunting" target="Mrs. Bunting">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Mr. Bunting" target="Jaffers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bunting" target="Mr. Hall">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Bunting" target="Iping">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bunting" target="Cuss—“incredible">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bunting" target="Mr. Huxter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Millie" target="Mr. Hall">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Millie" target="Whit Monday">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Millie" target="Arm">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Millie" target="Mr. Wadgers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hall" target="Mr. Huxter">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Hall" target="April">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hall" target="Whitsuntide">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hall" target="Whit Monday">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hall" target="George">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hall" target="Janny">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hall" target="Arm">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hall" target="Mr. Wadgers">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Mr. Hall" target="Jaffers">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Hall" target="the Sidderbridge carter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Huxter" target="Fearenside">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Huxter" target="Mr. Wadgers">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Huxter" target="Jaffers">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Huxter" target="the Sidderbridge carter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Huxter" target="Phipps">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jaffers" target="Mr. Wadgers">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Jaffers" target="the Sidderbridge carter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jaffers" target="old Toothsome">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jaffers" target="Phipps">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jaffers" target="Iping">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jaffers" target="Whit Monday">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jaffers" target="the Unseen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Heelas" target="Doctor Kemp">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Heelas" target="Mr. Kemp">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fearenside" target="Fearenside—“You’d">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fearenside" target="Mr. Wadgers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fearenside" target="Leastways">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fearenside" target="Silas Durgan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Wadgers" target="Arm">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Wadgers" target="Mr. Shuckleforth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Wadgers" target="the Sidderbridge carter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Wadgers" target="Phipps">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Wadgers" target="Iping">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Wadgers" target="Whit Monday">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Wadgers" target="the Unseen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Bunting" target="Haysman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Wicksteed" target="Lord Burdock">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Wicksteed" target="Port Burdock">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord" target="God">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Iping" target="Whit Monday">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Iping" target="the Unseen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Iping" target="Higgins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Iping" target="Mrs. Gribble">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Doctor Kemp" target="Mr. Kemp">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="The invisible Man" target="the Stranger">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="The invisible Man" target="Miss Statchell">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Young Archie Harker" target="Mrs. Huxter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Young Archie Harker" target="Whit Monday">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="DR . KEMP" target="Hullo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Death" target="Port Burdock">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Whit Monday" target="Mrs. Huxter">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Whit Monday" target="the Unseen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tap" target="Hul - lo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="April" target="Whitsuntide">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Wodger" target="Mr. Jaggers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Higgins" target="Mrs. Gribble">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Babel" target="O Bogey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jove" target="Hopps">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Environment & build
+venv/
+.env/
+*.egg-info/
+
+# OS & editor files
+.DS_Store
+*.swp
+
+# folders not meant for versioning
+data/text/
+data/chapters/
+data/books/
+.vscode/
+old/
+
+# Credentials or temp outputs
+*.log
+*.tmp

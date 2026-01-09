@@ -1,0 +1,837 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d1" for="node" attr.name="dc_in" attr.type="long" />
+  <key id="d0" for="node" attr.name="dc_out" attr.type="long" />
+  <graph edgedefault="directed">
+    <node id="Hundreds">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Bastille">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Charles Evrémonde">
+      <data key="d0">0</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Carton">
+      <data key="d0">119</data>
+      <data key="d1">59</data>
+    </node>
+    <node id="Cly">
+      <data key="d0">0</data>
+      <data key="d1">16</data>
+    </node>
+    <node id="Lucie--">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Barsad?--">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Number One">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Mr. Stryver">
+      <data key="d0">69</data>
+      <data key="d1">16</data>
+    </node>
+    <node id="Mr. Cruncher">
+      <data key="d0">53</data>
+      <data key="d1">20</data>
+    </node>
+    <node id="Monsieur the Marquis">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+    </node>
+    <node id="Barsad">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Darnay--">
+      <data key="d0">0</data>
+      <data key="d1">8</data>
+    </node>
+    <node id="the Defarges">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="The Gorgon">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Doctor Manette">
+      <data key="d0">10</data>
+      <data key="d1">77</data>
+    </node>
+    <node id="La Guillotine">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lucifer">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Solomon">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+    </node>
+    <node id="Madame Defarge">
+      <data key="d0">55</data>
+      <data key="d1">27</data>
+    </node>
+    <node id="Lord">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Memory">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Jupiter">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Courage">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Crunches">
+      <data key="d0">2</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Darnay">
+      <data key="d0">73</data>
+      <data key="d1">82</data>
+    </node>
+    <node id="Lucie">
+      <data key="d0">18</data>
+      <data key="d1">46</data>
+    </node>
+    <node id="George the Third">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Stryver--">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Defarge">
+      <data key="d0">38</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Mam’selle">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mischief">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="The Vengeance">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Co.">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Sainte Guillotine">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Jacques Four">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="The gracious and merciful Heavens">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Manette--">
+      <data key="d0">0</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Miss Manette">
+      <data key="d0">4</data>
+      <data key="d1">24</data>
+    </node>
+    <node id="Aggerawayter">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="God">
+      <data key="d0">0</data>
+      <data key="d1">12</data>
+    </node>
+    <node id="Monsieur Gabelle">
+      <data key="d0">1</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="the Old Un">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Monsieur">
+      <data key="d0">0</data>
+      <data key="d1">9</data>
+    </node>
+    <node id="Banker">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Young Jerry">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Ecod">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Carton">
+      <data key="d0">28</data>
+      <data key="d1">32</data>
+    </node>
+    <node id="Mrs. Cruncher">
+      <data key="d0">1</data>
+      <data key="d1">15</data>
+    </node>
+    <node id="Heaven">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Lead">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="old Foulon">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Tellson">
+      <data key="d0">1</data>
+      <data key="d1">14</data>
+    </node>
+    <node id="Hark">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Midnight Murder">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Jacques Two">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Monsieur Charles">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Solomon John">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Mr. Lorry">
+      <data key="d0">169</data>
+      <data key="d1">69</data>
+    </node>
+    <node id="Mr. Barsad">
+      <data key="d0">9</data>
+      <data key="d1">32</data>
+    </node>
+    <node id="Monsieur Manette">
+      <data key="d0">0</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Jacques Five">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Alexandre Manette">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+    </node>
+    <node id="mamma">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Ernest Defarge">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Rip">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Marquis St. Evrémonde">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Old Nick">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Lorry">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Bully Stryver">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Ladybird">
+      <data key="d0">0</data>
+      <data key="d1">13</data>
+    </node>
+    <node id="Evrémonde">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Patriots">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Tellson’s">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Jacques">
+      <data key="d0">2</data>
+      <data key="d1">32</data>
+    </node>
+    <node id="Mr. Cruncher!--Don’t">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Pross">
+      <data key="d0">76</data>
+      <data key="d1">38</data>
+    </node>
+    <node id="Father">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Samson">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <edge source="Carton" target="Mr. Stryver">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Carton" target="Miss Manette">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Carton" target="Lucie">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="Carton" target="Mr. Carton">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="Carton" target="God">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Carton" target="Darnay">
+      <data key="d2">21</data>
+    </edge>
+    <edge source="Carton" target="Miss Pross">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Carton" target="Mr. Lorry">
+      <data key="d2">16</data>
+    </edge>
+    <edge source="Carton" target="Mr. Barsad">
+      <data key="d2">22</data>
+    </edge>
+    <edge source="Carton" target="Tellson">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Carton" target="Doctor Manette">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Carton" target="Mr. Barsad?--">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Carton" target="Cly">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Carton" target="Mr. Cruncher">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Number One" target="Jacques">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Stryver" target="Darnay">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Mr. Stryver" target="Mr. Lorry">
+      <data key="d2">20</data>
+    </edge>
+    <edge source="Mr. Stryver" target="Memory">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Stryver" target="Carton">
+      <data key="d2">31</data>
+    </edge>
+    <edge source="Mr. Stryver" target="Miss Manette">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mr. Stryver" target="Doctor Manette">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Stryver" target="Jupiter">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Cruncher" target="Young Jerry">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mr. Cruncher" target="Rip">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Cruncher" target="Cly">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Mr. Cruncher" target="Mrs. Cruncher">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Mr. Cruncher" target="Miss Pross">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Mr. Cruncher" target="the Old Un">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Cruncher" target="Old Nick">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Cruncher" target="Solomon">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Cruncher" target="Solomon John">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mr. Cruncher" target="Ecod">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Cruncher" target="Mr. Barsad">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mr. Cruncher" target="Carton">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mr. Cruncher" target="Mr. Lorry">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="The Gorgon" target="Monsieur Charles">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Doctor Manette" target="Lucie">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Doctor Manette" target="Darnay">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Doctor Manette" target="Monsieur">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Doctor Manette" target="Tellson">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Doctor Manette" target="Co.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Doctor Manette" target="Mr. Lorry">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Doctor Manette" target="Carton">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Solomon" target="Miss Pross">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Madame Defarge" target="Monsieur">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Madame Defarge" target="Jacques">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Madame Defarge" target="Barsad">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Madame Defarge" target="Alexandre Manette">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Madame Defarge" target="old Foulon">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Madame Defarge" target="Patriots">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Madame Defarge" target="Lucie">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Madame Defarge" target="Mr. Lorry">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Madame Defarge" target="Doctor Manette">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Madame Defarge" target="Monsieur the Marquis">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Madame Defarge" target="the Marquis St. Evrémonde">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Madame Defarge" target="Heaven">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Madame Defarge" target="Charles Evrémonde">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Madame Defarge" target="Ernest Defarge">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Madame Defarge" target="God">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Madame Defarge" target="Carton">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Madame Defarge" target="the Bastille">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Madame Defarge" target="The Vengeance">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Madame Defarge" target="Evrémonde">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Madame Defarge" target="Miss Pross">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Mr. Crunches" target="Aggerawayter">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Darnay" target="Doctor Manette">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="Darnay" target="Lucie">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Darnay" target="Miss Pross">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Darnay" target="Carton">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Darnay" target="Mr. Stryver">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Darnay" target="Miss Manette--">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Darnay" target="Miss Manette">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Darnay" target="Mr. Carton">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Darnay" target="Darnay--">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Darnay" target="God">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Darnay" target="Mr. Lorry">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Darnay" target="Monsieur Gabelle">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Darnay" target="Tellson">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Darnay" target="Defarge">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Darnay" target="Charles Evrémonde">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Darnay" target="Mr. Barsad">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Lucie" target="Darnay">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Lucie" target="Father">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lucie" target="Carton">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Lucie" target="Mr. Carton">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Lucie" target="Miss Manette">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lucie" target="Heaven">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lucie" target="Madame Defarge">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Lucie" target="mamma">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Defarge" target="Jacques">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="Defarge" target="Mr. Lorry">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Defarge" target="Monsieur Manette">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Defarge" target="Madame Defarge">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Defarge" target="Jacques Two">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Defarge" target="Jacques Four">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Defarge" target="Jacques Five">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Defarge" target="Barsad">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Defarge" target="Doctor Manette">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Defarge" target="La Guillotine">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Defarge" target="Darnay">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="The Vengeance" target="Madame Defarge">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="The Vengeance" target="Defarge">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="The Vengeance" target="Jacques">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="The Vengeance" target="Carton">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Manette" target="Mr. Lorry">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Aggerawayter" target="Mr. Cruncher">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Monsieur Gabelle" target="Monsieur the Marquis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Carton" target="Mr. Lorry">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Mr. Carton" target="Darnay">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="Mr. Carton" target="Lord">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Carton" target="Miss Manette">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mrs. Cruncher" target="Mr. Cruncher">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tellson" target="Mr. Lorry">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Lead">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Mam’selle">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Miss Manette">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Tellson">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Courage">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Defarge">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Monsieur Manette">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Hark">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Darnay">
+      <data key="d2">22</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Lucie">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Miss Pross">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Doctor Manette">
+      <data key="d2">30</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Ladybird">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Mr. Stryver">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Mr. Stryver--">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Tellson’s">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Lord">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Mrs. Lorry">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Lorry" target="God">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Darnay--">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Lucie--">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Monsieur">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Monsieur the Marquis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Monsieur Gabelle">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Madame Defarge">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Mr. Barsad">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Carton">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Mr. Cruncher">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Mr. Crunches">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Mr. Carton">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Mr. Lorry" target="the Defarges">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Banker">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Lorry" target="Sainte Guillotine">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Barsad" target="Carton">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Barsad" target="Cly">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mr. Barsad" target="Lucie">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Barsad" target="Charles Evrémonde">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Barsad" target="God">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bully Stryver" target="Darnay">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jacques" target="Madame Defarge">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jacques" target="Samson">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Pross" target="Mr. Lorry">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Miss Pross" target="Ladybird">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Miss Pross" target="Hundreds">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Pross" target="Doctor Manette">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="Miss Pross" target="Solomon">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Miss Pross" target="Mr. Cruncher">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="Miss Pross" target="Midnight Murder">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Pross" target="Mischief">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Pross" target="George the Third">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Pross" target="God">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Pross" target="Charles Evrémonde">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Pross" target="Mr. Cruncher!--Don’t">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Pross" target="The gracious and merciful Heavens">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Pross" target="Mrs. Cruncher">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Miss Pross" target="Heaven">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Pross" target="Lucifer">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Pross" target="Madame Defarge">
+      <data key="d2">6</data>
+    </edge>
+  </graph>
+</graphml>

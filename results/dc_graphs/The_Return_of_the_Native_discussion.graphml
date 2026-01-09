@@ -1,0 +1,1041 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d1" for="node" attr.name="dc_in" attr.type="long" />
+  <key id="d0" for="node" attr.name="dc_out" attr.type="long" />
+  <graph edgedefault="directed">
+    <node id="Matthew">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Aunt">
+      <data key="d0">0</data>
+      <data key="d1">42</data>
+    </node>
+    <node id="Venn">
+      <data key="d0">81</data>
+      <data key="d1">100</data>
+    </node>
+    <node id="Tamsin">
+      <data key="d0">0</data>
+      <data key="d1">9</data>
+    </node>
+    <node id="Susan">
+      <data key="d0">3</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Mark">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Attend">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Job">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Yeobright">
+      <data key="d0">267</data>
+      <data key="d1">87</data>
+    </node>
+    <node id="Fate">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mistover">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Husbands">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Clym">
+      <data key="d0">161</data>
+      <data key="d1">170</data>
+    </node>
+    <node id="Tamsin Yeobright">
+      <data key="d0">0</data>
+      <data key="d1">13</data>
+    </node>
+    <node id="Klk">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Harry">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Eustacia">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="fiery mommet">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lord">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Nature">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Old Pa’son Williams">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mumming">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Boney">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Saint George">
+      <data key="d0">1</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Master Traveller">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr.">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Neighbours">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="the Vyes’—perhaps">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Andrew Brown">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Gad">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="fair Sabra">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Æneas">
+      <data key="d0">3</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lydia">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="D’ye">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="St. Paul">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Damon">
+      <data key="d0">0</data>
+      <data key="d1">74</data>
+    </node>
+    <node id="God">
+      <data key="d0">0</data>
+      <data key="d1">15</data>
+    </node>
+    <node id="God!—what">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mary Stuart">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Yeobright">
+      <data key="d0">14</data>
+      <data key="d1">39</data>
+    </node>
+    <node id="Fri′ar">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Anglebury">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Andrey">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Rachel">
+      <data key="d0">3</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Cap’n Vye">
+      <data key="d0">0</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="Mis’ess Yeobright">
+      <data key="d0">1</data>
+      <data key="d1">13</data>
+    </node>
+    <node id="Miss Vy — stacia">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Heaven">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Christian">
+      <data key="d0">51</data>
+      <data key="d1">62</data>
+    </node>
+    <node id="Miss Vye’s">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Venn">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Beauty">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Granfer Cantle">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Charley">
+      <data key="d0">26</data>
+      <data key="d1">46</data>
+    </node>
+    <node id="Darling">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Luke">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Greek Ulysses">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Eustacia">
+      <data key="d0">260</data>
+      <data key="d1">152</data>
+    </node>
+    <node id="Uncle">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Yeobrights">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Sam">
+      <data key="d0">12</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="Poor Diggory">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mis’ess Tamsin">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Timothy?—no">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Trouble">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Hush">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Wethers">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Tamsie">
+      <data key="d0">0</data>
+      <data key="d1">8</data>
+    </node>
+    <node id="Egdon">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Hummy">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mother">
+      <data key="d0">0</data>
+      <data key="d1">19</data>
+    </node>
+    <node id="Good Lord">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Maypole">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Father Christmas">
+      <data key="d0">1</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Olly">
+      <data key="d0">2</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="Wildeve">
+      <data key="d0">161</data>
+      <data key="d1">153</data>
+    </node>
+    <node id="Captain Vye">
+      <data key="d0">4</data>
+      <data key="d1">12</data>
+    </node>
+    <node id="Reddleman">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="John">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Humphrey">
+      <data key="d0">25</data>
+      <data key="d1">15</data>
+    </node>
+    <node id="Fairway">
+      <data key="d0">87</data>
+      <data key="d1">22</data>
+    </node>
+    <node id="Grandfer Cantle">
+      <data key="d0">22</data>
+      <data key="d1">11</data>
+    </node>
+    <node id="Thomasin">
+      <data key="d0">181</data>
+      <data key="d1">194</data>
+    </node>
+    <node id="Johnny">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Master Cantle">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <edge source="Venn" target="Wildeve">
+      <data key="d2">25</data>
+    </edge>
+    <edge source="Venn" target="Thomasin">
+      <data key="d2">27</data>
+    </edge>
+    <edge source="Venn" target="Tamsin">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Venn" target="Egdon">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Venn" target="Mrs. Yeobright">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Venn" target="Eustacia">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Venn" target="Clym">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Venn" target="Tamsin Yeobright">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Venn" target="Mr. Yeobright">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Venn" target="Trouble">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Venn" target="Charley">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Venn" target="Captain Vye">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Venn" target="Fairway">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Venn" target="the Maypole">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Susan" target="Tamsin Yeobright">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Susan" target="Mrs. Eustacia">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Yeobright" target="Christian">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Mrs. Yeobright" target="Olly">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mrs. Yeobright" target="Venn">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Mrs. Yeobright" target="Tamsin">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Mrs. Yeobright" target="Thomasin">
+      <data key="d2">75</data>
+    </edge>
+    <edge source="Mrs. Yeobright" target="Wildeve">
+      <data key="d2">37</data>
+    </edge>
+    <edge source="Mrs. Yeobright" target="Clym">
+      <data key="d2">56</data>
+    </edge>
+    <edge source="Mrs. Yeobright" target="Fairway">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mrs. Yeobright" target="Mr. Yeobright">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mrs. Yeobright" target="Aunt">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="Mrs. Yeobright" target="God">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Yeobright" target="Mother">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Mrs. Yeobright" target="Eustacia">
+      <data key="d2">23</data>
+    </edge>
+    <edge source="Mrs. Yeobright" target="Sam">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Yeobright" target="Tamsin Yeobright">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Yeobright" target="Mis’ess Yeobright">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Yeobright" target="Captain Vye">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Mrs. Yeobright" target="Tamsie">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Yeobright" target="Damon">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Mrs. Yeobright" target="the Vyes’—perhaps">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Clym" target="Fairway">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Clym" target="Grandfer Cantle">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Clym" target="Eustacia">
+      <data key="d2">50</data>
+    </edge>
+    <edge source="Clym" target="Wildeve">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Clym" target="Thomasin">
+      <data key="d2">29</data>
+    </edge>
+    <edge source="Clym" target="Tamsin">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Clym" target="Mother">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Clym" target="St. Paul">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Clym" target="Beauty">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Clym" target="Sam">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Clym" target="Mr. Yeobright">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Clym" target="Captain Vye">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Clym" target="Mrs. Yeobright">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Clym" target="Mary Stuart">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Clym" target="Heaven">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Clym" target="Aunt">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Clym" target="Christian">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="Clym" target="God">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Clym" target="Venn">
+      <data key="d2">18</data>
+    </edge>
+    <edge source="Clym" target="Attend">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Clym" target="God!—what">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Clym" target="Tamsin Yeobright">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Clym" target="Charley">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Saint George" target="fair Sabra">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Æneas" target="Tamsie">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Æneas" target="Mother">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Yeobright" target="Clym">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Mr. Yeobright" target="Christian">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mr. Yeobright" target="Venn">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Yeobright" target="Thomasin">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Yeobright" target="God">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Yeobright" target="Humphrey">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Rachel" target="the Maypole">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Rachel" target="Venn">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mis’ess Yeobright" target="Fri′ar">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Christian" target="Fairway">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Christian" target="Mother">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Christian" target="Wethers">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Christian" target="Timothy?—no">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Christian" target="Susan">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Christian" target="Matthew">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Christian" target="John">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Christian" target="Luke">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Christian" target="Mark">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Christian" target="Mis’ess Yeobright">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Christian" target="Mr. Yeobright">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Christian" target="God">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Christian" target="Mrs. Yeobright">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Christian" target="Father Christmas">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Christian" target="Eustacia">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Christian" target="Humphrey">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Christian" target="Master Traveller">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Christian" target="Wildeve">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Christian" target="Clym">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Christian" target="Neighbours">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Granfer Cantle" target="Fairway">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Charley" target="Eustacia">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Charley" target="Wildeve">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Charley" target="Christian">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Charley" target="Venn">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Charley" target="Thomasin">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Charley" target="Fairway">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Charley" target="Mrs. Venn">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Charley" target="Clym">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Charley" target="Mr.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Eustacia" target="Johnny">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Eustacia" target="Miss Vy — stacia">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Eustacia" target="Thomasin">
+      <data key="d2">26</data>
+    </edge>
+    <edge source="Eustacia" target="Damon">
+      <data key="d2">41</data>
+    </edge>
+    <edge source="Eustacia" target="Wildeve">
+      <data key="d2">48</data>
+    </edge>
+    <edge source="Eustacia" target="Uncle">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Eustacia" target="the Yeobrights">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Eustacia" target="Mrs. Yeobright">
+      <data key="d2">29</data>
+    </edge>
+    <edge source="Eustacia" target="Mr. Yeobright">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Eustacia" target="Cap’n Vye">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Eustacia" target="Charley">
+      <data key="d2">36</data>
+    </edge>
+    <edge source="Eustacia" target="Miss Vye’s">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Eustacia" target="Grandfer Cantle">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Eustacia" target="Hush">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Eustacia" target="Æneas">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Eustacia" target="Tamsie">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Eustacia" target="Venn">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Eustacia" target="Clym">
+      <data key="d2">44</data>
+    </edge>
+    <edge source="Eustacia" target="Captain Vye">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Eustacia" target="Nature">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Eustacia" target="Humphrey">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Eustacia" target="Mother">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Eustacia" target="God">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sam" target="Clym">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sam" target="Mis’ess Yeobright">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sam" target="Grandfer Cantle">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sam" target="Fairway">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sam" target="Mrs. Yeobright">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Sam" target="Mumming">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sam" target="Mr. Yeobright">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Sam" target="Christian">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Father Christmas" target="Saint George">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Olly" target="Tamsin Yeobright">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Olly" target="Mrs. Yeobright">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wildeve" target="Thomasin">
+      <data key="d2">25</data>
+    </edge>
+    <edge source="Wildeve" target="Damon">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Wildeve" target="Tamsie">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Wildeve" target="Mrs. Yeobright">
+      <data key="d2">25</data>
+    </edge>
+    <edge source="Wildeve" target="Fairway">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wildeve" target="Andrew Brown">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wildeve" target="Andrey">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Wildeve" target="Lydia">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wildeve" target="Old Pa’son Williams">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wildeve" target="Mr. Yeobright">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Wildeve" target="Grandfer Cantle">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Wildeve" target="Olly">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Wildeve" target="Heaven">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wildeve" target="Eustacia">
+      <data key="d2">41</data>
+    </edge>
+    <edge source="Wildeve" target="Captain Vye">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wildeve" target="Sam">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wildeve" target="Venn">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="Wildeve" target="Good Lord">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wildeve" target="God">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Wildeve" target="Mistover">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wildeve" target="Christian">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Wildeve" target="Gad">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wildeve" target="Fate">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wildeve" target="Clym">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Wildeve" target="Mother">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Captain Vye" target="Charley">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Captain Vye" target="Thomasin">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Captain Vye" target="Eustacia">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Humphrey" target="Mr. Yeobright">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Humphrey" target="God">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Humphrey" target="Fairway">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Humphrey" target="Hummy">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Humphrey" target="Mother">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Humphrey" target="Sam">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Humphrey" target="Clym">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Humphrey" target="Eustacia">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Humphrey" target="Mrs. Yeobright">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Humphrey" target="Darling">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Humphrey" target="Wildeve">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Humphrey" target="Venn">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Humphrey" target="Job">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Humphrey" target="Grandfer Cantle">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fairway" target="Mis’ess Yeobright">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Fairway" target="Humphrey">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Fairway" target="Thomasin">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Fairway" target="Clym">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Fairway" target="Wildeve">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Fairway" target="Mis’ess Tamsin">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fairway" target="Johnny">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fairway" target="Christian">
+      <data key="d2">24</data>
+    </edge>
+    <edge source="Fairway" target="Mother">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fairway" target="Grandfer Cantle">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Fairway" target="fiery mommet">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fairway" target="Lord">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fairway" target="Olly">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fairway" target="Mrs. Yeobright">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Fairway" target="Eustacia">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Fairway" target="Harry">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fairway" target="John">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fairway" target="Boney">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fairway" target="Saint George">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fairway" target="Mr. Yeobright">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Grandfer Cantle" target="Humphrey">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Grandfer Cantle" target="Wildeve">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Grandfer Cantle" target="Tamsin Yeobright">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Grandfer Cantle" target="Cap’n Vye">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Grandfer Cantle" target="God">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Grandfer Cantle" target="Klk">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Grandfer Cantle" target="Mr. Yeobright">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Grandfer Cantle" target="Master Cantle">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Grandfer Cantle" target="Boney">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Grandfer Cantle" target="Neighbours">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Grandfer Cantle" target="Mrs. Yeobright">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Grandfer Cantle" target="D’ye">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Grandfer Cantle" target="Fairway">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Grandfer Cantle" target="Sam">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Grandfer Cantle" target="Christian">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Thomasin" target="Aunt">
+      <data key="d2">26</data>
+    </edge>
+    <edge source="Thomasin" target="Reddleman">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Thomasin" target="Wildeve">
+      <data key="d2">18</data>
+    </edge>
+    <edge source="Thomasin" target="Venn">
+      <data key="d2">40</data>
+    </edge>
+    <edge source="Thomasin" target="Mrs. Yeobright">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Thomasin" target="Damon">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="Thomasin" target="Anglebury">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Thomasin" target="Tamsin">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Thomasin" target="Clym">
+      <data key="d2">44</data>
+    </edge>
+    <edge source="Thomasin" target="Poor Diggory">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Thomasin" target="Greek Ulysses">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Thomasin" target="Eustacia">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Thomasin" target="Husbands">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Thomasin" target="God">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Thomasin" target="Tamsin Yeobright">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Thomasin" target="Egdon">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Thomasin" target="Rachel">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Thomasin" target="Mr. Yeobright">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Thomasin" target="Tamsie">
+      <data key="d2">1</data>
+    </edge>
+  </graph>
+</graphml>

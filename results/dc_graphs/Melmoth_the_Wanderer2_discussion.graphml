@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d1" for="node" attr.name="dc_in" attr.type="long" />
+  <key id="d0" for="node" attr.name="dc_out" attr.type="long" />
+  <graph edgedefault="directed">
+    <node id="Satana">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="COLMAN">
+      <data key="d0">3</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Alonzo">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="God">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Satan">
+      <data key="d0">1</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Elizabeth">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Jesus Christ">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Louis the Thirteenth">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="The Jesuits">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Juan">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="The Superior">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="the Inquisition">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Butler">
+      <data key="d0">2</data>
+      <data key="d1">0</data>
+    </node>
+    <edge source="Satana" target="Jesus Christ">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="COLMAN" target="God">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Alonzo" target="Juan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Satan" target="God">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Elizabeth" target="The Jesuits">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="The Superior" target="Satan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Butler" target="the Inquisition">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Butler" target="Louis the Thirteenth">
+      <data key="d2">1</data>
+    </edge>
+  </graph>
+</graphml>

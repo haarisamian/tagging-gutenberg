@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="quotes" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Jude">
+      <data key="d0">711</data>
+    </node>
+    <node id="Sue">
+      <data key="d0">563</data>
+    </node>
+    <node id="Arabella">
+      <data key="d0">349</data>
+    </node>
+    <node id="Phillotson">
+      <data key="d0">121</data>
+    </node>
+    <node id="Gillingham">
+      <data key="d0">85</data>
+    </node>
+    <node id="Mrs. Edlin">
+      <data key="d0">29</data>
+    </node>
+    <node id="Anny">
+      <data key="d0">24</data>
+    </node>
+    <node id="Tinker Taylor">
+      <data key="d0">19</data>
+    </node>
+    <node id="Vilbert">
+      <data key="d0">12</data>
+    </node>
+    <node id="Donn">
+      <data key="d0">9</data>
+    </node>
+    <node id="Uncle Joe">
+      <data key="d0">8</data>
+    </node>
+    <node id="Miss Fontover">
+      <data key="d0">6</data>
+    </node>
+    <node id="J. S. Mill">
+      <data key="d0">3</data>
+    </node>
+    <node id="Mrs. Cartlett">
+      <data key="d0">2</data>
+    </node>
+    <node id="Father">
+      <data key="d0">2</data>
+    </node>
+    <node id="Farmer Troutham">
+      <data key="d0">1</data>
+    </node>
+    <node id="Drusilla Fawley">
+      <data key="d0">1</data>
+    </node>
+    <node id="Sarah">
+      <data key="d0">1</data>
+    </node>
+    <node id="V">
+      <data key="d0">1</data>
+    </node>
+    <node id="Shaston">
+      <data key="d0">1</data>
+    </node>
+    <node id="King Edward">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr. Cartlett">
+      <data key="d0">1</data>
+    </node>
+    <node id="VIII Michaelmas">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Jude" target="Phillotson">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Jude" target="Drusilla Fawley">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Jude" target="Farmer Troutham">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Jude" target="Vilbert">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Jude" target="Arabella">
+      <data key="d1">151</data>
+    </edge>
+    <edge source="Jude" target="Sue">
+      <data key="d1">259</data>
+    </edge>
+    <edge source="Jude" target="Miss Fontover">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jude" target="Uncle Joe">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Jude" target="Tinker Taylor">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Jude" target="Mrs. Edlin">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Jude" target="Shaston">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jude" target="J. S. Mill">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Jude" target="Gillingham">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Jude" target="Father">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Jude" target="Donn">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Sue" target="Miss Fontover">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Sue" target="Phillotson">
+      <data key="d1">45</data>
+    </edge>
+    <edge source="Sue" target="Arabella">
+      <data key="d1">38</data>
+    </edge>
+    <edge source="Sue" target="V">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sue" target="Mrs. Edlin">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Sue" target="King Edward">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sue" target="Father">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sue" target="Uncle Joe">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sue" target="Mrs. Cartlett">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sue" target="Gillingham">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Arabella" target="Anny">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Arabella" target="Sarah">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Arabella" target="Mr. Cartlett">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Arabella" target="Phillotson">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Arabella" target="Mrs. Cartlett">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Arabella" target="Gillingham">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Arabella" target="Donn">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Arabella" target="Tinker Taylor">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Arabella" target="VIII Michaelmas">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Arabella" target="Mrs. Edlin">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Arabella" target="Vilbert">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Phillotson" target="Gillingham">
+      <data key="d1">32</data>
+    </edge>
+    <edge source="Phillotson" target="J. S. Mill">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Phillotson" target="Mrs. Edlin">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Gillingham" target="Mrs. Edlin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Anny" target="Sarah">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tinker Taylor" target="Uncle Joe">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Shaston" target="King Edward">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,400 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="quotes" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Phoebe">
+      <data key="d0">556</data>
+    </node>
+    <node id="Reginald">
+      <data key="d0">378</data>
+    </node>
+    <node id="Ursula">
+      <data key="d0">348</data>
+    </node>
+    <node id="Mr. Copperhead">
+      <data key="d0">260</data>
+    </node>
+    <node id="Janey">
+      <data key="d0">157</data>
+    </node>
+    <node id="Sophy">
+      <data key="d0">72</data>
+    </node>
+    <node id="Mrs. Tozer">
+      <data key="d0">69</data>
+    </node>
+    <node id="Northcote">
+      <data key="d0">59</data>
+    </node>
+    <node id="Mrs. Hurst">
+      <data key="d0">48</data>
+    </node>
+    <node id="Sir Robert">
+      <data key="d0">42</data>
+    </node>
+    <node id="Cotsdean">
+      <data key="d0">40</data>
+    </node>
+    <node id="Mrs. Copperhead">
+      <data key="d0">36</data>
+    </node>
+    <node id="Cousin Anne">
+      <data key="d0">31</data>
+    </node>
+    <node id="Betsy">
+      <data key="d0">29</data>
+    </node>
+    <node id="Mr. Tozer">
+      <data key="d0">20</data>
+    </node>
+    <node id="Mr. Beecham">
+      <data key="d0">16</data>
+    </node>
+    <node id="Anne">
+      <data key="d0">13</data>
+    </node>
+    <node id="Miss Dorset">
+      <data key="d0">10</data>
+    </node>
+    <node id="Tozer">
+      <data key="d0">6</data>
+    </node>
+    <node id="Horace Northcote">
+      <data key="d0">6</data>
+    </node>
+    <node id="Jane">
+      <data key="d0">5</data>
+    </node>
+    <node id="Mrs. Pigeon">
+      <data key="d0">4</data>
+    </node>
+    <node id="Mrs. Brown">
+      <data key="d0">4</data>
+    </node>
+    <node id="Joe">
+      <data key="d0">3</data>
+    </node>
+    <node id="Sally">
+      <data key="d0">2</data>
+    </node>
+    <node id="Mr. Simpson">
+      <data key="d0">2</data>
+    </node>
+    <node id="Amy">
+      <data key="d0">2</data>
+    </node>
+    <node id="www.gutenberg.org">
+      <data key="d0">2</data>
+    </node>
+    <node id="Mrs. Rider">
+      <data key="d0">1</data>
+    </node>
+    <node id="Virgil">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mamma">
+      <data key="d0">1</data>
+    </node>
+    <node id="Old Mr. Green">
+      <data key="d0">1</data>
+    </node>
+    <node id="Johnnie">
+      <data key="d0">1</data>
+    </node>
+    <node id="Pride">
+      <data key="d0">1</data>
+    </node>
+    <node id="Heaven">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Phoebe" target="Mrs. Brown">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Phoebe" target="Mr. Beecham">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Phoebe" target="Mr. Copperhead">
+      <data key="d1">83</data>
+    </edge>
+    <edge source="Phoebe" target="Virgil">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Phoebe" target="Mrs. Copperhead">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Phoebe" target="Ursula">
+      <data key="d1">39</data>
+    </edge>
+    <edge source="Phoebe" target="Mrs. Tozer">
+      <data key="d1">45</data>
+    </edge>
+    <edge source="Phoebe" target="Miss Dorset">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Phoebe" target="Jane">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Phoebe" target="Mr. Tozer">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Phoebe" target="Mamma">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Phoebe" target="Horace Northcote">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Phoebe" target="Northcote">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Phoebe" target="Old Mr. Green">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Phoebe" target="Reginald">
+      <data key="d1">84</data>
+    </edge>
+    <edge source="Phoebe" target="Janey">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Phoebe" target="Pride">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Phoebe" target="Mrs. Hurst">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Phoebe" target="Betsy">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Phoebe" target="Mr. Simpson">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Phoebe" target="Tozer">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Phoebe" target="Cotsdean">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Phoebe" target="Sophy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Phoebe" target="www.gutenberg.org">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Reginald" target="Janey">
+      <data key="d1">32</data>
+    </edge>
+    <edge source="Reginald" target="Ursula">
+      <data key="d1">87</data>
+    </edge>
+    <edge source="Reginald" target="Mr. Tozer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Reginald" target="Johnnie">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Reginald" target="Cotsdean">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="Reginald" target="Mrs. Hurst">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Reginald" target="Heaven">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Reginald" target="Northcote">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="Reginald" target="Pride">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Reginald" target="Sophy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Reginald" target="Mr. Copperhead">
+      <data key="d1">46</data>
+    </edge>
+    <edge source="Reginald" target="Betsy">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Reginald" target="Horace Northcote">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Reginald" target="Sir Robert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ursula" target="Mr. Copperhead">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="Ursula" target="Sophy">
+      <data key="d1">30</data>
+    </edge>
+    <edge source="Ursula" target="Sir Robert">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Ursula" target="Cousin Anne">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Ursula" target="Mrs. Copperhead">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Ursula" target="Anne">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Ursula" target="Miss Dorset">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Ursula" target="Janey">
+      <data key="d1">102</data>
+    </edge>
+    <edge source="Ursula" target="Mr. Tozer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ursula" target="Amy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Ursula" target="Mrs. Hurst">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Ursula" target="Joe">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ursula" target="Mrs. Tozer">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Ursula" target="Cotsdean">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ursula" target="Northcote">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Ursula" target="Betsy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Copperhead" target="Mr. Beecham">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Copperhead" target="Mrs. Copperhead">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Mr. Copperhead" target="Virgil">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Copperhead" target="Sir Robert">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Mr. Copperhead" target="Northcote">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Mr. Copperhead" target="Janey">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Mr. Copperhead" target="Horace Northcote">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Copperhead" target="Betsy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Copperhead" target="Cotsdean">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Copperhead" target="Mrs. Tozer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Janey" target="Sir Robert">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Janey" target="Mrs. Copperhead">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Janey" target="Mrs. Hurst">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Janey" target="Joe">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Janey" target="Cotsdean">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Janey" target="Betsy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Janey" target="Mrs. Pigeon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sophy" target="Sir Robert">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Sophy" target="Miss Dorset">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Sophy" target="Anne">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Sophy" target="Cousin Anne">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Sophy" target="Mrs. Copperhead">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Tozer" target="Jane">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Tozer" target="Mr. Tozer">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mrs. Tozer" target="Mrs. Hurst">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Tozer" target="Northcote">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Northcote" target="Betsy">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mrs. Hurst" target="Cotsdean">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Robert" target="Mrs. Copperhead">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Sir Robert" target="Miss Dorset">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Sir Robert" target="Anne">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Robert" target="Cousin Anne">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Cotsdean" target="Heaven">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cotsdean" target="Sally">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Copperhead" target="Mr. Beecham">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Copperhead" target="Miss Dorset">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Copperhead" target="Cousin Anne">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Mrs. Copperhead" target="Anne">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cousin Anne" target="Miss Dorset">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Betsy" target="Mrs. Pigeon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Pigeon" target="Mrs. Brown">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Brown" target="Mrs. Rider">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

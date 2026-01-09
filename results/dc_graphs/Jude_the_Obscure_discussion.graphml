@@ -1,0 +1,934 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d1" for="node" attr.name="dc_in" attr.type="long" />
+  <key id="d0" for="node" attr.name="dc_out" attr.type="long" />
+  <graph edgedefault="directed">
+    <node id="Aunt">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Pilate">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Fawleys">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Drusilla Fawley">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Doctor Smith">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Husband">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Thucydides">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs.">
+      <data key="d0">0</data>
+      <data key="d1">9</data>
+    </node>
+    <node id="Ada">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Job">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Fate">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Abby">
+      <data key="d0">0</data>
+      <data key="d1">8</data>
+    </node>
+    <node id="Paul">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="VIII Michaelmas">
+      <data key="d0">2</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Arabella">
+      <data key="d0">240</data>
+      <data key="d1">105</data>
+    </node>
+    <node id="Eliza">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Pigs">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Fuller">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Cythna">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lord">
+      <data key="d0">0</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Willis">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Shaston">
+      <data key="d0">2</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Phillotson">
+      <data key="d0">66</data>
+      <data key="d1">147</data>
+    </node>
+    <node id="Dammy">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Nature">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Laon">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Matrimony">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="MILTON">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Charity">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Uncle Joe">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Doctor Vilbert">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Gad">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Doctors">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Vilbert">
+      <data key="d0">2</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Samson">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Scripture">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Highridge">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Ajax">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Donn">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Anny">
+      <data key="d0">27</data>
+      <data key="d1">11</data>
+    </node>
+    <node id="God">
+      <data key="d0">0</data>
+      <data key="d1">20</data>
+    </node>
+    <node id="Voltairean">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Donn">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Sue’s">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Edlin!—I">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Dick">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Christ">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="The Raven">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="The Ishmaelite">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Hector">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Taylor">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="George">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="St. Peter">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Farmer Troutham">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Edlins">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Christianity">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Tinker Taylor">
+      <data key="d0">3</data>
+      <data key="d1">9</data>
+    </node>
+    <node id="A Nemesis">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Bridehead">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="S. F. M. Bridehead">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Life">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Heaven">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Aunt Drusilla">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Newman">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Challow">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Lo">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Dr. Vilbert">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Achilles unarmed">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Gillingham">
+      <data key="d0">106</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Juey">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="V">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Shelley">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Diana">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Melpomene">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Sarah">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Virginia">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Baker">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Fortune">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Bolted">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Wessex">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Jude">
+      <data key="d0">290</data>
+      <data key="d1">382</data>
+    </node>
+    <node id="Mary Magdalen">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Ridley">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Sue">
+      <data key="d0">350</data>
+      <data key="d1">276</data>
+    </node>
+    <node id="Adam">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Cartlett">
+      <data key="d0">1</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Shelleyan">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Marygreen">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Mrs. Edlin">
+      <data key="d0">44</data>
+      <data key="d1">16</data>
+    </node>
+    <node id="Mr. Fawley),—I">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Gibbon">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="J. S. Mill">
+      <data key="d0">1</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Banns">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mother">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Sundays">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Lord Harry!—Matriarchy">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Fontover">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Phœnix">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Fawley">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="St.—St">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Jews">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Venus">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="John">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Luxury">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Father">
+      <data key="d0">0</data>
+      <data key="d1">19</data>
+    </node>
+    <node id="Apollo">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Well”—Jude">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Biles">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Pshoo">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Widow Edlin">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <edge source="VIII Michaelmas" target="Jude">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Arabella" target="Jude">
+      <data key="d2">131</data>
+    </edge>
+    <edge source="Arabella" target="Sundays">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arabella" target="Father">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Arabella" target="Mother">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arabella" target="the Edlins">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arabella" target="Lord">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Arabella" target="Pigs">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arabella" target="God">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Arabella" target="Challow">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arabella" target="Heaven">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Arabella" target="Doctor Vilbert">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arabella" target="Sue">
+      <data key="d2">46</data>
+    </edge>
+    <edge source="Arabella" target="Bolted">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arabella" target="Abby">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Arabella" target="Mr. Fawley">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arabella" target="S. F. M. Bridehead">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arabella" target="Dammy">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arabella" target="Anny">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Arabella" target="Phillotson">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Arabella" target="Miss Donn">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arabella" target="Mrs. Edlin">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arabella" target="Samson">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Arabella" target="Mr. Taylor">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Arabella" target="Tinker Taylor">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Arabella" target="Vilbert">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Shaston" target="Jude">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Shaston" target="MILTON">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Phillotson" target="Jude">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Phillotson" target="Sue">
+      <data key="d2">33</data>
+    </edge>
+    <edge source="Phillotson" target="Eliza">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Phillotson" target="Gillingham">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Phillotson" target="Mrs.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Phillotson" target="Heaven">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Phillotson" target="Arabella">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Phillotson" target="Marygreen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Phillotson" target="Mrs. Edlin">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Uncle Joe" target="Tinker Taylor">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Uncle Joe" target="Jude">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Uncle Joe" target="Fortune">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Vilbert" target="Arabella">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Donn" target="Jude">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Donn" target="Mr. Fawley">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Anny" target="Jude">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Anny" target="Arabella">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Anny" target="Abby">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Anny" target="Wessex">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Anny" target="Dr. Vilbert">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Anny" target="Vilbert">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Anny" target="Mrs. Cartlett">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tinker Taylor" target="Jude">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Tinker Taylor" target="Gad">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Gillingham" target="Dick">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Gillingham" target="Phillotson">
+      <data key="d2">51</data>
+    </edge>
+    <edge source="Gillingham" target="George">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Gillingham" target="Shelleyan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Gillingham" target="Laon">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Gillingham" target="Cythna">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Gillingham" target="Paul">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Gillingham" target="Virginia">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Gillingham" target="the Lord Harry!—Matriarchy">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Gillingham" target="God">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Gillingham" target="Shaston">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Gillingham" target="Sue">
+      <data key="d2">26</data>
+    </edge>
+    <edge source="Gillingham" target="Jude">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Gillingham" target="Mrs.">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Gillingham" target="Mrs. Cartlett">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Gillingham" target="Arabella">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="V" target="Sue">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sarah" target="Arabella">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Baker">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Drusilla Fawley">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Farmer Troutham">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Vilbert">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Jude" target="Diana">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Ajax">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Hector">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Achilles unarmed">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Phœnix">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Thucydides">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Arabella">
+      <data key="d2">53</data>
+    </edge>
+    <edge source="Jude" target="Abby">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Challow">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="God">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Jude" target="the Fawleys">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Jude" target="Sue">
+      <data key="d2">145</data>
+    </edge>
+    <edge source="Jude" target="Phillotson">
+      <data key="d2">26</data>
+    </edge>
+    <edge source="Jude" target="Newman">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Miss Fontover">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Jude" target="Aunt">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Jude" target="John">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Mr. Highridge">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Voltairean">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Miss Bridehead">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Well”—Jude">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Jude" target="Aunt Drusilla">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="A Nemesis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Job">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Banns">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Mrs. Cartlett">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Sue’s">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Willis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Father">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Jude" target="Mrs. Edlin">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Nature">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Jude" target="Fate">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Mother">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="J. S. Mill">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Shelley">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Gibbon">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Apollo">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Venus">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Fuller">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Jude" target="Doctor Smith">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Ridley">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Jude" target="Marygreen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jude" target="Lo">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sue" target="St. Peter">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sue" target="St.—St">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sue" target="Mary Magdalen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sue" target="Jude">
+      <data key="d2">207</data>
+    </edge>
+    <edge source="Sue" target="Phillotson">
+      <data key="d2">61</data>
+    </edge>
+    <edge source="Sue" target="Christ">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sue" target="the Jews">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sue" target="The Raven">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sue" target="The Ishmaelite">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sue" target="Life">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sue" target="Christianity">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sue" target="God">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Sue" target="Aunt">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Sue" target="Marygreen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sue" target="Aunt Drusilla">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Sue" target="Ada">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sue" target="Mrs. Edlin">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Sue" target="Arabella">
+      <data key="d2">36</data>
+    </edge>
+    <edge source="Sue" target="J. S. Mill">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sue" target="Heaven">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sue" target="Mr. Fawley),—I">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sue" target="Melpomene">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sue" target="Mr. Fawley">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sue" target="Biles">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sue" target="Willis">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sue" target="Mrs. Cartlett">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sue" target="Juey">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sue" target="Father">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Sue" target="Lord">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Sue" target="Doctors">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sue" target="Pilate">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sue" target="Adam">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sue" target="Charity">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sue" target="Luxury">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sue" target="Mrs. Edlin!—I">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Cartlett" target="Jude">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Edlin" target="Scripture">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Edlin" target="Sue">
+      <data key="d2">25</data>
+    </edge>
+    <edge source="Mrs. Edlin" target="Pshoo">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Edlin" target="Phillotson">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Mrs. Edlin" target="Matrimony">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mrs. Edlin" target="Husband">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mrs. Edlin" target="the Widow Edlin">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mrs. Edlin" target="Jude">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="J. S. Mill" target="Jude">
+      <data key="d2">1</data>
+    </edge>
+  </graph>
+</graphml>

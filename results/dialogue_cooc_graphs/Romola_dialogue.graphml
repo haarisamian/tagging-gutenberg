@@ -1,0 +1,544 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="quotes" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Tito">
+      <data key="d0">456</data>
+    </node>
+    <node id="Romola">
+      <data key="d0">454</data>
+    </node>
+    <node id="Nello">
+      <data key="d0">155</data>
+    </node>
+    <node id="Tessa">
+      <data key="d0">148</data>
+    </node>
+    <node id="Bardo">
+      <data key="d0">94</data>
+    </node>
+    <node id="Baldassarre">
+      <data key="d0">78</data>
+    </node>
+    <node id="Piero">
+      <data key="d0">70</data>
+    </node>
+    <node id="Bratti">
+      <data key="d0">69</data>
+    </node>
+    <node id="Savonarola">
+      <data key="d0">63</data>
+    </node>
+    <node id="Bernardo">
+      <data key="d0">53</data>
+    </node>
+    <node id="Niccolò">
+      <data key="d0">51</data>
+    </node>
+    <node id="Cennini">
+      <data key="d0">46</data>
+    </node>
+    <node id="Spini">
+      <data key="d0">33</data>
+    </node>
+    <node id="Tornabuoni">
+      <data key="d0">26</data>
+    </node>
+    <node id="Francesco Cei">
+      <data key="d0">22</data>
+    </node>
+    <node id="Monna Brigida">
+      <data key="d0">22</data>
+    </node>
+    <node id="Bernardo Rucellai">
+      <data key="d0">19</data>
+    </node>
+    <node id="Cronaca">
+      <data key="d0">11</data>
+    </node>
+    <node id="Monna Lisa">
+      <data key="d0">11</data>
+    </node>
+    <node id="Goro">
+      <data key="d0">10</data>
+    </node>
+    <node id="Giannozzo Pucci">
+      <data key="d0">10</data>
+    </node>
+    <node id="Lillo">
+      <data key="d0">8</data>
+    </node>
+    <node id="Niccolò Ridolfi">
+      <data key="d0">7</data>
+    </node>
+    <node id="Maestro Tacco">
+      <data key="d0">5</data>
+    </node>
+    <node id="Fra Luca">
+      <data key="d0">4</data>
+    </node>
+    <node id="Ser Ceccone">
+      <data key="d0">4</data>
+    </node>
+    <node id="Ser Cioni">
+      <data key="d0">4</data>
+    </node>
+    <node id="the Frate">
+      <data key="d0">3</data>
+    </node>
+    <node id="Monna Ghita">
+      <data key="d0">3</data>
+    </node>
+    <node id="Nanni">
+      <data key="d0">2</data>
+    </node>
+    <node id="Camilla">
+      <data key="d0">2</data>
+    </node>
+    <node id="Jacopo Nardi">
+      <data key="d0">2</data>
+    </node>
+    <node id="Sadness">
+      <data key="d0">2</data>
+    </node>
+    <node id="Cecco">
+      <data key="d0">2</data>
+    </node>
+    <node id="Virgil">
+      <data key="d0">2</data>
+    </node>
+    <node id="Politian">
+      <data key="d0">2</data>
+    </node>
+    <node id="Columbus">
+      <data key="d0">2</data>
+    </node>
+    <node id="Niccolò Caparra">
+      <data key="d0">2</data>
+    </node>
+    <node id="Bernardo Ruccellai">
+      <data key="d0">2</data>
+    </node>
+    <node id="San Giovanni">
+      <data key="d0">1</data>
+    </node>
+    <node id="Scala">
+      <data key="d0">1</data>
+    </node>
+    <node id="Piero de ’ Medici">
+      <data key="d0">1</data>
+    </node>
+    <node id="the magnificent Zecca">
+      <data key="d0">1</data>
+    </node>
+    <node id="Antonio">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lollo">
+      <data key="d0">1</data>
+    </node>
+    <node id="Soderini">
+      <data key="d0">1</data>
+    </node>
+    <node id="Baldassarre—“only">
+      <data key="d0">1</data>
+    </node>
+    <node id="the Holy Madonna">
+      <data key="d0">1</data>
+    </node>
+    <node id="Naldo">
+      <data key="d0">1</data>
+    </node>
+    <node id="Fra Niccolò">
+      <data key="d0">1</data>
+    </node>
+    <node id="the Piagnoni">
+      <data key="d0">1</data>
+    </node>
+    <node id="Fra Domenico">
+      <data key="d0">1</data>
+    </node>
+    <node id="Invisible Mercy">
+      <data key="d0">1</data>
+    </node>
+    <node id="Hope">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Tito" target="Cennini">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Tito" target="Nello">
+      <data key="d1">34</data>
+    </edge>
+    <edge source="Tito" target="Bardo">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Tito" target="Romola">
+      <data key="d1">140</data>
+    </edge>
+    <edge source="Tito" target="Bernardo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Tito" target="Scala">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tito" target="Tessa">
+      <data key="d1">73</data>
+    </edge>
+    <edge source="Tito" target="Monna Brigida">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Tito" target="Bratti">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Tito" target="Niccolò">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Tito" target="Cronaca">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Tito" target="Piero">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Tito" target="Goro">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Tito" target="Tornabuoni">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Tito" target="Soderini">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tito" target="Baldassarre">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Tito" target="Savonarola">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Tito" target="Giannozzo Pucci">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tito" target="Bernardo Rucellai">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Tito" target="Spini">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="Tito" target="Monna Lisa">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tito" target="the Frate">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Tito" target="Fra Niccolò">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Romola" target="Bardo">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="Romola" target="Monna Brigida">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Romola" target="Fra Luca">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Romola" target="Savonarola">
+      <data key="d1">48</data>
+    </edge>
+    <edge source="Romola" target="Niccolò">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Romola" target="Bernardo">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="Romola" target="Baldassarre">
+      <data key="d1">33</data>
+    </edge>
+    <edge source="Romola" target="Piero">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Romola" target="Nello">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Romola" target="Niccolò Ridolfi">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Romola" target="Tornabuoni">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Romola" target="Cecco">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Romola" target="Tessa">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="Romola" target="Camilla">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Romola" target="Baldassarre—“only">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Romola" target="Lillo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Romola" target="Bratti">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Romola" target="Cennini">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Romola" target="Bernardo Rucellai">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Romola" target="Invisible Mercy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Romola" target="Jacopo Nardi">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Nello" target="Bratti">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Nello" target="Niccolò">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Nello" target="Nanni">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nello" target="Monna Ghita">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nello" target="Piero de ’ Medici">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Nello" target="Cennini">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Nello" target="Bardo">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Nello" target="Piero">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Nello" target="Francesco Cei">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Nello" target="Savonarola">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nello" target="Niccolò Caparra">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nello" target="Cronaca">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Nello" target="Maestro Tacco">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Tessa" target="Monna Lisa">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Tessa" target="Baldassarre">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="Tessa" target="Piero">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tessa" target="Bratti">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Tessa" target="Naldo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tessa" target="the Holy Madonna">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Tessa" target="Lillo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardo" target="Bernardo">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Bardo" target="Virgil">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bardo" target="Monna Brigida">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Baldassarre" target="Tornabuoni">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Baldassarre" target="Savonarola">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Baldassarre" target="Piero">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Baldassarre" target="Monna Lisa">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Baldassarre" target="Bernardo Rucellai">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Baldassarre" target="Bernardo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Piero" target="Cennini">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Piero" target="Tornabuoni">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Piero" target="Soderini">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Piero" target="Savonarola">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Piero" target="Bernardo Rucellai">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bratti" target="Columbus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bratti" target="the Frate">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bratti" target="Monna Ghita">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Bratti" target="Naldo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bratti" target="Monna Brigida">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Savonarola" target="Bernardo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Savonarola" target="Fra Domenico">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Savonarola" target="the Piagnoni">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Savonarola" target="Spini">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Savonarola" target="Hope">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bernardo" target="Niccolò">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Niccolò" target="Nanni">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Niccolò" target="Goro">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Niccolò" target="Cennini">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Niccolò" target="Francesco Cei">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Niccolò" target="Ser Ceccone">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Niccolò" target="the Piagnoni">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cennini" target="the magnificent Zecca">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cennini" target="Francesco Cei">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Cennini" target="Niccolò Caparra">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cennini" target="Cronaca">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cennini" target="Goro">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Spini" target="Francesco Cei">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Spini" target="Ser Ceccone">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Tornabuoni" target="Ser Cioni">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tornabuoni" target="Lollo">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Tornabuoni" target="Giannozzo Pucci">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Tornabuoni" target="Bernardo Rucellai">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Tornabuoni" target="Bernardo Ruccellai">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tornabuoni" target="Niccolò Ridolfi">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Francesco Cei" target="San Giovanni">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Francesco Cei" target="Cronaca">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Monna Brigida" target="Camilla">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Monna Brigida" target="Sadness">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bernardo Rucellai" target="Niccolò Ridolfi">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bernardo Rucellai" target="Giannozzo Pucci">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Goro" target="the Frate">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Goro" target="Ser Cioni">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Giannozzo Pucci" target="Antonio">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Giannozzo Pucci" target="Niccolò Ridolfi">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Niccolò Ridolfi" target="Antonio">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Niccolò Ridolfi" target="Bernardo Ruccellai">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sadness" target="Hope">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Virgil" target="Politian">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Politian" target="Scala">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="San Giovanni" target="the magnificent Zecca">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fra Niccolò" target="Fra Domenico">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

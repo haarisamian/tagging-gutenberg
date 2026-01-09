@@ -1,0 +1,514 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d1" for="node" attr.name="dc_in" attr.type="long" />
+  <key id="d0" for="node" attr.name="dc_out" attr.type="long" />
+  <graph edgedefault="directed">
+    <node id="Netherlands">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Hallo">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mem Putih">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Ford">
+      <data key="d0">17</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Abdulla">
+      <data key="d0">5</data>
+      <data key="d1">8</data>
+    </node>
+    <node id="Mr. Vinck">
+      <data key="d0">2</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Mahmat">
+      <data key="d0">14</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Babalatchi">
+      <data key="d0">87</data>
+      <data key="d1">44</data>
+    </node>
+    <node id="Nina">
+      <data key="d0">31</data>
+      <data key="d1">67</data>
+    </node>
+    <node id="Datu Besar">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="CHAPTER IX">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="the Rajah">
+      <data key="d0">0</data>
+      <data key="d1">11</data>
+    </node>
+    <node id="Ada">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Lakamba">
+      <data key="d0">51</data>
+      <data key="d1">11</data>
+    </node>
+    <node id="Real Soldat">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Babalatchi--&quot;what">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Dutch">
+      <data key="d0">0</data>
+      <data key="d1">9</data>
+    </node>
+    <node id="Mother">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Arabs">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Jack">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Inchi Dain">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Tuan Putih">
+      <data key="d0">1</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Taminah">
+      <data key="d0">8</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="Sambir">
+      <data key="d0">1</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Hudig">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Chelakka">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Reshid">
+      <data key="d0">2</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Hai">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Tuan">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Dain">
+      <data key="d0">41</data>
+      <data key="d1">90</data>
+    </node>
+    <node id="Lingard">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="God">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Jim - Eng">
+      <data key="d0">1</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Ali">
+      <data key="d0">16</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Tuan Almayer">
+      <data key="d0">0</data>
+      <data key="d1">11</data>
+    </node>
+    <node id="Almayer--&quot;and">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mem Almayer">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Arab">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Allah">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Kaspar">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+    </node>
+    <node id="Bali">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Orang Blanda">
+      <data key="d0">0</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="Bulangi">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Joseph Conrad">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Almayer">
+      <data key="d0">90</data>
+      <data key="d1">43</data>
+    </node>
+    <node id="Bah">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Ranee">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <edge source="Netherlands" target="Sambir">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ford" target="Kaspar">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Ford" target="Almayer">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Ford" target="Nina">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ford" target="Hallo">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ford" target="Jim - Eng">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Abdulla" target="the Dutch">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Abdulla" target="Almayer">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Abdulla" target="Taminah">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Vinck" target="Lingard">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Vinck" target="Hudig">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mahmat" target="Babalatchi">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Mahmat" target="Almayer--&quot;and">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mahmat" target="Allah">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mahmat" target="Almayer">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mahmat" target="Tuan Almayer">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mahmat" target="God">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mahmat" target="Dain">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Babalatchi" target="Dain">
+      <data key="d2">31</data>
+    </edge>
+    <edge source="Babalatchi" target="Babalatchi--&quot;what">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Babalatchi" target="Abdulla">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Babalatchi" target="Lakamba">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Babalatchi" target="the Dutch">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Babalatchi" target="Ada">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Babalatchi" target="the Rajah">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Babalatchi" target="Tuan Almayer">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Babalatchi" target="Mahmat">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Babalatchi" target="Almayer">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Babalatchi" target="Nina">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Babalatchi" target="Mem Putih">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Babalatchi" target="the Orang Blanda">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Babalatchi" target="Taminah">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Babalatchi" target="Bulangi">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Babalatchi" target="Mem Almayer">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Babalatchi" target="Bali">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Babalatchi" target="Ford">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Nina" target="Almayer">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Nina" target="Abdulla">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Nina" target="Tuan">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Nina" target="the Arabs">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Nina" target="Chelakka">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Nina" target="Dain">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="Nina" target="Mahmat">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Nina" target="Babalatchi">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Nina" target="Arab">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Nina" target="Bulangi">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="CHAPTER IX" target="Babalatchi">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lakamba" target="Dain">
+      <data key="d2">22</data>
+    </edge>
+    <edge source="Lakamba" target="Taminah">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lakamba" target="the Dutch">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Lakamba" target="the Rajah">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Lakamba" target="the Orang Blanda">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Lakamba" target="Babalatchi">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="Lakamba" target="Ada">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lakamba" target="Almayer">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Lakamba" target="Hai">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="the Tuan Putih" target="Almayer">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Taminah" target="the Dutch">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Taminah" target="Almayer">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Taminah" target="Dain">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Taminah" target="the Orang Blanda">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Taminah" target="Babalatchi">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sambir" target="Almayer">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Reshid" target="Babalatchi">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Reshid" target="Almayer">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dain" target="Tuan Almayer">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Dain" target="the Rajah">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dain" target="Lakamba">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Dain" target="Babalatchi">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Dain" target="Almayer">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Dain" target="Nina">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="Dain" target="Taminah">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dain" target="the Orang Blanda">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dain" target="Ada">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dain" target="the Tuan Putih">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Jim - Eng" target="Ford">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ali" target="Real Soldat">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ali" target="Nina">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Ali" target="Reshid">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Ali" target="Allah">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ali" target="Babalatchi">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Ali" target="Mem Almayer">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ali" target="Tuan Almayer">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ali" target="Dain">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ali" target="Jack">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ali" target="Abdulla">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Joseph Conrad" target="Kaspar">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Almayer" target="Abdulla">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Almayer" target="Dain">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="Almayer" target="Nina">
+      <data key="d2">36</data>
+    </edge>
+    <edge source="Almayer" target="the Rajah">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Almayer" target="Datu Besar">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Almayer" target="Kaspar">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Almayer" target="Reshid">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Almayer" target="Bah">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Almayer" target="Lakamba">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Almayer" target="Inchi Dain">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Almayer" target="Tuan">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Almayer" target="Babalatchi">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Almayer" target="Mahmat">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Almayer" target="Ali">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Almayer" target="Mem Almayer">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Almayer" target="Hai">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Almayer" target="Mother">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Almayer" target="the Orang Blanda">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Almayer" target="Ranee">
+      <data key="d2">1</data>
+    </edge>
+  </graph>
+</graphml>

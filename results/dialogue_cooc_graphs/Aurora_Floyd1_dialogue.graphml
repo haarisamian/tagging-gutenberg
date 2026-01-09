@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="quotes" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Aurora">
+      <data key="d0">115</data>
+    </node>
+    <node id="Talbot">
+      <data key="d0">104</data>
+    </node>
+    <node id="John Mellish">
+      <data key="d0">53</data>
+    </node>
+    <node id="Lucy">
+      <data key="d0">26</data>
+    </node>
+    <node id="Archibald Floyd">
+      <data key="d0">10</data>
+    </node>
+    <node id="Mrs. Mellish">
+      <data key="d0">8</data>
+    </node>
+    <node id="Lady Bulstrode">
+      <data key="d0">6</data>
+    </node>
+    <node id="Mrs. Alexander">
+      <data key="d0">5</data>
+    </node>
+    <node id="Steeve Hargraves">
+      <data key="d0">5</data>
+    </node>
+    <node id="Mrs. Powell">
+      <data key="d0">4</data>
+    </node>
+    <node id="Archibald Martin Floyd">
+      <data key="d0">2</data>
+    </node>
+    <node id="Mr. Matthew Harrison">
+      <data key="d0">2</data>
+    </node>
+    <node id="Alick">
+      <data key="d0">1</data>
+    </node>
+    <node id="Gutenberg">
+      <data key="d0">1</data>
+    </node>
+    <node id="Horatio">
+      <data key="d0">1</data>
+    </node>
+    <node id="Miss Percival">
+      <data key="d0">1</data>
+    </node>
+    <node id="Prodder">
+      <data key="d0">1</data>
+    </node>
+    <node id="THE &quot; SOFTY">
+      <data key="d0">1</data>
+    </node>
+    <node id="Hearty Yorkshire">
+      <data key="d0">1</data>
+    </node>
+    <node id="Andrew Floyd">
+      <data key="d0">1</data>
+    </node>
+    <node id="Aurora,--&quot;how">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr. Pastern">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Aurora" target="Prodder">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Archibald Floyd">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Aurora" target="Mrs. Alexander">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Aurora" target="Lucy">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Aurora" target="Talbot">
+      <data key="d1">37</data>
+    </edge>
+    <edge source="Aurora" target="Mrs. Powell">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Aurora" target="John Mellish">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Aurora" target="Mr. Matthew Harrison">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Aurora" target="Lady Bulstrode">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Aurora" target="THE &quot; SOFTY">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Aurora" target="Andrew Floyd">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Hearty Yorkshire">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Mrs. Mellish">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aurora" target="Steeve Hargraves">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Talbot" target="Lucy">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Talbot" target="Archibald Floyd">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Talbot" target="Mrs. Alexander">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Talbot" target="Mrs. Powell">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Talbot" target="John Mellish">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Talbot" target="Mr. Matthew Harrison">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Talbot" target="Andrew Floyd">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Talbot" target="Hearty Yorkshire">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John Mellish" target="Gutenberg">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John Mellish" target="Alick">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John Mellish" target="Lucy">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="John Mellish" target="Archibald Floyd">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="John Mellish" target="Aurora,--&quot;how">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John Mellish" target="Mrs. Mellish">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucy" target="Archibald Floyd">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Archibald Floyd" target="Lady Bulstrode">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Mellish" target="Steeve Hargraves">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mrs. Mellish" target="Mr. Pastern">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Steeve Hargraves" target="Aurora,--&quot;how">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Archibald Martin Floyd" target="Alick">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Archibald Martin Floyd" target="Miss Percival">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Horatio" target="Miss Percival">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Horatio" target="Prodder">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

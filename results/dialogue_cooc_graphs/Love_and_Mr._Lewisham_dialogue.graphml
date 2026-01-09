@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="quotes" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Lewisham">
+      <data key="d0">516</data>
+    </node>
+    <node id="Ethel">
+      <data key="d0">274</data>
+    </node>
+    <node id="Chaffery">
+      <data key="d0">99</data>
+    </node>
+    <node id="Lagune">
+      <data key="d0">92</data>
+    </node>
+    <node id="Miss Heydinger">
+      <data key="d0">84</data>
+    </node>
+    <node id="Smithers">
+      <data key="d0">48</data>
+    </node>
+    <node id="Mr. Blendershin">
+      <data key="d0">35</data>
+    </node>
+    <node id="Dunkerley">
+      <data key="d0">34</data>
+    </node>
+    <node id="Parkson">
+      <data key="d0">30</data>
+    </node>
+    <node id="Mrs. Frobisher">
+      <data key="d0">23</data>
+    </node>
+    <node id="Bonover">
+      <data key="d0">18</data>
+    </node>
+    <node id="Mr. Lucas Holderness">
+      <data key="d0">5</data>
+    </node>
+    <node id="Mrs. Munday">
+      <data key="d0">4</data>
+    </node>
+    <node id="Madam Gadow">
+      <data key="d0">4</data>
+    </node>
+    <node id="Bletherley">
+      <data key="d0">3</data>
+    </node>
+    <node id="Mrs. Monday">
+      <data key="d0">3</data>
+    </node>
+    <node id="Lewisham,--his">
+      <data key="d0">2</data>
+    </node>
+    <node id="Satan">
+      <data key="d0">1</data>
+    </node>
+    <node id="Luther">
+      <data key="d0">1</data>
+    </node>
+    <node id="Rossetti">
+      <data key="d0">1</data>
+    </node>
+    <node id="Miss Henderson">
+      <data key="d0">1</data>
+    </node>
+    <node id="Professor Letourneau">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Lewisham" target="Satan">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lewisham" target="Mrs. Munday">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lewisham" target="Mrs. Monday">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Lewisham" target="Bonover">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="Lewisham" target="Dunkerley">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Lewisham" target="Mrs. Frobisher">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="Lewisham" target="Miss Henderson">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lewisham" target="Miss Heydinger">
+      <data key="d1">39</data>
+    </edge>
+    <edge source="Lewisham" target="Rossetti">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lewisham" target="Luther">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lewisham" target="Bletherley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lewisham" target="Smithers">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Lewisham" target="Lagune">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Lewisham" target="Chaffery">
+      <data key="d1">31</data>
+    </edge>
+    <edge source="Lewisham" target="Ethel">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Lewisham" target="Parkson">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Lewisham" target="Professor Letourneau">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lewisham" target="Madam Gadow">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lewisham" target="Mr. Blendershin">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="Lewisham" target="Mr. Lucas Holderness">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ethel" target="Lagune">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ethel" target="Madam Gadow">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Ethel" target="Chaffery">
+      <data key="d1">57</data>
+    </edge>
+    <edge source="Ethel" target="Smithers">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Ethel" target="Mr. Blendershin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ethel" target="Lewisham,--his">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Ethel" target="Mr. Lucas Holderness">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ethel" target="Miss Heydinger">
+      <data key="d1">32</data>
+    </edge>
+    <edge source="Chaffery" target="Smithers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Chaffery" target="Madam Gadow">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chaffery" target="Lagune">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lagune" target="Smithers">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="Miss Heydinger" target="Luther">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Smithers" target="Bletherley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dunkerley" target="Mrs. Frobisher">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dunkerley" target="Mrs. Munday">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dunkerley" target="Parkson">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Dunkerley" target="Bletherley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Parkson" target="Bletherley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Frobisher" target="Miss Henderson">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

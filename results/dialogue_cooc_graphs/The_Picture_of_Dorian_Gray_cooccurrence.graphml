@@ -1,0 +1,3751 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="mentions" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Dorian">
+      <data key="d0">3192</data>
+    </node>
+    <node id="Lord Henry">
+      <data key="d0">1547</data>
+    </node>
+    <node id="Basil">
+      <data key="d0">809</data>
+    </node>
+    <node id="Sibyl">
+      <data key="d0">374</data>
+    </node>
+    <node id="Alan">
+      <data key="d0">302</data>
+    </node>
+    <node id="Jim">
+      <data key="d0">209</data>
+    </node>
+    <node id="Mohammed">
+      <data key="d0">81</data>
+    </node>
+    <node id="Lady Narborough">
+      <data key="d0">74</data>
+    </node>
+    <node id="Mr. Erskine">
+      <data key="d0">67</data>
+    </node>
+    <node id="Mr. Hubbard">
+      <data key="d0">38</data>
+    </node>
+    <node id="Lady Agatha">
+      <data key="d0">31</data>
+    </node>
+    <node id="Mrs. Vane">
+      <data key="d0">30</data>
+    </node>
+    <node id="Harry">
+      <data key="d0">28</data>
+    </node>
+    <node id="Geoffrey">
+      <data key="d0">27</data>
+    </node>
+    <node id="Prince Charming">
+      <data key="d0">26</data>
+    </node>
+    <node id="Lady Brandon">
+      <data key="d0">25</data>
+    </node>
+    <node id="Mr. Isaacs">
+      <data key="d0">24</data>
+    </node>
+    <node id="Sir Thomas">
+      <data key="d0">19</data>
+    </node>
+    <node id="Adrian Singleton">
+      <data key="d0">19</data>
+    </node>
+    <node id="Lord Fermor">
+      <data key="d0">19</data>
+    </node>
+    <node id="Lady Ruxton">
+      <data key="d0">17</data>
+    </node>
+    <node id="Gladys">
+      <data key="d0">17</data>
+    </node>
+    <node id="Henry VIII">
+      <data key="d0">16</data>
+    </node>
+    <node id="God">
+      <data key="d0">16</data>
+    </node>
+    <node id="Kelso">
+      <data key="d0">15</data>
+    </node>
+    <node id="Juliet">
+      <data key="d0">13</data>
+    </node>
+    <node id="Mother">
+      <data key="d0">13</data>
+    </node>
+    <node id="Duchess">
+      <data key="d0">13</data>
+    </node>
+    <node id="Uncle George">
+      <data key="d0">13</data>
+    </node>
+    <node id="Francis">
+      <data key="d0">12</data>
+    </node>
+    <node id="the Americans">
+      <data key="d0">12</data>
+    </node>
+    <node id="Margaret Devereux">
+      <data key="d0">12</data>
+    </node>
+    <node id="Hetty">
+      <data key="d0">12</data>
+    </node>
+    <node id="Victor">
+      <data key="d0">10</data>
+    </node>
+    <node id="Mr. Hallward">
+      <data key="d0">10</data>
+    </node>
+    <node id="Lord Grotrian">
+      <data key="d0">9</data>
+    </node>
+    <node id="Lady Gwendolen">
+      <data key="d0">9</data>
+    </node>
+    <node id="Lady Elizabeth Devereux">
+      <data key="d0">9</data>
+    </node>
+    <node id="Lord Staveley">
+      <data key="d0">9</data>
+    </node>
+    <node id="Mr. Chapman">
+      <data key="d0">8</data>
+    </node>
+    <node id="Monmouth">
+      <data key="d0">8</data>
+    </node>
+    <node id="Shakespeare">
+      <data key="d0">8</data>
+    </node>
+    <node id="Aunt Agatha">
+      <data key="d0">8</data>
+    </node>
+    <node id="Nature">
+      <data key="d0">7</data>
+    </node>
+    <node id="Sir Henry Ashton">
+      <data key="d0">7</data>
+    </node>
+    <node id="Berwick">
+      <data key="d0">6</data>
+    </node>
+    <node id="Giordano Bruno">
+      <data key="d0">5</data>
+    </node>
+    <node id="Romeo">
+      <data key="d0">5</data>
+    </node>
+    <node id="Rosalind">
+      <data key="d0">5</data>
+    </node>
+    <node id="Caliban">
+      <data key="d0">5</data>
+    </node>
+    <node id="Leaf">
+      <data key="d0">5</data>
+    </node>
+    <node id="Lord Gloucester">
+      <data key="d0">5</data>
+    </node>
+    <node id="Lady Branksome">
+      <data key="d0">5</data>
+    </node>
+    <node id="Death">
+      <data key="d0">4</data>
+    </node>
+    <node id="Parker">
+      <data key="d0">4</data>
+    </node>
+    <node id="Imogen">
+      <data key="d0">4</data>
+    </node>
+    <node id="Monsieur">
+      <data key="d0">4</data>
+    </node>
+    <node id="Victoria">
+      <data key="d0">4</data>
+    </node>
+    <node id="Philip Herbert">
+      <data key="d0">4</data>
+    </node>
+    <node id="Patti">
+      <data key="d0">4</data>
+    </node>
+    <node id="Gautier">
+      <data key="d0">4</data>
+    </node>
+    <node id="Madame de Ferrol">
+      <data key="d0">4</data>
+    </node>
+    <node id="George Willoughby">
+      <data key="d0">4</data>
+    </node>
+    <node id="Charles">
+      <data key="d0">4</data>
+    </node>
+    <node id="Harden">
+      <data key="d0">3</data>
+    </node>
+    <node id="Bernal Diaz">
+      <data key="d0">3</data>
+    </node>
+    <node id="Sir Anthony Sherard">
+      <data key="d0">3</data>
+    </node>
+    <node id="Pietro Riario">
+      <data key="d0">3</data>
+    </node>
+    <node id="Pietro Barbi">
+      <data key="d0">3</data>
+    </node>
+    <node id="Some Malays">
+      <data key="d0">3</data>
+    </node>
+    <node id="Mr. Campbell">
+      <data key="d0">3</data>
+    </node>
+    <node id="the Trojans">
+      <data key="d0">3</data>
+    </node>
+    <node id="Nero">
+      <data key="d0">3</data>
+    </node>
+    <node id="Louis XII">
+      <data key="d0">3</data>
+    </node>
+    <node id="Christ">
+      <data key="d0">3</data>
+    </node>
+    <node id="Chopin">
+      <data key="d0">3</data>
+    </node>
+    <node id="Mercutio">
+      <data key="d0">3</data>
+    </node>
+    <node id="Mrs. Vandeleur">
+      <data key="d0">3</data>
+    </node>
+    <node id="destiny">
+      <data key="d0">3</data>
+    </node>
+    <node id="Alexander">
+      <data key="d0">2</data>
+    </node>
+    <node id="Lord Kent">
+      <data key="d0">2</data>
+    </node>
+    <node id="Elagabalus">
+      <data key="d0">2</data>
+    </node>
+    <node id="Domitian">
+      <data key="d0">2</data>
+    </node>
+    <node id="Catherine de Medicis">
+      <data key="d0">2</data>
+    </node>
+    <node id="child and minion of Sixtus IV . , whose beauty was equalled only by his debauchery , and who received Leonora of Aragon">
+      <data key="d0">2</data>
+    </node>
+    <node id="Alfonso de Ovalle">
+      <data key="d0">2</data>
+    </node>
+    <node id="Cordelia">
+      <data key="d0">2</data>
+    </node>
+    <node id="Lady Radley">
+      <data key="d0">2</data>
+    </node>
+    <node id="Lady Capulet">
+      <data key="d0">2</data>
+    </node>
+    <node id="Ophelia">
+      <data key="d0">2</data>
+    </node>
+    <node id="Beethoven">
+      <data key="d0">2</data>
+    </node>
+    <node id="Lady Alice Chapman">
+      <data key="d0">2</data>
+    </node>
+    <node id="the Hadjis">
+      <data key="d0">2</data>
+    </node>
+    <node id="Charles VI">
+      <data key="d0">2</data>
+    </node>
+    <node id="Greek">
+      <data key="d0">2</data>
+    </node>
+    <node id="Oscar Wilde">
+      <data key="d0">2</data>
+    </node>
+    <node id="Conscience">
+      <data key="d0">2</data>
+    </node>
+    <node id="Eve">
+      <data key="d0">2</data>
+    </node>
+    <node id="Carlington">
+      <data key="d0">2</data>
+    </node>
+    <node id="White">
+      <data key="d0">2</data>
+    </node>
+    <node id="Selby">
+      <data key="d0">2</data>
+    </node>
+    <node id="Life">
+      <data key="d0">2</data>
+    </node>
+    <node id="the second Lord Beckenham">
+      <data key="d0">2</data>
+    </node>
+    <node id="Louis XIV">
+      <data key="d0">2</data>
+    </node>
+    <node id="Queen Elizabeth">
+      <data key="d0">2</data>
+    </node>
+    <node id="Lord Rugby">
+      <data key="d0">2</data>
+    </node>
+    <node id="Egad">
+      <data key="d0">1</data>
+    </node>
+    <node id="Wagner">
+      <data key="d0">1</data>
+    </node>
+    <node id="Willis">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lord Faudel">
+      <data key="d0">1</data>
+    </node>
+    <node id="Manon Lescaut">
+      <data key="d0">1</data>
+    </node>
+    <node id="Les Cent Nouvelles">
+      <data key="d0">1</data>
+    </node>
+    <node id="Margaret of Valois">
+      <data key="d0">1</data>
+    </node>
+    <node id="Clodion">
+      <data key="d0">1</data>
+    </node>
+    <node id="the English">
+      <data key="d0">1</data>
+    </node>
+    <node id="Omar">
+      <data key="d0">1</data>
+    </node>
+    <node id="Buonarotti">
+      <data key="d0">1</data>
+    </node>
+    <node id="Schubert">
+      <data key="d0">1</data>
+    </node>
+    <node id="Dante">
+      <data key="d0">1</data>
+    </node>
+    <node id="Neronian Rome">
+      <data key="d0">1</data>
+    </node>
+    <node id="slim turbaned Indians">
+      <data key="d0">1</data>
+    </node>
+    <node id="Winckelmann">
+      <data key="d0">1</data>
+    </node>
+    <node id="Old Florentine">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr. Danby">
+      <data key="d0">1</data>
+    </node>
+    <node id="Dr. Birrell">
+      <data key="d0">1</data>
+    </node>
+    <node id="Michelangelo">
+      <data key="d0">1</data>
+    </node>
+    <node id="Montaigne">
+      <data key="d0">1</data>
+    </node>
+    <node id="Cyril Tourneur">
+      <data key="d0">1</data>
+    </node>
+    <node id="Ford">
+      <data key="d0">1</data>
+    </node>
+    <node id="Desdemona">
+      <data key="d0">1</data>
+    </node>
+    <node id="Narcissus">
+      <data key="d0">1</data>
+    </node>
+    <node id="Paris">
+      <data key="d0">1</data>
+    </node>
+    <node id="Georges Petit">
+      <data key="d0">1</data>
+    </node>
+    <node id="Webster">
+      <data key="d0">1</data>
+    </node>
+    <node id="Poor Sibyl">
+      <data key="d0">1</data>
+    </node>
+    <node id="Brabantio">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lady Thornbury">
+      <data key="d0">1</data>
+    </node>
+    <node id="Rouge">
+      <data key="d0">1</data>
+    </node>
+    <node id="The Jew">
+      <data key="d0">1</data>
+    </node>
+    <node id="The Bard">
+      <data key="d0">1</data>
+    </node>
+    <node id="Tom Hardy">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lord Radley">
+      <data key="d0">1</data>
+    </node>
+    <node id="Messalina">
+      <data key="d0">1</data>
+    </node>
+    <node id="Trunks">
+      <data key="d0">1</data>
+    </node>
+    <node id="Ned Langton">
+      <data key="d0">1</data>
+    </node>
+    <node id="Beatrice">
+      <data key="d0">1</data>
+    </node>
+    <node id="Portia">
+      <data key="d0">1</data>
+    </node>
+    <node id="Miranda">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lady Hampshire">
+      <data key="d0">1</data>
+    </node>
+    <node id="Dear Basil">
+      <data key="d0">1</data>
+    </node>
+    <node id="Plato">
+      <data key="d0">1</data>
+    </node>
+    <node id="Worlds">
+      <data key="d0">1</data>
+    </node>
+    <node id="the jarvies">
+      <data key="d0">1</data>
+    </node>
+    <node id="Isabella">
+      <data key="d0">1</data>
+    </node>
+    <node id="Facts">
+      <data key="d0">1</data>
+    </node>
+    <node id="Humour">
+      <data key="d0">1</data>
+    </node>
+    <node id="Antinous">
+      <data key="d0">1</data>
+    </node>
+    <node id="June">
+      <data key="d0">1</data>
+    </node>
+    <node id="Schumann">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lord Goodbody">
+      <data key="d0">1</data>
+    </node>
+    <node id="Agnew">
+      <data key="d0">1</data>
+    </node>
+    <node id="poor Southwark">
+      <data key="d0">1</data>
+    </node>
+    <node id="the Venetians">
+      <data key="d0">1</data>
+    </node>
+    <node id="Society">
+      <data key="d0">1</data>
+    </node>
+    <node id="Henry II">
+      <data key="d0">1</data>
+    </node>
+    <node id="Queen Joan of Burgundy">
+      <data key="d0">1</data>
+    </node>
+    <node id="King Chilperic">
+      <data key="d0">1</data>
+    </node>
+    <node id="Apollo">
+      <data key="d0">1</data>
+    </node>
+    <node id="Athena">
+      <data key="d0">1</data>
+    </node>
+    <node id="Piers Gaveston">
+      <data key="d0">1</data>
+    </node>
+    <node id="the Emperor Anastasius">
+      <data key="d0">1</data>
+    </node>
+    <node id="Anne de Joyeuse">
+      <data key="d0">1</data>
+    </node>
+    <node id="Cortes">
+      <data key="d0">1</data>
+    </node>
+    <node id="Democritus">
+      <data key="d0">1</data>
+    </node>
+    <node id="John the Priest">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lodge">
+      <data key="d0">1</data>
+    </node>
+    <node id="Marco Polo">
+      <data key="d0">1</data>
+    </node>
+    <node id="Amsterdam">
+      <data key="d0">1</data>
+    </node>
+    <node id="Philostratus">
+      <data key="d0">1</data>
+    </node>
+    <node id="Pierre de Boniface">
+      <data key="d0">1</data>
+    </node>
+    <node id="Leonardus Camillus">
+      <data key="d0">1</data>
+    </node>
+    <node id="Isotta">
+      <data key="d0">1</data>
+    </node>
+    <node id="Sigismondo Malatesta">
+      <data key="d0">1</data>
+    </node>
+    <node id="Giambattista Cibo">
+      <data key="d0">1</data>
+    </node>
+    <node id="Perotto">
+      <data key="d0">1</data>
+    </node>
+    <node id="Gian Maria Visconti">
+      <data key="d0">1</data>
+    </node>
+    <node id="Fratricide">
+      <data key="d0">1</data>
+    </node>
+    <node id="Filippo">
+      <data key="d0">1</data>
+    </node>
+    <node id="Paul the Second">
+      <data key="d0">1</data>
+    </node>
+    <node id="Caligula">
+      <data key="d0">1</data>
+    </node>
+    <node id="Elephantis">
+      <data key="d0">1</data>
+    </node>
+    <node id="the Sun">
+      <data key="d0">1</data>
+    </node>
+    <node id="Sobieski">
+      <data key="d0">1</data>
+    </node>
+    <node id="King James">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lord Ferrars">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mrs. Fitzherbert">
+      <data key="d0">1</data>
+    </node>
+    <node id="Tiberius">
+      <data key="d0">1</data>
+    </node>
+    <node id="St. Sebastian">
+      <data key="d0">1</data>
+    </node>
+    <node id="Procopius">
+      <data key="d0">1</data>
+    </node>
+    <node id="the Huns">
+      <data key="d0">1</data>
+    </node>
+    <node id="King Perozes">
+      <data key="d0">1</data>
+    </node>
+    <node id="Brantome">
+      <data key="d0">1</data>
+    </node>
+    <node id="the Duke de Valentinois">
+      <data key="d0">1</data>
+    </node>
+    <node id="Richard II">
+      <data key="d0">1</data>
+    </node>
+    <node id="Venetian">
+      <data key="d0">1</data>
+    </node>
+    <node id="Hall">
+      <data key="d0">1</data>
+    </node>
+    <node id="Edward II">
+      <data key="d0">1</data>
+    </node>
+    <node id="Ginevra">
+      <data key="d0">1</data>
+    </node>
+    <node id="Grifonetto Baglioni">
+      <data key="d0">1</data>
+    </node>
+    <node id="young Perth">
+      <data key="d0">1</data>
+    </node>
+    <node id="Polyssena">
+      <data key="d0">1</data>
+    </node>
+    <node id="the French">
+      <data key="d0">1</data>
+    </node>
+    <node id="Atalanta">
+      <data key="d0">1</data>
+    </node>
+    <node id="Sir Andrew">
+      <data key="d0">1</data>
+    </node>
+    <node id="The Morning Post _">
+      <data key="d0">1</data>
+    </node>
+    <node id="Debrett">
+      <data key="d0">1</data>
+    </node>
+    <node id="Marguerite de Navarre">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mrs. Erlynne">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lacenaire">
+      <data key="d0">1</data>
+    </node>
+    <node id="Rubinstein">
+      <data key="d0">1</data>
+    </node>
+    <node id="Ernest Harrowden">
+      <data key="d0">1</data>
+    </node>
+    <node id="Charpentier">
+      <data key="d0">1</data>
+    </node>
+    <node id="Venice">
+      <data key="d0">1</data>
+    </node>
+    <node id="Simonetto">
+      <data key="d0">1</data>
+    </node>
+    <node id="Astorre">
+      <data key="d0">1</data>
+    </node>
+    <node id="Royalties">
+      <data key="d0">1</data>
+    </node>
+    <node id="the Willoughbys">
+      <data key="d0">1</data>
+    </node>
+    <node id="Darlington">
+      <data key="d0">1</data>
+    </node>
+    <node id="Prince Paradox">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lady Hilstone">
+      <data key="d0">1</data>
+    </node>
+    <node id="Decay">
+      <data key="d0">1</data>
+    </node>
+    <node id="Tartuffe">
+      <data key="d0">1</data>
+    </node>
+    <node id="Courage">
+      <data key="d0">1</data>
+    </node>
+    <node id="Thornton">
+      <data key="d0">1</data>
+    </node>
+    <node id="Perdita">
+      <data key="d0">1</data>
+    </node>
+    <node id="Artemis">
+      <data key="d0">1</data>
+    </node>
+    <node id="Harvey">
+      <data key="d0">1</data>
+    </node>
+    <node id="Velasquez">
+      <data key="d0">1</data>
+    </node>
+    <node id="Poor Hetty">
+      <data key="d0">1</data>
+    </node>
+    <node id="Browning">
+      <data key="d0">1</data>
+    </node>
+    <node id="Marsyas">
+      <data key="d0">1</data>
+    </node>
+    <node id="young Lord Poole">
+      <data key="d0">1</data>
+    </node>
+    <node id="Bournemouth">
+      <data key="d0">1</data>
+    </node>
+    <node id="Youth">
+      <data key="d0">1</data>
+    </node>
+    <node id="Vanity">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Dorian" target="Basil">
+      <data key="d1">140</data>
+    </edge>
+    <edge source="Dorian" target="Lord Henry">
+      <data key="d1">241</data>
+    </edge>
+    <edge source="Dorian" target="Lady Brandon">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Dorian" target="Agnew">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Antinous">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Greek">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="the Venetians">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Lady Agatha">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Dorian" target="Parker">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Dorian" target="Schumann">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="June">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Uncle George">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dorian" target="Lord Fermor">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dorian" target="Kelso">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Dorian" target="Margaret Devereux">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dorian" target="Aunt Agatha">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Buonarotti">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Plato">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Worlds">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Lord Faudel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Mr. Erskine">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dorian" target="Mrs. Vandeleur">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Sir Thomas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Facts">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Omar">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Clodion">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Eve">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Les Cent Nouvelles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Margaret of Valois">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Harry">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Dorian" target="Wagner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Lady Thornbury">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Rouge">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Sibyl">
+      <data key="d1">49</data>
+    </edge>
+    <edge source="Dorian" target="Juliet">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Dorian" target="Shakespeare">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Dorian" target="The Bard">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Rosalind">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Dorian" target="Lady Capulet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="The Jew">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Imogen">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dorian" target="Romeo">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dorian" target="Dear Basil">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Giordano Bruno">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Messalina">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Lord Radley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Caliban">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Miranda">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Beatrice">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Cordelia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Portia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Prince Charming">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Dorian" target="Victor">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Dorian" target="Monsieur">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="God">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Dorian" target="Conscience">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Lady Hampshire">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Patti">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dorian" target="Lady Gwendolen">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dorian" target="Gautier">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Dorian" target="Georges Petit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Adrian Singleton">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Dorian" target="Paris">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Leaf">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dorian" target="Michelangelo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Montaigne">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Winckelmann">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Mr. Hubbard">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Dorian" target="Old Florentine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Lady Radley">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dorian" target="Dante">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Neronian Rome">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Nature">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dorian" target="Christ">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Alfonso de Ovalle">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dorian" target="Beethoven">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Bernal Diaz">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Chopin">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Dorian" target="Cortes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Schubert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="slim turbaned Indians">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Amsterdam">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Anne de Joyeuse">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Alexander">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Democritus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Leonardus Camillus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Philostratus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Pierre de Boniface">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Mohammed">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Francis">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Dorian" target="George Willoughby">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dorian" target="King James">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Lady Elizabeth Devereux">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Lord Ferrars">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Mrs. Fitzherbert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Philip Herbert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Queen Elizabeth">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dorian" target="Sir Anthony Sherard">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="the second Lord Beckenham">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Caligula">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Domitian">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Elagabalus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Elephantis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Nero">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Tiberius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="the Sun">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Astorre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Atalanta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Charles VI">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Filippo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Fratricide">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Giambattista Cibo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Gian Maria Visconti">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Ginevra">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Grifonetto Baglioni">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Isotta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Paul the Second">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Perotto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Pietro Barbi">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Pietro Riario">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Polyssena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Sigismondo Malatesta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Simonetto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="child and minion of Sixtus IV . , whose beauty was equalled only by his debauchery , and who received Leonora of Aragon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="the French">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Lord Kent">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dorian" target="Lord Staveley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Sir Henry Ashton">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Dorian" target="Berwick">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="young Perth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Lord Gloucester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Alan">
+      <data key="d1">39</data>
+    </edge>
+    <edge source="Dorian" target="Charpentier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Lacenaire">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Venice">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="the Hadjis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Rubinstein">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Harden">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Lady Narborough">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Dorian" target="Ernest Harrowden">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Lady Alice Chapman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Lady Ruxton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Mrs. Erlynne">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Madame de Ferrol">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dorian" target="Marguerite de Navarre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Debrett">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="The Morning Post _">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Mr. Chapman">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dorian" target="Lord Grotrian">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Some Malays">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Darlington">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="destiny">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dorian" target="Jim">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Dorian" target="Gladys">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dorian" target="Prince Paradox">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Duchess">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Dorian" target="Lady Hilstone">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Geoffrey">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Dorian" target="Harvey">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Artemis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Thornton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Hetty">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Dorian" target="Poor Hetty">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Victoria">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Life">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Marsyas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Browning">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Bournemouth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="White">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="young Lord Poole">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dorian" target="Youth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Basil">
+      <data key="d1">97</data>
+    </edge>
+    <edge source="Lord Henry" target="Lady Brandon">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Lord Henry" target="Mr. Hallward">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Agnew">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Antinous">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Greek">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="the Venetians">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Lord Goodbody">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Lady Agatha">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Lord Henry" target="Schumann">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Aunt Agatha">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Lord Henry" target="Parker">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lord Henry" target="White">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lord Henry" target="Isabella">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Lord Fermor">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lord Henry" target="Society">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Uncle George">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Lord Henry" target="Selby">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lord Henry" target="Carlington">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Margaret Devereux">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Eve">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lord Henry" target="Buonarotti">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Plato">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Worlds">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Mr. Erskine">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Lord Henry" target="Duchess">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Lord Henry" target="Facts">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Omar">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Willis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Clodion">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Les Cent Nouvelles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Margaret of Valois">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Manon Lescaut">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Victoria">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lord Henry" target="Harry">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Rouge">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Imogen">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lord Henry" target="Juliet">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Lord Henry" target="Mercutio">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Romeo">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lord Henry" target="Rosalind">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lord Henry" target="Shakespeare">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lord Henry" target="Sibyl">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="Lord Henry" target="Lady Capulet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Lord Radley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Nature">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lord Henry" target="Caliban">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Miranda">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Patti">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lord Henry" target="Victor">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lord Henry" target="Lady Gwendolen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Gautier">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lord Henry" target="Adrian Singleton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Paris">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Michelangelo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Montaigne">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Winckelmann">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Lady Radley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Dante">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Alfonso de Ovalle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Beethoven">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Bernal Diaz">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Chopin">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lord Henry" target="Cortes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Schubert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="slim turbaned Indians">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Mohammed">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lord Henry" target="Alan">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Lord Henry" target="Lady Narborough">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Lord Henry" target="Madame de Ferrol">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lord Henry" target="Lady Ruxton">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lord Henry" target="Sir Andrew">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Mr. Chapman">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lord Henry" target="Monmouth">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lord Henry" target="Geoffrey">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lord Henry" target="Lord Grotrian">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lord Henry" target="Lord Rugby">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="the Willoughbys">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Gladys">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Lord Henry" target="Decay">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Lady Hilstone">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Death">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Jim">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Hetty">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Lord Henry" target="Perdita">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Poor Hetty">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Velasquez">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Life">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Marsyas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Browning">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Bournemouth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="young Lord Poole">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Lady Branksome">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Youth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Henry" target="Vanity">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Conscience">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Lady Brandon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="poor Southwark">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Lord Goodbody">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Lady Agatha">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Basil" target="Schumann">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Aunt Agatha">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Parker">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Buonarotti">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Plato">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Worlds">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Dear Basil">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Juliet">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Basil" target="Messalina">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Lord Radley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Rosalind">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Shakespeare">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Basil" target="Sibyl">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Basil" target="Caliban">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Miranda">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="God">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Basil" target="Lady Gwendolen">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Basil" target="Patti">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Basil" target="Gautier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Prince Charming">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Michelangelo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Montaigne">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Winckelmann">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Francis">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Basil" target="George Willoughby">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="King James">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Lady Elizabeth Devereux">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Lord Ferrars">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Mrs. Fitzherbert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Philip Herbert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Queen Elizabeth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Sir Anthony Sherard">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="the second Lord Beckenham">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Adrian Singleton">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Basil" target="Berwick">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Lord Kent">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Sir Henry Ashton">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Basil" target="young Perth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Lord Gloucester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Christ">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Mr. Hallward">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Alan">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Basil" target="destiny">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Velasquez">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Selby">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Jim">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Hetty">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Basil" target="Vanity">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sibyl" target="Imogen">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Sibyl" target="Juliet">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Sibyl" target="Mercutio">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sibyl" target="Romeo">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Sibyl" target="Rosalind">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Sibyl" target="Shakespeare">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Sibyl" target="Lady Capulet">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sibyl" target="The Jew">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sibyl" target="Giordano Bruno">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sibyl" target="Mr. Isaacs">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Sibyl" target="Mrs. Vane">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sibyl" target="Jim">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Sibyl" target="Prince Charming">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Sibyl" target="Mother">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sibyl" target="Ned Langton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sibyl" target="Tom Hardy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sibyl" target="God">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Sibyl" target="Trunks">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sibyl" target="Lord Radley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sibyl" target="Conscience">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sibyl" target="Lady Hampshire">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sibyl" target="Desdemona">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sibyl" target="Ophelia">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sibyl" target="Brabantio">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sibyl" target="Cordelia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sibyl" target="Cyril Tourneur">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sibyl" target="Ford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sibyl" target="Webster">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sibyl" target="Death">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sibyl" target="Poor Sibyl">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sibyl" target="Patti">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sibyl" target="Gautier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sibyl" target="Dr. Birrell">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sibyl" target="Mr. Danby">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sibyl" target="Hetty">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alan" target="Gautier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alan" target="the Hadjis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alan" target="Rubinstein">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alan" target="Francis">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Alan" target="Harden">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alan" target="Jim">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alan" target="Hetty">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Alan" target="Vanity">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jim" target="Mr. Isaacs">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Jim" target="Mrs. Vane">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Jim" target="Mother">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Jim" target="Ned Langton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jim" target="Tom Hardy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jim" target="God">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Jim" target="Prince Charming">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Jim" target="Juliet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jim" target="Alexander">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jim" target="Brantome">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jim" target="Charles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jim" target="Edward II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jim" target="Hall">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jim" target="Henry II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jim" target="Henry VIII">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jim" target="Louis XII">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jim" target="Piers Gaveston">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jim" target="Richard II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jim" target="the Duke de Valentinois">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mohammed" target="Apollo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mohammed" target="Athena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mohammed" target="Catherine de Medicis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mohammed" target="Charles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mohammed" target="Henry VIII">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mohammed" target="King Chilperic">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mohammed" target="Louis XIV">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mohammed" target="Nero">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mohammed" target="Queen Joan of Burgundy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mohammed" target="Sobieski">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mohammed" target="Christ">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mohammed" target="St. Sebastian">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Narborough" target="God">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Narborough" target="Queen Elizabeth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Narborough" target="Madame de Ferrol">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Narborough" target="Marguerite de Navarre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Narborough" target="Debrett">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Narborough" target="Lady Ruxton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Erskine" target="Lady Agatha">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Erskine" target="Lord Faudel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Erskine" target="Mrs. Vandeleur">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Erskine" target="Sir Thomas">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr. Erskine" target="Duchess">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Erskine" target="the Americans">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Erskine" target="the English">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hubbard" target="Old Florentine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Agatha" target="Aunt Agatha">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Agatha" target="Lord Faudel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Agatha" target="Mrs. Vandeleur">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Agatha" target="Sir Thomas">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Lady Agatha" target="Willis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Vane" target="Mr. Isaacs">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Harry" target="Wagner">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Harry" target="Lady Thornbury">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Geoffrey" target="Lord Grotrian">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Geoffrey" target="Lord Rugby">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Geoffrey" target="the Willoughbys">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Charming" target="Mr. Isaacs">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Prince Charming" target="Mother">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Charming" target="God">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Charming" target="Juliet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Charming" target="Beatrice">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Charming" target="Cordelia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Charming" target="Portia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Prince Charming" target="Rosalind">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Brandon" target="Mr. Hallward">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Isaacs" target="Mother">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Isaacs" target="Juliet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Thomas" target="Lord Faudel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Thomas" target="Mrs. Vandeleur">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Thomas" target="Humour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Thomas" target="the Americans">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Adrian Singleton" target="Paris">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Adrian Singleton" target="Lord Kent">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Adrian Singleton" target="Lord Staveley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Adrian Singleton" target="Sir Henry Ashton">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Adrian Singleton" target="Berwick">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Adrian Singleton" target="young Perth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Adrian Singleton" target="Charpentier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Adrian Singleton" target="Gautier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Adrian Singleton" target="Lacenaire">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Adrian Singleton" target="Venice">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Adrian Singleton" target="God">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Adrian Singleton" target="destiny">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Fermor" target="Isabella">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Fermor" target="Society">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Fermor" target="Kelso">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Fermor" target="Margaret Devereux">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Fermor" target="Uncle George">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Fermor" target="the Americans">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Ruxton" target="Ernest Harrowden">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Ruxton" target="Lady Alice Chapman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Ruxton" target="Mrs. Erlynne">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Ruxton" target="Sir Andrew">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gladys" target="Lady Branksome">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henry VIII" target="Alexander">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henry VIII" target="Brantome">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henry VIII" target="Charles">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Henry VIII" target="Edward II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henry VIII" target="Hall">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henry VIII" target="Henry II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henry VIII" target="Louis XII">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henry VIII" target="Piers Gaveston">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henry VIII" target="Richard II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henry VIII" target="the Duke de Valentinois">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henry VIII" target="Apollo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henry VIII" target="Athena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henry VIII" target="Catherine de Medicis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henry VIII" target="King Chilperic">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henry VIII" target="Louis XIV">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henry VIII" target="Nero">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henry VIII" target="Queen Joan of Burgundy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henry VIII" target="Sobieski">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Astorre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Atalanta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Charles VI">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Filippo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Fratricide">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Giambattista Cibo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Gian Maria Visconti">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Ginevra">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Grifonetto Baglioni">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Isotta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Paul the Second">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Perotto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Pietro Barbi">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Pietro Riario">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Polyssena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Sigismondo Malatesta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Simonetto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="child and minion of Sixtus IV . , whose beauty was equalled only by his debauchery , and who received Leonora of Aragon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Kelso" target="Margaret Devereux">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Kelso" target="Uncle George">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Kelso" target="Egad">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Kelso" target="the jarvies">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Juliet" target="Imogen">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Juliet" target="Mercutio">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Juliet" target="Romeo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Juliet" target="Rosalind">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Juliet" target="Shakespeare">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Juliet" target="Messalina">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Juliet" target="Lord Radley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Juliet" target="Desdemona">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Juliet" target="Ophelia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Juliet" target="Gautier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Duchess" target="Artemis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Uncle George" target="Margaret Devereux">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Uncle George" target="the Americans">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Uncle George" target="Eve">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Uncle George" target="Aunt Agatha">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Francis" target="George Willoughby">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Francis" target="King James">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Francis" target="Lady Elizabeth Devereux">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Francis" target="Lord Ferrars">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Francis" target="Mrs. Fitzherbert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Francis" target="Philip Herbert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Francis" target="Queen Elizabeth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Francis" target="Sir Anthony Sherard">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Francis" target="the second Lord Beckenham">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Francis" target="Mr. Campbell">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Francis" target="Harden">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Francis" target="Leaf">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Margaret Devereux" target="Carlington">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hetty" target="Perdita">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hetty" target="Poor Hetty">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hetty" target="Vanity">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Victor" target="Monsieur">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Victor" target="Lady Radley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Grotrian" target="Lord Rugby">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Grotrian" target="the Willoughbys">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Gwendolen" target="Patti">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Gwendolen" target="Lord Gloucester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Gwendolen" target="Sir Henry Ashton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Elizabeth Devereux" target="George Willoughby">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Elizabeth Devereux" target="King James">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Elizabeth Devereux" target="Lord Ferrars">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Elizabeth Devereux" target="Mrs. Fitzherbert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Elizabeth Devereux" target="Philip Herbert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Elizabeth Devereux" target="Queen Elizabeth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Elizabeth Devereux" target="Sir Anthony Sherard">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Elizabeth Devereux" target="the second Lord Beckenham">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Staveley" target="Lord Kent">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Staveley" target="Sir Henry Ashton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shakespeare" target="Imogen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shakespeare" target="Mercutio">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shakespeare" target="Romeo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shakespeare" target="Rosalind">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Shakespeare" target="The Bard">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shakespeare" target="Lord Radley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shakespeare" target="Brabantio">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shakespeare" target="Cordelia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shakespeare" target="Cyril Tourneur">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shakespeare" target="Ford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shakespeare" target="Ophelia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shakespeare" target="Webster">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shakespeare" target="Michelangelo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shakespeare" target="Montaigne">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shakespeare" target="Winckelmann">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nature" target="Alfonso de Ovalle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nature" target="Beethoven">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nature" target="Bernal Diaz">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nature" target="Chopin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nature" target="Cortes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nature" target="Schubert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nature" target="slim turbaned Indians">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Henry Ashton" target="Lord Kent">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sir Henry Ashton" target="Berwick">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Henry Ashton" target="young Perth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Henry Ashton" target="Lord Gloucester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Berwick" target="Lord Kent">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Berwick" target="young Perth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Romeo" target="Imogen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Romeo" target="Mercutio">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Romeo" target="Rosalind">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Romeo" target="Lady Capulet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rosalind" target="Imogen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rosalind" target="Mercutio">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rosalind" target="Lord Radley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rosalind" target="Beatrice">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rosalind" target="Cordelia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rosalind" target="Portia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Caliban" target="Miranda">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Death" target="Poor Sibyl">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Imogen" target="Mercutio">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Imogen" target="Desdemona">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Imogen" target="Ophelia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Victoria" target="Chopin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philip Herbert" target="George Willoughby">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philip Herbert" target="King James">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philip Herbert" target="Lord Ferrars">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philip Herbert" target="Mrs. Fitzherbert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philip Herbert" target="Queen Elizabeth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philip Herbert" target="Sir Anthony Sherard">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philip Herbert" target="the second Lord Beckenham">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gautier" target="Dante">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gautier" target="Charpentier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gautier" target="Lacenaire">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gautier" target="Venice">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gautier" target="the Hadjis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="George Willoughby" target="King James">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="George Willoughby" target="Lord Ferrars">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="George Willoughby" target="Mrs. Fitzherbert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="George Willoughby" target="Queen Elizabeth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="George Willoughby" target="Sir Anthony Sherard">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="George Willoughby" target="the second Lord Beckenham">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="George Willoughby" target="Darlington">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="Alexander">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="Brantome">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="Edward II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="Hall">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="Henry II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="Louis XII">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="Piers Gaveston">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="Richard II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="the Duke de Valentinois">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="Apollo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="Athena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="Catherine de Medicis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="King Chilperic">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="Louis XIV">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="Nero">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="Queen Joan of Burgundy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="Sobieski">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bernal Diaz" target="Alfonso de Ovalle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bernal Diaz" target="Beethoven">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bernal Diaz" target="Chopin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bernal Diaz" target="Cortes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bernal Diaz" target="Schubert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bernal Diaz" target="slim turbaned Indians">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Anthony Sherard" target="King James">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Anthony Sherard" target="Lord Ferrars">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Anthony Sherard" target="Mrs. Fitzherbert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Anthony Sherard" target="Queen Elizabeth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir Anthony Sherard" target="the second Lord Beckenham">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Riario" target="Astorre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Riario" target="Atalanta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Riario" target="Charles VI">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Riario" target="Filippo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Riario" target="Fratricide">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Riario" target="Giambattista Cibo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Riario" target="Gian Maria Visconti">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Riario" target="Ginevra">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Riario" target="Grifonetto Baglioni">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Riario" target="Isotta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Riario" target="Paul the Second">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Riario" target="Perotto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Riario" target="Pietro Barbi">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Riario" target="Polyssena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Riario" target="Sigismondo Malatesta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Riario" target="Simonetto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Riario" target="child and minion of Sixtus IV . , whose beauty was equalled only by his debauchery , and who received Leonora of Aragon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Barbi" target="Astorre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Barbi" target="Atalanta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Barbi" target="Charles VI">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Barbi" target="Filippo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Barbi" target="Fratricide">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Barbi" target="Giambattista Cibo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Barbi" target="Gian Maria Visconti">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Barbi" target="Ginevra">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Barbi" target="Grifonetto Baglioni">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Barbi" target="Isotta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Barbi" target="Paul the Second">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Barbi" target="Perotto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Barbi" target="Polyssena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Barbi" target="Sigismondo Malatesta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Barbi" target="Simonetto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pietro Barbi" target="child and minion of Sixtus IV . , whose beauty was equalled only by his debauchery , and who received Leonora of Aragon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nero" target="Apollo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nero" target="Athena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nero" target="Catherine de Medicis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nero" target="King Chilperic">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nero" target="Louis XIV">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nero" target="Queen Joan of Burgundy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nero" target="Sobieski">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nero" target="Caligula">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nero" target="Domitian">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nero" target="Elagabalus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nero" target="Elephantis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nero" target="Tiberius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Nero" target="the Sun">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Louis XII" target="Alexander">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Louis XII" target="Brantome">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Louis XII" target="Edward II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Louis XII" target="Hall">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Louis XII" target="Henry II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Louis XII" target="Piers Gaveston">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Louis XII" target="Richard II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Louis XII" target="the Duke de Valentinois">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Christ" target="St. Sebastian">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chopin" target="Alfonso de Ovalle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chopin" target="Beethoven">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chopin" target="Cortes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chopin" target="Schubert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chopin" target="slim turbaned Indians">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chopin" target="Life">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chopin" target="Marsyas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mercutio" target="Lady Capulet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Vandeleur" target="Lord Faudel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alexander" target="Alfonso de Ovalle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alexander" target="Democritus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alexander" target="Leonardus Camillus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alexander" target="Philostratus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alexander" target="Pierre de Boniface">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alexander" target="Brantome">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alexander" target="Edward II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alexander" target="Hall">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alexander" target="Henry II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alexander" target="Piers Gaveston">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alexander" target="Richard II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alexander" target="the Duke de Valentinois">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Kent" target="young Perth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Elagabalus" target="Caligula">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Elagabalus" target="Domitian">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Elagabalus" target="Elephantis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Elagabalus" target="Tiberius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Elagabalus" target="the Sun">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Domitian" target="Caligula">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Domitian" target="Elephantis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Domitian" target="Tiberius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Domitian" target="the Sun">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Catherine de Medicis" target="Apollo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Catherine de Medicis" target="Athena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Catherine de Medicis" target="King Chilperic">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Catherine de Medicis" target="Louis XIV">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Catherine de Medicis" target="Queen Joan of Burgundy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Catherine de Medicis" target="Sobieski">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="child and minion of Sixtus IV . , whose beauty was equalled only by his debauchery , and who received Leonora of Aragon" target="Astorre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="child and minion of Sixtus IV . , whose beauty was equalled only by his debauchery , and who received Leonora of Aragon" target="Atalanta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="child and minion of Sixtus IV . , whose beauty was equalled only by his debauchery , and who received Leonora of Aragon" target="Charles VI">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="child and minion of Sixtus IV . , whose beauty was equalled only by his debauchery , and who received Leonora of Aragon" target="Filippo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="child and minion of Sixtus IV . , whose beauty was equalled only by his debauchery , and who received Leonora of Aragon" target="Fratricide">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="child and minion of Sixtus IV . , whose beauty was equalled only by his debauchery , and who received Leonora of Aragon" target="Giambattista Cibo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="child and minion of Sixtus IV . , whose beauty was equalled only by his debauchery , and who received Leonora of Aragon" target="Gian Maria Visconti">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="child and minion of Sixtus IV . , whose beauty was equalled only by his debauchery , and who received Leonora of Aragon" target="Ginevra">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="child and minion of Sixtus IV . , whose beauty was equalled only by his debauchery , and who received Leonora of Aragon" target="Grifonetto Baglioni">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="child and minion of Sixtus IV . , whose beauty was equalled only by his debauchery , and who received Leonora of Aragon" target="Isotta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="child and minion of Sixtus IV . , whose beauty was equalled only by his debauchery , and who received Leonora of Aragon" target="Paul the Second">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="child and minion of Sixtus IV . , whose beauty was equalled only by his debauchery , and who received Leonora of Aragon" target="Perotto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="child and minion of Sixtus IV . , whose beauty was equalled only by his debauchery , and who received Leonora of Aragon" target="Polyssena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="child and minion of Sixtus IV . , whose beauty was equalled only by his debauchery , and who received Leonora of Aragon" target="Sigismondo Malatesta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="child and minion of Sixtus IV . , whose beauty was equalled only by his debauchery , and who received Leonora of Aragon" target="Simonetto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alfonso de Ovalle" target="Beethoven">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alfonso de Ovalle" target="Cortes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alfonso de Ovalle" target="Schubert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alfonso de Ovalle" target="slim turbaned Indians">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alfonso de Ovalle" target="Democritus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alfonso de Ovalle" target="Leonardus Camillus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alfonso de Ovalle" target="Philostratus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alfonso de Ovalle" target="Pierre de Boniface">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cordelia" target="Beatrice">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cordelia" target="Portia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cordelia" target="Brabantio">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cordelia" target="Cyril Tourneur">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cordelia" target="Ford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cordelia" target="Ophelia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cordelia" target="Webster">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Radley" target="the French">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ophelia" target="Desdemona">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ophelia" target="Brabantio">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ophelia" target="Cyril Tourneur">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ophelia" target="Ford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ophelia" target="Webster">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Beethoven" target="Cortes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Beethoven" target="Schubert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Beethoven" target="slim turbaned Indians">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Alice Chapman" target="Ernest Harrowden">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Alice Chapman" target="Mrs. Erlynne">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles VI" target="Astorre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles VI" target="Atalanta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles VI" target="Filippo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles VI" target="Fratricide">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles VI" target="Giambattista Cibo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles VI" target="Gian Maria Visconti">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles VI" target="Ginevra">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles VI" target="Grifonetto Baglioni">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles VI" target="Isotta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles VI" target="Paul the Second">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles VI" target="Perotto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles VI" target="Polyssena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles VI" target="Sigismondo Malatesta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles VI" target="Simonetto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Greek" target="Agnew">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Greek" target="Antinous">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Greek" target="the Venetians">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Conscience" target="Lady Hampshire">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Eve" target="Clodion">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Eve" target="Les Cent Nouvelles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Eve" target="Margaret of Valois">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="White" target="Bournemouth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="White" target="young Lord Poole">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Life" target="Marsyas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the second Lord Beckenham" target="King James">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the second Lord Beckenham" target="Lord Ferrars">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the second Lord Beckenham" target="Mrs. Fitzherbert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the second Lord Beckenham" target="Queen Elizabeth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Louis XIV" target="Apollo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Louis XIV" target="Athena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Louis XIV" target="King Chilperic">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Louis XIV" target="Queen Joan of Burgundy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Louis XIV" target="Sobieski">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Elizabeth" target="King James">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Elizabeth" target="Lord Ferrars">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Elizabeth" target="Mrs. Fitzherbert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Rugby" target="the Willoughbys">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Egad" target="the jarvies">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Les Cent Nouvelles" target="Clodion">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Les Cent Nouvelles" target="Margaret of Valois">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Margaret of Valois" target="Clodion">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Omar" target="Facts">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buonarotti" target="Plato">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buonarotti" target="Worlds">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Schubert" target="Cortes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Schubert" target="slim turbaned Indians">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="slim turbaned Indians" target="Cortes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Winckelmann" target="Michelangelo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Winckelmann" target="Montaigne">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Danby" target="Dr. Birrell">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Michelangelo" target="Montaigne">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cyril Tourneur" target="Brabantio">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cyril Tourneur" target="Ford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cyril Tourneur" target="Webster">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ford" target="Brabantio">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ford" target="Webster">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Webster" target="Brabantio">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tom Hardy" target="Ned Langton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Beatrice" target="Portia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Plato" target="Worlds">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Isabella" target="Society">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Antinous" target="Agnew">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Antinous" target="the Venetians">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Agnew" target="the Venetians">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henry II" target="Brantome">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henry II" target="Edward II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henry II" target="Hall">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henry II" target="Piers Gaveston">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henry II" target="Richard II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henry II" target="the Duke de Valentinois">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Joan of Burgundy" target="Apollo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Joan of Burgundy" target="Athena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Joan of Burgundy" target="King Chilperic">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Queen Joan of Burgundy" target="Sobieski">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Chilperic" target="Apollo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Chilperic" target="Athena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Chilperic" target="Sobieski">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Apollo" target="Athena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Apollo" target="Sobieski">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Athena" target="Sobieski">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Piers Gaveston" target="Brantome">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Piers Gaveston" target="Edward II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Piers Gaveston" target="Hall">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Piers Gaveston" target="Richard II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Piers Gaveston" target="the Duke de Valentinois">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the Emperor Anastasius" target="John the Priest">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the Emperor Anastasius" target="King Perozes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the Emperor Anastasius" target="Lodge">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the Emperor Anastasius" target="Marco Polo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the Emperor Anastasius" target="Procopius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the Emperor Anastasius" target="Venetian">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the Emperor Anastasius" target="the Huns">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Anne de Joyeuse" target="Amsterdam">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Democritus" target="Leonardus Camillus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Democritus" target="Philostratus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Democritus" target="Pierre de Boniface">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John the Priest" target="King Perozes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John the Priest" target="Lodge">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John the Priest" target="Marco Polo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John the Priest" target="Procopius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John the Priest" target="Venetian">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="John the Priest" target="the Huns">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lodge" target="King Perozes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lodge" target="Marco Polo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lodge" target="Procopius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lodge" target="Venetian">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lodge" target="the Huns">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Marco Polo" target="King Perozes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Marco Polo" target="Procopius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Marco Polo" target="Venetian">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Marco Polo" target="the Huns">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philostratus" target="Leonardus Camillus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philostratus" target="Pierre de Boniface">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pierre de Boniface" target="Leonardus Camillus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Isotta" target="Astorre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Isotta" target="Atalanta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Isotta" target="Filippo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Isotta" target="Fratricide">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Isotta" target="Giambattista Cibo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Isotta" target="Gian Maria Visconti">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Isotta" target="Ginevra">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Isotta" target="Grifonetto Baglioni">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Isotta" target="Paul the Second">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Isotta" target="Perotto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Isotta" target="Polyssena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Isotta" target="Sigismondo Malatesta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Isotta" target="Simonetto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sigismondo Malatesta" target="Astorre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sigismondo Malatesta" target="Atalanta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sigismondo Malatesta" target="Filippo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sigismondo Malatesta" target="Fratricide">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sigismondo Malatesta" target="Giambattista Cibo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sigismondo Malatesta" target="Gian Maria Visconti">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sigismondo Malatesta" target="Ginevra">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sigismondo Malatesta" target="Grifonetto Baglioni">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sigismondo Malatesta" target="Paul the Second">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sigismondo Malatesta" target="Perotto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sigismondo Malatesta" target="Polyssena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sigismondo Malatesta" target="Simonetto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Giambattista Cibo" target="Astorre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Giambattista Cibo" target="Atalanta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Giambattista Cibo" target="Filippo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Giambattista Cibo" target="Fratricide">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Giambattista Cibo" target="Gian Maria Visconti">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Giambattista Cibo" target="Ginevra">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Giambattista Cibo" target="Grifonetto Baglioni">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Giambattista Cibo" target="Paul the Second">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Giambattista Cibo" target="Perotto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Giambattista Cibo" target="Polyssena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Giambattista Cibo" target="Simonetto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Perotto" target="Astorre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Perotto" target="Atalanta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Perotto" target="Filippo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Perotto" target="Fratricide">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Perotto" target="Gian Maria Visconti">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Perotto" target="Ginevra">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Perotto" target="Grifonetto Baglioni">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Perotto" target="Paul the Second">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Perotto" target="Polyssena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Perotto" target="Simonetto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gian Maria Visconti" target="Astorre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gian Maria Visconti" target="Atalanta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gian Maria Visconti" target="Filippo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gian Maria Visconti" target="Fratricide">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gian Maria Visconti" target="Ginevra">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gian Maria Visconti" target="Grifonetto Baglioni">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gian Maria Visconti" target="Paul the Second">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gian Maria Visconti" target="Polyssena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gian Maria Visconti" target="Simonetto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fratricide" target="Astorre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fratricide" target="Atalanta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fratricide" target="Filippo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fratricide" target="Ginevra">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fratricide" target="Grifonetto Baglioni">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fratricide" target="Paul the Second">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fratricide" target="Polyssena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fratricide" target="Simonetto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Filippo" target="Astorre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Filippo" target="Atalanta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Filippo" target="Ginevra">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Filippo" target="Grifonetto Baglioni">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Filippo" target="Paul the Second">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Filippo" target="Polyssena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Filippo" target="Simonetto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Paul the Second" target="Astorre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Paul the Second" target="Atalanta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Paul the Second" target="Ginevra">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Paul the Second" target="Grifonetto Baglioni">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Paul the Second" target="Polyssena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Paul the Second" target="Simonetto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Caligula" target="Elephantis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Caligula" target="Tiberius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Caligula" target="the Sun">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Elephantis" target="Tiberius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Elephantis" target="the Sun">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the Sun" target="Tiberius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King James" target="Lord Ferrars">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King James" target="Mrs. Fitzherbert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lord Ferrars" target="Mrs. Fitzherbert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Procopius" target="King Perozes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Procopius" target="Venetian">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Procopius" target="the Huns">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the Huns" target="King Perozes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the Huns" target="Venetian">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="King Perozes" target="Venetian">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Brantome" target="Edward II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Brantome" target="Hall">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Brantome" target="Richard II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Brantome" target="the Duke de Valentinois">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the Duke de Valentinois" target="Edward II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the Duke de Valentinois" target="Hall">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the Duke de Valentinois" target="Richard II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Richard II" target="Edward II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Richard II" target="Hall">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hall" target="Edward II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ginevra" target="Astorre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ginevra" target="Atalanta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ginevra" target="Grifonetto Baglioni">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ginevra" target="Polyssena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ginevra" target="Simonetto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Grifonetto Baglioni" target="Astorre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Grifonetto Baglioni" target="Atalanta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Grifonetto Baglioni" target="Polyssena">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Grifonetto Baglioni" target="Simonetto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Polyssena" target="Astorre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Polyssena" target="Atalanta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Polyssena" target="Simonetto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Atalanta" target="Astorre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Atalanta" target="Simonetto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Erlynne" target="Ernest Harrowden">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lacenaire" target="Charpentier">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lacenaire" target="Venice">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charpentier" target="Venice">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Simonetto" target="Astorre">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="young Lord Poole" target="Bournemouth">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

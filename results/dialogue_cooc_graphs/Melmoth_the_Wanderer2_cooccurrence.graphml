@@ -1,0 +1,589 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="mentions" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="God">
+      <data key="d0">98</data>
+    </node>
+    <node id="Juan">
+      <data key="d0">86</data>
+    </node>
+    <node id="Satan">
+      <data key="d0">56</data>
+    </node>
+    <node id="Alonzo">
+      <data key="d0">50</data>
+    </node>
+    <node id="Elizabeth">
+      <data key="d0">29</data>
+    </node>
+    <node id="COLMAN">
+      <data key="d0">28</data>
+    </node>
+    <node id="Wretch">
+      <data key="d0">27</data>
+    </node>
+    <node id="HENRY THE SIXTH">
+      <data key="d0">25</data>
+    </node>
+    <node id="Satana">
+      <data key="d0">21</data>
+    </node>
+    <node id="Butler">
+      <data key="d0">13</data>
+    </node>
+    <node id="Brother Clement,--Brother Justin,--why">
+      <data key="d0">12</data>
+    </node>
+    <node id="Rise">
+      <data key="d0">11</data>
+    </node>
+    <node id="The Superior">
+      <data key="d0">10</data>
+    </node>
+    <node id="Angels">
+      <data key="d0">10</data>
+    </node>
+    <node id="Brother St Joseph">
+      <data key="d0">10</data>
+    </node>
+    <node id="Melmoth">
+      <data key="d0">6</data>
+    </node>
+    <node id="Judas">
+      <data key="d0">5</data>
+    </node>
+    <node id="God God">
+      <data key="d0">5</data>
+    </node>
+    <node id="The Bishop">
+      <data key="d0">5</data>
+    </node>
+    <node id="Jesus Christ">
+      <data key="d0">4</data>
+    </node>
+    <node id="Madame Sevignè">
+      <data key="d0">4</data>
+    </node>
+    <node id="Hector">
+      <data key="d0">4</data>
+    </node>
+    <node id="St Dominic">
+      <data key="d0">2</data>
+    </node>
+    <node id="Sir">
+      <data key="d0">2</data>
+    </node>
+    <node id="Esau">
+      <data key="d0">2</data>
+    </node>
+    <node id="Phalaris">
+      <data key="d0">2</data>
+    </node>
+    <node id="Philip">
+      <data key="d0">2</data>
+    </node>
+    <node id="God?”--“I">
+      <data key="d0">2</data>
+    </node>
+    <node id="HURST">
+      <data key="d0">1</data>
+    </node>
+    <node id="Brother Justin">
+      <data key="d0">1</data>
+    </node>
+    <node id="Providence">
+      <data key="d0">1</data>
+    </node>
+    <node id="Agag">
+      <data key="d0">1</data>
+    </node>
+    <node id="Madrid">
+      <data key="d0">1</data>
+    </node>
+    <node id="Others">
+      <data key="d0">1</data>
+    </node>
+    <node id="Disappointment">
+      <data key="d0">1</data>
+    </node>
+    <node id="HOMER">
+      <data key="d0">1</data>
+    </node>
+    <node id="Brother Clement">
+      <data key="d0">1</data>
+    </node>
+    <node id="Abel">
+      <data key="d0">1</data>
+    </node>
+    <node id="Donna Rodriguez">
+      <data key="d0">1</data>
+    </node>
+    <node id="Penelope">
+      <data key="d0">1</data>
+    </node>
+    <node id="HENRY THE EIGHTH">
+      <data key="d0">1</data>
+    </node>
+    <node id="up,--he">
+      <data key="d0">1</data>
+    </node>
+    <node id="God!”--“Yes">
+      <data key="d0">1</data>
+    </node>
+    <node id="God,--I">
+      <data key="d0">1</data>
+    </node>
+    <node id="now,--now">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mahomet">
+      <data key="d0">1</data>
+    </node>
+    <node id="Cain">
+      <data key="d0">1</data>
+    </node>
+    <node id="Catholicism,--a">
+      <data key="d0">1</data>
+    </node>
+    <node id="Several">
+      <data key="d0">1</data>
+    </node>
+    <node id="What?”--“You">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mosheim">
+      <data key="d0">1</data>
+    </node>
+    <node id="Tetzel">
+      <data key="d0">1</data>
+    </node>
+    <node id="Monster">
+      <data key="d0">1</data>
+    </node>
+    <node id="Venus">
+      <data key="d0">1</data>
+    </node>
+    <node id="Dante">
+      <data key="d0">1</data>
+    </node>
+    <node id="Vide Charlevoix">
+      <data key="d0">1</data>
+    </node>
+    <node id="the Superior,--I">
+      <data key="d0">1</data>
+    </node>
+    <node id="Vide Moore">
+      <data key="d0">1</data>
+    </node>
+    <node id="Heaven">
+      <data key="d0">1</data>
+    </node>
+    <node id="Virgil">
+      <data key="d0">1</data>
+    </node>
+    <node id="Pantheus">
+      <data key="d0">1</data>
+    </node>
+    <node id="Hector,--that">
+      <data key="d0">1</data>
+    </node>
+    <node id="Æneas">
+      <data key="d0">1</data>
+    </node>
+    <node id="the Vatican">
+      <data key="d0">1</data>
+    </node>
+    <node id="COMEDY OF ERRORS">
+      <data key="d0">1</data>
+    </node>
+    <node id="Zeno">
+      <data key="d0">1</data>
+    </node>
+    <node id="SCOTT ’S MARMION">
+      <data key="d0">1</data>
+    </node>
+    <node id="Burgersdicius">
+      <data key="d0">1</data>
+    </node>
+    <node id="Louis Quatorze">
+      <data key="d0">1</data>
+    </node>
+    <node id="Henriette">
+      <data key="d0">1</data>
+    </node>
+    <node id="the Inquisition">
+      <data key="d0">1</data>
+    </node>
+    <node id="Charles II.--to Pere Bourdalone">
+      <data key="d0">1</data>
+    </node>
+    <node id="Louis the Thirteenth">
+      <data key="d0">1</data>
+    </node>
+    <node id="James II">
+      <data key="d0">1</data>
+    </node>
+    <node id="Beaumont">
+      <data key="d0">1</data>
+    </node>
+    <node id="Fletcher">
+      <data key="d0">1</data>
+    </node>
+    <node id="the Saviour">
+      <data key="d0">1</data>
+    </node>
+    <node id="the Almighty">
+      <data key="d0">1</data>
+    </node>
+    <node id="Cardinal Richelieu">
+      <data key="d0">1</data>
+    </node>
+    <node id="The Jesuits">
+      <data key="d0">1</data>
+    </node>
+    <node id="Stanton">
+      <data key="d0">1</data>
+    </node>
+    <node id="Salvator Rosa">
+      <data key="d0">1</data>
+    </node>
+    <node id="Murillo">
+      <data key="d0">1</data>
+    </node>
+    <node id="Idiots">
+      <data key="d0">1</data>
+    </node>
+    <edge source="God" target="Others">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="The Superior">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="God" target="Wretch">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="God" target="Disappointment">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Madrid">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Brother Clement,--Brother Justin,--why">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Providence">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Satan">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="God" target="Tetzel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Cain">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Several">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Catholicism,--a">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="God?”--“I">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="The Bishop">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Abel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Juan">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="God" target="Mahomet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="COLMAN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="God!”--“Yes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Rise">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="God,--I">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Esau">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Burgersdicius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Dante">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Madame Sevignè">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Monster">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Venus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Zeno">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="the Vatican">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="St Dominic">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="the Almighty">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="the Saviour">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Philip">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Murillo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God" target="Salvator Rosa">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Juan" target="Alonzo">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Juan" target="Abel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Juan" target="Mahomet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Juan" target="God!”--“Yes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Juan" target="Rise">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Juan" target="Heaven">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Juan" target="Sir">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Juan" target="Hector,--that">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Juan" target="Pantheus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Juan" target="Wretch">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Juan" target="the Vatican">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Juan" target="Elizabeth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Juan" target="Philip">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Juan" target="The Jesuits">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Satan" target="Cain">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Satan" target="God God">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Satan" target="The Superior">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Alonzo" target="Donna Rodriguez">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Elizabeth" target="Philip">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Elizabeth" target="The Jesuits">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Wretch" target="Jesus Christ">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Wretch" target="Disappointment">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Wretch" target="Madrid">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Wretch" target="Brother Clement,--Brother Justin,--why">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Wretch" target="the Vatican">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Satana" target="Jesus Christ">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Satana" target="Sir">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Butler" target="the Inquisition">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Butler" target="Beaumont">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Butler" target="Fletcher">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Butler" target="Cardinal Richelieu">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Butler" target="Louis the Thirteenth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rise" target="God!”--“Yes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="The Superior" target="Providence">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Angels" target="the Superior,--I">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Brother St Joseph" target="Agag">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Melmoth" target="Stanton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Judas" target="now,--now">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="The Bishop" target="Catholicism,--a">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="The Bishop" target="God?”--“I">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jesus Christ" target="Sir">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Madame Sevignè" target="Burgersdicius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Madame Sevignè" target="Dante">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Madame Sevignè" target="Monster">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Madame Sevignè" target="Venus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Madame Sevignè" target="Zeno">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hector" target="Virgil">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hector" target="Æneas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Sir" target="Heaven">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philip" target="The Jesuits">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="God?”--“I" target="Catholicism,--a">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Brother Justin" target="Brother Clement">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Madrid" target="Disappointment">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Monster" target="Burgersdicius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Monster" target="Dante">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Monster" target="Venus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Monster" target="Zeno">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Venus" target="Burgersdicius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Venus" target="Dante">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Venus" target="Zeno">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dante" target="Burgersdicius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dante" target="Zeno">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Virgil" target="Æneas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pantheus" target="Hector,--that">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Zeno" target="Burgersdicius">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Louis Quatorze" target="Charles II.--to Pere Bourdalone">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Louis Quatorze" target="Henriette">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Louis Quatorze" target="James II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henriette" target="Charles II.--to Pere Bourdalone">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Henriette" target="James II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles II.--to Pere Bourdalone" target="James II">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Louis the Thirteenth" target="Cardinal Richelieu">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Beaumont" target="Fletcher">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="the Saviour" target="the Almighty">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Salvator Rosa" target="Murillo">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

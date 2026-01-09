@@ -1,0 +1,853 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="quotes" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Guy">
+      <data key="d0">985</data>
+    </node>
+    <node id="Charles">
+      <data key="d0">830</data>
+    </node>
+    <node id="Philip">
+      <data key="d0">682</data>
+    </node>
+    <node id="Amy">
+      <data key="d0">609</data>
+    </node>
+    <node id="Laura">
+      <data key="d0">446</data>
+    </node>
+    <node id="Mrs. Edmonstone">
+      <data key="d0">361</data>
+    </node>
+    <node id="Amabel">
+      <data key="d0">236</data>
+    </node>
+    <node id="Charlotte">
+      <data key="d0">175</data>
+    </node>
+    <node id="Eveleen">
+      <data key="d0">107</data>
+    </node>
+    <node id="Mary">
+      <data key="d0">106</data>
+    </node>
+    <node id="Markham">
+      <data key="d0">72</data>
+    </node>
+    <node id="Margaret">
+      <data key="d0">62</data>
+    </node>
+    <node id="Mrs. Henley">
+      <data key="d0">49</data>
+    </node>
+    <node id="Mr. Ashford">
+      <data key="d0">35</data>
+    </node>
+    <node id="Captain Morville">
+      <data key="d0">30</data>
+    </node>
+    <node id="Grunt">
+      <data key="d0">22</data>
+    </node>
+    <node id="Maurice">
+      <data key="d0">17</data>
+    </node>
+    <node id="Mr. Dixon">
+      <data key="d0">13</data>
+    </node>
+    <node id="Arnaud">
+      <data key="d0">13</data>
+    </node>
+    <node id="Mrs. Lavers">
+      <data key="d0">12</data>
+    </node>
+    <node id="Mrs. Ashford">
+      <data key="d0">11</data>
+    </node>
+    <node id="time’--he">
+      <data key="d0">11</data>
+    </node>
+    <node id="Jem">
+      <data key="d0">10</data>
+    </node>
+    <node id="Dr. Mayerne">
+      <data key="d0">10</data>
+    </node>
+    <node id="Eva">
+      <data key="d0">10</data>
+    </node>
+    <node id="Lady Kilcoran">
+      <data key="d0">8</data>
+    </node>
+    <node id="Mrs. Deane">
+      <data key="d0">7</data>
+    </node>
+    <node id="P. MORVILLE">
+      <data key="d0">7</data>
+    </node>
+    <node id="Jonas Ledbury">
+      <data key="d0">6</data>
+    </node>
+    <node id="Mr. Thorndale">
+      <data key="d0">4</data>
+    </node>
+    <node id="Dr. Henley">
+      <data key="d0">4</data>
+    </node>
+    <node id="Edward">
+      <data key="d0">4</data>
+    </node>
+    <node id="Mr. Wellwood">
+      <data key="d0">4</data>
+    </node>
+    <node id="Mr. Brownlow">
+      <data key="d0">4</data>
+    </node>
+    <node id="Ellen">
+      <data key="d0">4</data>
+    </node>
+    <node id="Susan">
+      <data key="d0">4</data>
+    </node>
+    <node id="Harry Graham">
+      <data key="d0">3</data>
+    </node>
+    <node id="Miss Alston">
+      <data key="d0">3</data>
+    </node>
+    <node id="Mr. Brown">
+      <data key="d0">3</data>
+    </node>
+    <node id="Charles--">
+      <data key="d0">3</data>
+    </node>
+    <node id="Martin">
+      <data key="d0">3</data>
+    </node>
+    <node id="Azrael">
+      <data key="d0">2</data>
+    </node>
+    <node id="Bustle">
+      <data key="d0">2</data>
+    </node>
+    <node id="Annabel">
+      <data key="d0">2</data>
+    </node>
+    <node id="C. Edmonstone">
+      <data key="d0">2</data>
+    </node>
+    <node id="Mr. Ross">
+      <data key="d0">2</data>
+    </node>
+    <node id="Mr. Morris">
+      <data key="d0">2</data>
+    </node>
+    <node id="A.">
+      <data key="d0">2</data>
+    </node>
+    <node id="Hollywell">
+      <data key="d0">2</data>
+    </node>
+    <node id="Sam">
+      <data key="d0">1</data>
+    </node>
+    <node id="Miss Harper">
+      <data key="d0">1</data>
+    </node>
+    <node id="Raffaelle">
+      <data key="d0">1</data>
+    </node>
+    <node id="Montrose">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr. Lascelle">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr. Lascelles">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr. Potts">
+      <data key="d0">1</data>
+    </node>
+    <node id="Robert">
+      <data key="d0">1</data>
+    </node>
+    <node id="Philip,--‘earnest">
+      <data key="d0">1</data>
+    </node>
+    <node id="Guy’s">
+      <data key="d0">1</data>
+    </node>
+    <node id="the Miss Alstons">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mrs. Dixon">
+      <data key="d0">1</data>
+    </node>
+    <node id="Man">
+      <data key="d0">1</data>
+    </node>
+    <node id="Marianne">
+      <data key="d0">1</data>
+    </node>
+    <node id="HENRY IV Philip">
+      <data key="d0">1</data>
+    </node>
+    <node id="Miss.">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr. Harrison">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mamma">
+      <data key="d0">1</data>
+    </node>
+    <node id="Amabel Frances Morville">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr. Fielder">
+      <data key="d0">1</data>
+    </node>
+    <node id="little Marianne Dixon">
+      <data key="d0">1</data>
+    </node>
+    <node id="Strutt">
+      <data key="d0">1</data>
+    </node>
+    <node id="Robin">
+      <data key="d0">1</data>
+    </node>
+    <node id="Papa">
+      <data key="d0">1</data>
+    </node>
+    <node id="Anne">
+      <data key="d0">1</data>
+    </node>
+    <node id="Guy,--‘half">
+      <data key="d0">1</data>
+    </node>
+    <node id="Redclyffe">
+      <data key="d0">1</data>
+    </node>
+    <node id="Ulysses">
+      <data key="d0">1</data>
+    </node>
+    <node id="Guy,--‘there">
+      <data key="d0">1</data>
+    </node>
+    <node id="Alice Lamsden">
+      <data key="d0">1</data>
+    </node>
+    <node id="Deloraine">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lord Kilcoran">
+      <data key="d0">1</data>
+    </node>
+    <node id="God">
+      <data key="d0">1</data>
+    </node>
+    <node id="Amy,--‘Do">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Guy" target="Amy">
+      <data key="d1">160</data>
+    </edge>
+    <edge source="Guy" target="Philip">
+      <data key="d1">156</data>
+    </edge>
+    <edge source="Guy" target="Charles">
+      <data key="d1">185</data>
+    </edge>
+    <edge source="Guy" target="Bustle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Guy" target="Laura">
+      <data key="d1">76</data>
+    </edge>
+    <edge source="Guy" target="Mrs. Edmonstone">
+      <data key="d1">122</data>
+    </edge>
+    <edge source="Guy" target="Amabel">
+      <data key="d1">46</data>
+    </edge>
+    <edge source="Guy" target="Mr. Thorndale">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Guy" target="Charlotte">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="Guy" target="Mr. Potts">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Guy" target="Mr. Lascelles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Guy" target="Mr. Lascelle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Guy" target="Montrose">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Guy" target="Mary">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Guy" target="Eveleen">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="Guy" target="the Miss Alstons">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Guy" target="Miss Alston">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Guy" target="Azrael">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Guy" target="Mrs. Deane">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Guy" target="Mr. Dixon">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Guy" target="Mr. Ross">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Guy" target="Mrs. Dixon">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Guy" target="Mrs. Henley">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Guy" target="Marianne">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Guy" target="Mrs. Lavers">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Guy" target="Markham">
+      <data key="d1">31</data>
+    </edge>
+    <edge source="Guy" target="Grunt">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Guy" target="Mrs. Ashford">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Guy" target="Mr. Harrison">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Guy" target="Mr. Ashford">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Guy" target="Edward">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Guy" target="Mamma">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Guy" target="Papa">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Guy" target="Robin">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Guy" target="Jonas Ledbury">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Guy" target="Martin">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Guy" target="Strutt">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Guy" target="Arnaud">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Guy" target="P. MORVILLE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Guy" target="Guy,--‘half">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Guy" target="Guy,--‘there">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Guy" target="Anne">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="Laura">
+      <data key="d1">88</data>
+    </edge>
+    <edge source="Charles" target="Philip">
+      <data key="d1">140</data>
+    </edge>
+    <edge source="Charles" target="Amy">
+      <data key="d1">111</data>
+    </edge>
+    <edge source="Charles" target="Charlotte">
+      <data key="d1">66</data>
+    </edge>
+    <edge source="Charles" target="Mrs. Edmonstone">
+      <data key="d1">104</data>
+    </edge>
+    <edge source="Charles" target="Amabel">
+      <data key="d1">34</data>
+    </edge>
+    <edge source="Charles" target="Mary">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="Charles" target="Miss Harper">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="Mr. Thorndale">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="Miss.">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="Maurice">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Charles" target="Eveleen">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Charles" target="Guy’s">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Charles" target="Mrs. Henley">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Charles" target="HENRY IV Philip">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="C. Edmonstone">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Charles" target="Hollywell">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="Dr. Mayerne">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Charles" target="Mr. Dixon">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Charles" target="Markham">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Charles" target="Mr. Morris">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="Dr. Henley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charles" target="Deloraine">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Charles" target="Annabel">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Charles" target="Mrs. Ashford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Charles" target="Lord Kilcoran">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philip" target="Sam">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philip" target="Amabel">
+      <data key="d1">49</data>
+    </edge>
+    <edge source="Philip" target="Amy">
+      <data key="d1">77</data>
+    </edge>
+    <edge source="Philip" target="Mrs. Edmonstone">
+      <data key="d1">54</data>
+    </edge>
+    <edge source="Philip" target="Laura">
+      <data key="d1">84</data>
+    </edge>
+    <edge source="Philip" target="Charlotte">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="Philip" target="Miss Harper">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philip" target="Mary">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Philip" target="Captain Morville">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Philip" target="the Miss Alstons">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philip" target="Eveleen">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Philip" target="Mr. Thorndale">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philip" target="Mr. Brownlow">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Philip" target="Margaret">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Philip" target="Hollywell">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philip" target="Man">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philip" target="Mrs. Henley">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Philip" target="Dr. Mayerne">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Philip" target="Lady Kilcoran">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Philip" target="Maurice">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Philip" target="Ulysses">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philip" target="A.">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philip" target="Susan">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Philip" target="P. MORVILLE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philip" target="Lord Kilcoran">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philip" target="God">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Philip" target="Amy,--‘Do">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Amy" target="Laura">
+      <data key="d1">95</data>
+    </edge>
+    <edge source="Amy" target="Charlotte">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="Amy" target="Mary">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="Amy" target="Mrs. Edmonstone">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="Amy" target="Raffaelle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Amy" target="Miss.">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Amy" target="Philip,--‘earnest">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Amy" target="Eveleen">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="Amy" target="Captain Morville">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Amy" target="Mr. Thorndale">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Amy" target="Azrael">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Amy" target="Dr. Mayerne">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Amy" target="Maurice">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Amy" target="Mr. Wellwood">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Amy" target="Ellen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Amy" target="Mr. Ross">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Amy" target="HENRY IV Philip">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Amy" target="Markham">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Amy" target="Eva">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Amy" target="Amabel">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="Amy" target="Arnaud">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Amy" target="Charles--">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Amy" target="God">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Laura" target="Sam">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Laura" target="Mrs. Edmonstone">
+      <data key="d1">49</data>
+    </edge>
+    <edge source="Laura" target="Charlotte">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Laura" target="Bustle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Laura" target="Amabel">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="Laura" target="Raffaelle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Laura" target="Eveleen">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="Laura" target="Azrael">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Laura" target="Captain Morville">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Laura" target="Mrs. Deane">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Laura" target="Dr. Mayerne">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Laura" target="time’--he">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Laura" target="Mary">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Laura" target="Lady Kilcoran">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Laura" target="Charles--">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Laura" target="Eva">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Edmonstone" target="Amabel">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Mrs. Edmonstone" target="Charlotte">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Mrs. Edmonstone" target="Maurice">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Edmonstone" target="Mary">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Mrs. Edmonstone" target="Mr. Potts">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Edmonstone" target="Eveleen">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Mrs. Edmonstone" target="Mr. Dixon">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Edmonstone" target="P. MORVILLE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Edmonstone" target="Guy,--‘half">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Amabel" target="Charlotte">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Amabel" target="Mr. Wellwood">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Amabel" target="Arnaud">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Amabel" target="Anne">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Amabel" target="Markham">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Amabel" target="Mary">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Amabel" target="Alice Lamsden">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charlotte" target="Maurice">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Charlotte" target="Mary">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Charlotte" target="Eveleen">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Charlotte" target="Ellen">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Charlotte" target="Dr. Mayerne">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Charlotte" target="Markham">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Charlotte" target="little Marianne Dixon">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Charlotte" target="Eva">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Charlotte" target="Amabel Frances Morville">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Eveleen" target="Mary">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Eveleen" target="Captain Morville">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Eveleen" target="Ellen">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Eveleen" target="Margaret">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Eveleen" target="Hollywell">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Eveleen" target="Maurice">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Eveleen" target="Lady Kilcoran">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Mary" target="Redclyffe">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mary" target="Alice Lamsden">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Markham" target="Mrs. Lavers">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Markham" target="Jem">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Markham" target="Mr. Brown">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Markham" target="Mr. Ashford">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Markham" target="Grunt">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Margaret" target="Mrs. Henley">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Margaret" target="Dr. Henley">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Margaret" target="Susan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Margaret" target="P. MORVILLE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Henley" target="Mr. Dixon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Henley" target="Harry Graham">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mrs. Henley" target="Man">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Ashford" target="Robert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Ashford" target="Edward">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Ashford" target="Jem">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Ashford" target="Mr. Brown">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Ashford" target="Jonas Ledbury">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Maurice" target="Dr. Mayerne">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Maurice" target="Hollywell">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Maurice" target="Lady Kilcoran">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Maurice" target="Mr. Fielder">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Lavers" target="Mrs. Ashford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Ashford" target="Edward">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Eva" target="Mr. Fielder">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jonas Ledbury" target="Mr. Brown">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Edward" target="Robert">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Brown" target="Martin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Morris" target="Ulysses">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="A." target="Redclyffe">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Lascelle" target="Mr. Lascelles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mamma" target="Papa">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

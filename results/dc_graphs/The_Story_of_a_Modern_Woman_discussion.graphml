@@ -1,0 +1,594 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d1" for="node" attr.name="dc_in" attr.type="long" />
+  <key id="d0" for="node" attr.name="dc_out" attr.type="long" />
+  <graph edgedefault="directed">
+    <node id="Mr. Sanderson">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Neat">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Heaven">
+      <data key="d0">1</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Youth">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Dear Sir Dunlop">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="THE GATE OF SILENCE">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Higgins">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Death">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Mr. Somervail">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Great Scott">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="CHAPTER XX">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Dr. Dunlop Strange">
+      <data key="d0">4</data>
+      <data key="d1">23</data>
+    </node>
+    <node id="Alison">
+      <data key="d0">42</data>
+      <data key="d1">18</data>
+    </node>
+    <node id="Mr. Jackson—'after">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Good Lord">
+      <data key="d0">2</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Elizabeth">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Mary">
+      <data key="d0">72</data>
+      <data key="d1">114</data>
+    </node>
+    <node id="Lady Blay">
+      <data key="d0">4</data>
+      <data key="d1">8</data>
+    </node>
+    <node id="Vincent">
+      <data key="d0">62</data>
+      <data key="d1">50</data>
+    </node>
+    <node id="SAPRISTI">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Joe">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Bosanquet−Barry">
+      <data key="d0">24</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Realism">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Sir Horace">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lady Jane">
+      <data key="d0">29</data>
+      <data key="d1">15</data>
+    </node>
+    <node id="Travers Danby">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Beaufy">
+      <data key="d0">23</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Jimmie">
+      <data key="d0">4</data>
+      <data key="d1">21</data>
+    </node>
+    <node id="Sarah">
+      <data key="d0">17</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mr. Lecky">
+      <data key="d0">1</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="God">
+      <data key="d0">9</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Little Mary">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Simpkins">
+      <data key="d0">0</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Dr. Danby">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Perry">
+      <data key="d0">29</data>
+      <data key="d1">14</data>
+    </node>
+    <node id="Cornish Fisher−scenes">
+      <data key="d0">3</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Aunt Julia">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Lord">
+      <data key="d0">7</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Victorian">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Queen">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Jove">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Mrs. Norton">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Victoria">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="MARY,—You">
+      <data key="d0">0</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="William the Fourth">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Sister Charlotte">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Father">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lady Blaythewaite">
+      <data key="d0">0</data>
+      <data key="d1">22</data>
+    </node>
+    <node id="Evelina">
+      <data key="d0">4</data>
+      <data key="d1">15</data>
+    </node>
+    <node id="Mr. Beaufort Flower">
+      <data key="d0">7</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Miss Ives">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Mr. Madder">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Miss Erle">
+      <data key="d0">7</data>
+      <data key="d1">8</data>
+    </node>
+    <node id="Professor Erle">
+      <data key="d0">1</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Smith minor">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="THE MAN RETURNS HEMMING">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="the Grosvenor">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Lord Houghton">
+      <data key="d0">0</data>
+      <data key="d1">1</data>
+    </node>
+    <edge source="Mr. Sanderson" target="Miss Simpkins">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mr. Sanderson" target="Miss Erle">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Heaven" target="Vincent">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Somervail" target="Mary">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Dunlop Strange" target="Alison">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Dunlop Strange" target="Miss Ives">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Alison" target="Dr. Dunlop Strange">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Alison" target="Mary">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Alison" target="Professor Erle">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Alison" target="Mr. Bosanquet−Barry">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Alison" target="SAPRISTI">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Alison" target="Vincent">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Alison" target="Evelina">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Alison" target="Heaven">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Alison" target="Miss Erle">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Alison" target="Sister Charlotte">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Alison" target="Little Mary">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Jackson—'after" target="the Grosvenor">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Good Lord" target="Mary">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Good Lord" target="Vincent">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Elizabeth" target="Miss Erle">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mary" target="Father">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mary" target="Vincent">
+      <data key="d2">26</data>
+    </edge>
+    <edge source="Mary" target="Alison">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Mary" target="Lady Jane">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Mary" target="Perry">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Mary" target="SAPRISTI">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mary" target="Evelina">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Mary" target="Jimmie">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Mary" target="Smith minor">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mary" target="Aunt Julia">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mary" target="Mr. Madder">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mary" target="Miss Higgins">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mary" target="Dr. Danby">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mary" target="Joe">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mary" target="MARY,—You">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mary" target="Lady Blaythewaite">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mary" target="Queen">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mary" target="Sarah">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Blay" target="Vincent">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Lady Blay" target="Miss Higgins">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Blay" target="Mary">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Vincent" target="Alison">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Vincent" target="Mary">
+      <data key="d2">46</data>
+    </edge>
+    <edge source="Vincent" target="THE MAN RETURNS HEMMING">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Vincent" target="Lady Jane">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Vincent" target="Miss Higgins">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Vincent" target="MARY,—You">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Vincent" target="Jimmie">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Vincent" target="Youth">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Vincent" target="Perry">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Bosanquet−Barry" target="Lady Blaythewaite">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Mr. Bosanquet−Barry" target="Sir Horace">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Bosanquet−Barry" target="Lady Jane">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Bosanquet−Barry" target="Lady Blay">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Bosanquet−Barry" target="Jove">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mr. Bosanquet−Barry" target="Mary">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Mr. Bosanquet−Barry" target="Vincent">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mr. Bosanquet−Barry" target="Jimmie">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Jane" target="Lady Blaythewaite">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Lady Jane" target="Alison">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Jane" target="Mary">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Lady Jane" target="Vincent">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Lady Jane" target="Mrs. Norton">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Jane" target="Lord Houghton">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Jane" target="Lady Blay">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Jane" target="Dr. Danby">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Lady Jane" target="Travers Danby">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Jane" target="Dr. Dunlop Strange">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Jane" target="Victoria">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Lady Jane" target="Mr. Bosanquet−Barry">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lady Jane" target="Dear Sir Dunlop">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Beaufy" target="Dr. Dunlop Strange">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Beaufy" target="Alison">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Beaufy" target="Victorian">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Beaufy" target="William the Fourth">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Beaufy" target="Mary">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Beaufy" target="Lady Blay">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Beaufy" target="Lady Blaythewaite">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Beaufy" target="Realism">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Beaufy" target="Vincent">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jimmie" target="Alison">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jimmie" target="Mary">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Jimmie" target="Vincent">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sarah" target="Jimmie">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Sarah" target="Mary">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Sarah" target="Lady Jane">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sarah" target="Vincent">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Mr. Lecky" target="Dr. Dunlop Strange">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="God" target="Death">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="God" target="Mary">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="God" target="Vincent">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="God" target="Lady Jane">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Perry" target="Mary">
+      <data key="d2">20</data>
+    </edge>
+    <edge source="Perry" target="Miss Erle">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Perry" target="Neat">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Perry" target="Lord">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Perry" target="Great Scott">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Perry" target="Dr. Dunlop Strange">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Perry" target="Alison">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Cornish Fisher−scenes" target="Mary">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Cornish Fisher−scenes" target="Jimmie">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lord" target="Dr. Dunlop Strange">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Lord" target="God">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sister Charlotte" target="Alison">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Sister Charlotte" target="Dr. Dunlop Strange">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Evelina" target="Mary">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Evelina" target="Alison">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Beaufort Flower" target="Lady Blaythewaite">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr. Beaufort Flower" target="Lady Jane">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Mr. Beaufort Flower" target="Mary">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Miss Erle" target="Mary">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Miss Erle" target="Perry">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Erle" target="CHAPTER XX">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Erle" target="THE GATE OF SILENCE">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Erle" target="Lady Jane">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miss Erle" target="Vincent">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Professor Erle" target="Vincent">
+      <data key="d2">1</data>
+    </edge>
+  </graph>
+</graphml>

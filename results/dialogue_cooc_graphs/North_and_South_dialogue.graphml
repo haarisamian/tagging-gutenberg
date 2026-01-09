@@ -1,0 +1,694 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="quotes" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Margaret">
+      <data key="d0">1012</data>
+    </node>
+    <node id="Mr. Thornton">
+      <data key="d0">279</data>
+    </node>
+    <node id="Mr. Hale">
+      <data key="d0">226</data>
+    </node>
+    <node id="Mr. Bell">
+      <data key="d0">127</data>
+    </node>
+    <node id="Mrs. Thornton">
+      <data key="d0">117</data>
+    </node>
+    <node id="Higgins">
+      <data key="d0">106</data>
+    </node>
+    <node id="Mrs. Hale">
+      <data key="d0">95</data>
+    </node>
+    <node id="Bessy">
+      <data key="d0">67</data>
+    </node>
+    <node id="Mr. Lennox">
+      <data key="d0">65</data>
+    </node>
+    <node id="Dixon">
+      <data key="d0">61</data>
+    </node>
+    <node id="Edith">
+      <data key="d0">51</data>
+    </node>
+    <node id="Fanny">
+      <data key="d0">49</data>
+    </node>
+    <node id="Frederick">
+      <data key="d0">33</data>
+    </node>
+    <node id="Mrs. Shaw">
+      <data key="d0">16</data>
+    </node>
+    <node id="Jane">
+      <data key="d0">11</data>
+    </node>
+    <node id="ELLIOTT">
+      <data key="d0">11</data>
+    </node>
+    <node id="Captain Lennox">
+      <data key="d0">9</data>
+    </node>
+    <node id="Dr. Donaldson">
+      <data key="d0">8</data>
+    </node>
+    <node id="Betsy">
+      <data key="d0">8</data>
+    </node>
+    <node id="Mrs. Gibson">
+      <data key="d0">5</data>
+    </node>
+    <node id="Slickson">
+      <data key="d0">5</data>
+    </node>
+    <node id="Bessie">
+      <data key="d0">4</data>
+    </node>
+    <node id="Mr. Lowe">
+      <data key="d0">4</data>
+    </node>
+    <node id="Mrs. Hepworth">
+      <data key="d0">4</data>
+    </node>
+    <node id="MRS . GASKELL">
+      <data key="d0">3</data>
+    </node>
+    <node id="MRS . HEMANS">
+      <data key="d0">3</data>
+    </node>
+    <node id="MRS . BROWNING">
+      <data key="d0">3</data>
+    </node>
+    <node id="Mrs. Purkis">
+      <data key="d0">3</data>
+    </node>
+    <node id="Mr. Colthurst">
+      <data key="d0">3</data>
+    </node>
+    <node id="W. S. LANDOR">
+      <data key="d0">3</data>
+    </node>
+    <node id="Mrs. Boucher">
+      <data key="d0">3</data>
+    </node>
+    <node id="Sarah">
+      <data key="d0">2</data>
+    </node>
+    <node id="Watson">
+      <data key="d0">2</data>
+    </node>
+    <node id="Martha">
+      <data key="d0">2</data>
+    </node>
+    <node id="ANON">
+      <data key="d0">2</data>
+    </node>
+    <node id="CHAPTER LII">
+      <data key="d0">2</data>
+    </node>
+    <node id="GEORGE HERBERT">
+      <data key="d0">1</data>
+    </node>
+    <node id="Miss Thornton">
+      <data key="d0">1</data>
+    </node>
+    <node id="MATTHEW ARNOLD">
+      <data key="d0">1</data>
+    </node>
+    <node id="CORN LAW RHYMES">
+      <data key="d0">1</data>
+    </node>
+    <node id="HENRY VAUGHAN">
+      <data key="d0">1</data>
+    </node>
+    <node id="ROLLO">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr. Horsfall">
+      <data key="d0">1</data>
+    </node>
+    <node id="THE ARABIC">
+      <data key="d0">1</data>
+    </node>
+    <node id="WALLENSTEIN">
+      <data key="d0">1</data>
+    </node>
+    <node id="Margaret,—but">
+      <data key="d0">1</data>
+    </node>
+    <node id="Hamper">
+      <data key="d0">1</data>
+    </node>
+    <node id="SOUTHEY">
+      <data key="d0">1</data>
+    </node>
+    <node id="MRS . BARBOULD">
+      <data key="d0">1</data>
+    </node>
+    <node id="HABINGTON">
+      <data key="d0">1</data>
+    </node>
+    <node id="CHAPTER V. DECISION">
+      <data key="d0">1</data>
+    </node>
+    <node id="Fairfax">
+      <data key="d0">1</data>
+    </node>
+    <node id="BYRON">
+      <data key="d0">1</data>
+    </node>
+    <node id="KOSEGARTEN">
+      <data key="d0">1</data>
+    </node>
+    <node id="SPENSER">
+      <data key="d0">1</data>
+    </node>
+    <node id="SHELLEY">
+      <data key="d0">1</data>
+    </node>
+    <node id="Leonards">
+      <data key="d0">1</data>
+    </node>
+    <node id="DR . KING">
+      <data key="d0">1</data>
+    </node>
+    <node id="WERNER">
+      <data key="d0">1</data>
+    </node>
+    <node id="SOUTHWELL">
+      <data key="d0">1</data>
+    </node>
+    <node id="CRABBE">
+      <data key="d0">1</data>
+    </node>
+    <node id="COLERIDGE">
+      <data key="d0">1</data>
+    </node>
+    <node id="Daniel O’Rourke">
+      <data key="d0">1</data>
+    </node>
+    <node id="WILLIAM FOWLER">
+      <data key="d0">1</data>
+    </node>
+    <node id="COWPER">
+      <data key="d0">1</data>
+    </node>
+    <node id="DRAYTON">
+      <data key="d0">1</data>
+    </node>
+    <node id="Margaret,—“what">
+      <data key="d0">1</data>
+    </node>
+    <node id="Gerald Griffin">
+      <data key="d0">1</data>
+    </node>
+    <node id="Jenny">
+      <data key="d0">1</data>
+    </node>
+    <node id="CHAPTER LI">
+      <data key="d0">1</data>
+    </node>
+    <node id="Miss Hale">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Margaret" target="MRS . GASKELL">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Margaret" target="Mrs. Gibson">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Margaret" target="Mrs. Shaw">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Margaret" target="Mr. Lennox">
+      <data key="d1">36</data>
+    </edge>
+    <edge source="Margaret" target="MRS . HEMANS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Margaret" target="Mrs. Hale">
+      <data key="d1">75</data>
+    </edge>
+    <edge source="Margaret" target="Frederick">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Margaret" target="Sarah">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Margaret" target="Mr. Hale">
+      <data key="d1">126</data>
+    </edge>
+    <edge source="Margaret" target="CHAPTER V. DECISION">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Margaret" target="Dixon">
+      <data key="d1">44</data>
+    </edge>
+    <edge source="Margaret" target="MATTHEW ARNOLD">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Margaret" target="Mr. Thornton">
+      <data key="d1">67</data>
+    </edge>
+    <edge source="Margaret" target="MRS . BARBOULD">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Margaret" target="Mrs. Thornton">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="Margaret" target="ANON">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Margaret" target="Bessy">
+      <data key="d1">63</data>
+    </edge>
+    <edge source="Margaret" target="Higgins">
+      <data key="d1">52</data>
+    </edge>
+    <edge source="Margaret" target="Fanny">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Margaret" target="Miss Thornton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Margaret" target="SOUTHEY">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Margaret" target="THE ARABIC">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Margaret" target="Dr. Donaldson">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Margaret" target="Bessie">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Margaret" target="WALLENSTEIN">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Margaret" target="Margaret,—but">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Margaret" target="HENRY VAUGHAN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Margaret" target="ROLLO">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Margaret" target="ELLIOTT">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Margaret" target="CORN LAW RHYMES">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Margaret" target="Mr. Lowe">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Margaret" target="WILLIAM FOWLER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Margaret" target="BYRON">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Margaret" target="Fairfax">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Margaret" target="KOSEGARTEN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Margaret" target="MRS . BROWNING">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Margaret" target="Mr. Bell">
+      <data key="d1">73</data>
+    </edge>
+    <edge source="Margaret" target="COLERIDGE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Margaret" target="SOUTHWELL">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Margaret" target="DR . KING">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Margaret" target="Leonards">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Margaret" target="Watson">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Margaret" target="Mrs. Boucher">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Margaret" target="DRAYTON">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Margaret" target="Margaret,—“what">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Margaret" target="Martha">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Margaret" target="Captain Lennox">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Margaret" target="Edith">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Margaret" target="Mrs. Purkis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Margaret" target="Mrs. Hepworth">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Margaret" target="Gerald Griffin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Margaret" target="Miss Hale">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Margaret" target="Mr. Colthurst">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Margaret" target="CHAPTER LII">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Thornton" target="Mrs. Thornton">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Mr. Thornton" target="GEORGE HERBERT">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Thornton" target="Mrs. Hale">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Thornton" target="Mr. Hale">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="Mr. Thornton" target="ANON">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Thornton" target="Fanny">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Mr. Thornton" target="Mr. Horsfall">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Thornton" target="Slickson">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Thornton" target="SPENSER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Thornton" target="Higgins">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="Mr. Thornton" target="Frederick">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Thornton" target="Watson">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Thornton" target="SHELLEY">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Thornton" target="Betsy">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Mr. Thornton" target="DRAYTON">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Thornton" target="Mr. Bell">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Mr. Thornton" target="ELLIOTT">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Mr. Thornton" target="Mrs. Shaw">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Thornton" target="Dixon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Thornton" target="CHAPTER LI">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Thornton" target="Edith">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Thornton" target="Mr. Lennox">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hale" target="Mr. Lennox">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Mr. Hale" target="Mrs. Hale">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Mr. Hale" target="HABINGTON">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hale" target="CHAPTER V. DECISION">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hale" target="Dixon">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Mr. Hale" target="ANON">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Hale" target="Mrs. Thornton">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Mr. Hale" target="Bessy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hale" target="W. S. LANDOR">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hale" target="Margaret,—but">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hale" target="Dr. Donaldson">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Hale" target="MRS . HEMANS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hale" target="Daniel O’Rourke">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hale" target="Higgins">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="Mr. Hale" target="COLERIDGE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hale" target="Frederick">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Mr. Hale" target="WERNER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hale" target="Mrs. Boucher">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hale" target="Martha">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Hale" target="Mr. Bell">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Mr. Bell" target="MRS . BROWNING">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bell" target="Dixon">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Bell" target="Captain Lennox">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Bell" target="Mrs. Thornton">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Mr. Bell" target="ELLIOTT">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bell" target="Mr. Lennox">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr. Bell" target="Mrs. Purkis">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Bell" target="Jenny">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bell" target="Mrs. Hepworth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Bell" target="Gerald Griffin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Thornton" target="Fanny">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Mrs. Thornton" target="Mrs. Hale">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Mrs. Thornton" target="Miss Thornton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Thornton" target="Hamper">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Thornton" target="Jane">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mrs. Thornton" target="MRS . HEMANS">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Thornton" target="Mr. Lennox">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mrs. Thornton" target="Martha">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Higgins" target="Bessy">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Higgins" target="SHELLEY">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Higgins" target="Martha">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Higgins" target="Edith">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Hale" target="Mrs. Shaw">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Hale" target="Mr. Lennox">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs. Hale" target="MRS . BARBOULD">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Hale" target="Fanny">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Hale" target="W. S. LANDOR">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Hale" target="Dixon">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mrs. Hale" target="Frederick">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bessy" target="ROLLO">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Lennox" target="HABINGTON">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Lennox" target="Captain Lennox">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Lennox" target="Edith">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Mr. Lennox" target="Mrs. Shaw">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr. Lennox" target="W. S. LANDOR">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Lennox" target="Mr. Colthurst">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dixon" target="WILLIAM FOWLER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dixon" target="Daniel O’Rourke">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dixon" target="CRABBE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dixon" target="Frederick">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dixon" target="Mrs. Shaw">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dixon" target="Captain Lennox">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dixon" target="MRS . BROWNING">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dixon" target="Edith">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Edith" target="Captain Lennox">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Edith" target="CHAPTER LI">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Edith" target="Mr. Colthurst">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Edith" target="CHAPTER LII">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fanny" target="CORN LAW RHYMES">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fanny" target="Jane">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Frederick" target="Sarah">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Frederick" target="CRABBE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Frederick" target="WERNER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Shaw" target="MRS . HEMANS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ELLIOTT" target="Slickson">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Captain Lennox" target="COWPER">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr. Lowe" target="SPENSER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="MRS . HEMANS" target="SOUTHWELL">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="MRS . BROWNING" target="KOSEGARTEN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs. Purkis" target="Jenny">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HENRY VAUGHAN" target="Hamper">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fairfax" target="BYRON">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

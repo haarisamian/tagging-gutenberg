@@ -1,0 +1,643 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="quotes" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Lucilla">
+      <data key="d0">611</data>
+    </node>
+    <node id="Miss Marjoribanks">
+      <data key="d0">355</data>
+    </node>
+    <node id="Mr Cavendish">
+      <data key="d0">147</data>
+    </node>
+    <node id="Mrs Chiley">
+      <data key="d0">114</data>
+    </node>
+    <node id="Rose">
+      <data key="d0">91</data>
+    </node>
+    <node id="Tom">
+      <data key="d0">69</data>
+    </node>
+    <node id="Mrs Woodburn">
+      <data key="d0">58</data>
+    </node>
+    <node id="Barbara">
+      <data key="d0">53</data>
+    </node>
+    <node id="Dr Marjoribanks">
+      <data key="d0">52</data>
+    </node>
+    <node id="Mr Ashburton">
+      <data key="d0">38</data>
+    </node>
+    <node id="Mr Beverley">
+      <data key="d0">36</data>
+    </node>
+    <node id="Mrs Mortimer">
+      <data key="d0">36</data>
+    </node>
+    <node id="Nancy">
+      <data key="d0">34</data>
+    </node>
+    <node id="Mrs John">
+      <data key="d0">32</data>
+    </node>
+    <node id="Aunt Jemima">
+      <data key="d0">31</data>
+    </node>
+    <node id="Mrs Centum">
+      <data key="d0">30</data>
+    </node>
+    <node id="Miss Bury">
+      <data key="d0">20</data>
+    </node>
+    <node id="Mr Lake">
+      <data key="d0">14</data>
+    </node>
+    <node id="Lady Richmond">
+      <data key="d0">14</data>
+    </node>
+    <node id="General Travers">
+      <data key="d0">13</data>
+    </node>
+    <node id="Miss Brown">
+      <data key="d0">9</data>
+    </node>
+    <node id="Mr Bury">
+      <data key="d0">9</data>
+    </node>
+    <node id="Colonel Chiley">
+      <data key="d0">8</data>
+    </node>
+    <node id="Mr Woodburn">
+      <data key="d0">7</data>
+    </node>
+    <node id="Mr Centum">
+      <data key="d0">7</data>
+    </node>
+    <node id="John Brown">
+      <data key="d0">5</data>
+    </node>
+    <node id="Fanny">
+      <data key="d0">3</data>
+    </node>
+    <node id="Mr Tufton">
+      <data key="d0">2</data>
+    </node>
+    <node id="Rose--&quot;quite">
+      <data key="d0">2</data>
+    </node>
+    <node id="Willie">
+      <data key="d0">2</data>
+    </node>
+    <node id="Major Brown">
+      <data key="d0">2</data>
+    </node>
+    <node id="Miss Lake">
+      <data key="d0">1</data>
+    </node>
+    <node id="Miss Marjoribanks--&quot;some">
+      <data key="d0">1</data>
+    </node>
+    <node id="Miss Marjoribanks;--perhaps">
+      <data key="d0">1</data>
+    </node>
+    <node id="Barbara--&quot;oh">
+      <data key="d0">1</data>
+    </node>
+    <node id="Providence">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mr Beverley--&quot;always">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mrs Centum--&quot;but">
+      <data key="d0">1</data>
+    </node>
+    <node id="Charles">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mary Jane">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mariana">
+      <data key="d0">1</data>
+    </node>
+    <node id="the philosophical old Scotchman">
+      <data key="d0">1</data>
+    </node>
+    <node id="Sir John">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lucilla--&quot;green and violet">
+      <data key="d0">1</data>
+    </node>
+    <node id="Maria Brown">
+      <data key="d0">1</data>
+    </node>
+    <node id="Dr Rider">
+      <data key="d0">1</data>
+    </node>
+    <node id="Poor Lucilla">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mrs John--&quot;brought">
+      <data key="d0">1</data>
+    </node>
+    <node id="Dr Beverley">
+      <data key="d0">1</data>
+    </node>
+    <node id="Tozer">
+      <data key="d0">1</data>
+    </node>
+    <node id="Society">
+      <data key="d0">1</data>
+    </node>
+    <node id="young Carmine">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Lucilla" target="Miss Marjoribanks">
+      <data key="d1">208</data>
+    </edge>
+    <edge source="Lucilla" target="Dr Marjoribanks">
+      <data key="d1">34</data>
+    </edge>
+    <edge source="Lucilla" target="Fanny">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lucilla" target="Nancy">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Lucilla" target="Miss Lake">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lucilla" target="Barbara">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Lucilla" target="Mrs Centum">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Lucilla" target="Tom">
+      <data key="d1">41</data>
+    </edge>
+    <edge source="Lucilla" target="Miss Marjoribanks;--perhaps">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lucilla" target="Mrs Chiley">
+      <data key="d1">61</data>
+    </edge>
+    <edge source="Lucilla" target="Miss Bury">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Lucilla" target="Mr Cavendish">
+      <data key="d1">44</data>
+    </edge>
+    <edge source="Lucilla" target="Mr Bury">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Lucilla" target="Mrs Woodburn">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="Lucilla" target="Providence">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lucilla" target="Mr Centum">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucilla" target="Lady Richmond">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Lucilla" target="Rose">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="Lucilla" target="the philosophical old Scotchman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucilla" target="Mr Beverley">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="Lucilla" target="Mary Jane">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucilla" target="Mrs Mortimer">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="Lucilla" target="Charles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucilla" target="Mr Woodburn">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Lucilla" target="Mrs Centum--&quot;but">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucilla" target="General Travers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucilla" target="Mr Lake">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lucilla" target="Rose--&quot;quite">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucilla" target="Mr Ashburton">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Lucilla" target="Aunt Jemima">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Lucilla" target="Mrs John">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Lucilla" target="Lucilla--&quot;green and violet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucilla" target="Colonel Chiley">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lucilla" target="Sir John">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lucilla" target="Miss Brown">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Lucilla" target="Poor Lucilla">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lucilla" target="John Brown">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Lucilla" target="Mrs John--&quot;brought">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lucilla" target="Dr Beverley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lucilla" target="Mr Tufton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Marjoribanks" target="Dr Marjoribanks">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Miss Marjoribanks" target="Mrs Chiley">
+      <data key="d1">38</data>
+    </edge>
+    <edge source="Miss Marjoribanks" target="Fanny">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Miss Marjoribanks" target="Rose">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="Miss Marjoribanks" target="Nancy">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Miss Marjoribanks" target="Barbara">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Miss Marjoribanks" target="Mrs Centum">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Miss Marjoribanks" target="Tom">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="Miss Marjoribanks" target="Mr Cavendish">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="Miss Marjoribanks" target="Mr Bury">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Miss Marjoribanks" target="Miss Brown">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Marjoribanks" target="Mrs Woodburn">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Miss Marjoribanks" target="Colonel Chiley">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Miss Marjoribanks" target="Mr Beverley">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Miss Marjoribanks" target="Mr Woodburn">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Marjoribanks" target="Mary Jane">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Marjoribanks" target="Mrs Mortimer">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Miss Marjoribanks" target="Mrs Centum--&quot;but">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Marjoribanks" target="General Travers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Miss Marjoribanks" target="Mr Lake">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Marjoribanks" target="Mr Ashburton">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Miss Marjoribanks" target="Aunt Jemima">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Miss Marjoribanks" target="Mrs John">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Miss Marjoribanks" target="Major Brown">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Miss Marjoribanks" target="Dr Rider">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Marjoribanks" target="John Brown">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Miss Marjoribanks" target="Lady Richmond">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr Cavendish" target="Mrs Woodburn">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Mr Cavendish" target="Miss Marjoribanks--&quot;some">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr Cavendish" target="Mrs Chiley">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr Cavendish" target="Mariana">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr Cavendish" target="Barbara">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Mr Cavendish" target="Mr Lake">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr Cavendish" target="Rose">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr Cavendish" target="Mr Beverley">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Mr Cavendish" target="General Travers">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Mr Cavendish" target="Mr Beverley--&quot;always">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr Cavendish" target="Mrs Mortimer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr Cavendish" target="Mr Ashburton">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr Cavendish" target="Mrs John">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mr Cavendish" target="Miss Brown">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mr Cavendish" target="Maria Brown">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr Cavendish" target="Mr Centum">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr Cavendish" target="Dr Marjoribanks">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mr Cavendish" target="Mr Bury">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr Cavendish" target="Tozer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr Cavendish" target="Miss Bury">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs Chiley" target="Dr Marjoribanks">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mrs Chiley" target="Miss Marjoribanks--&quot;some">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs Chiley" target="Rose">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs Chiley" target="Lady Richmond">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mrs Chiley" target="Barbara">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs Chiley" target="Mr Beverley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs Chiley" target="Colonel Chiley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs Chiley" target="Miss Bury">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Mrs Chiley" target="General Travers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs Chiley" target="Mr Ashburton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs Chiley" target="Dr Rider">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs Chiley" target="Aunt Jemima">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rose" target="Mr Tufton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rose" target="Barbara">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Rose" target="Mr Lake">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Rose" target="Barbara--&quot;oh">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Rose" target="Willie">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rose" target="Rose--&quot;quite">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rose" target="Lady Richmond">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tom" target="Nancy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tom" target="Dr Marjoribanks">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Tom" target="Miss Bury">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Tom" target="Mr Beverley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tom" target="Mrs Woodburn">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tom" target="Mrs Centum">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tom" target="Mrs John">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tom" target="Barbara">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tom" target="Aunt Jemima">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs Woodburn" target="Mr Tufton">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs Woodburn" target="Miss Bury">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs Woodburn" target="Dr Marjoribanks">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs Woodburn" target="Miss Brown">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs Woodburn" target="Mrs Centum">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs Woodburn" target="Mr Lake">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs Woodburn" target="Mr Beverley">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs Woodburn" target="Barbara">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs Woodburn" target="Colonel Chiley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Barbara" target="Dr Marjoribanks">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Barbara" target="Mr Woodburn">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Barbara" target="Mariana">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Barbara" target="Mr Lake">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Barbara" target="Society">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Barbara" target="young Carmine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dr Marjoribanks" target="Nancy">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Dr Marjoribanks" target="the philosophical old Scotchman">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dr Marjoribanks" target="Mrs Mortimer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dr Marjoribanks" target="Mrs John">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr Ashburton" target="Tozer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr Ashburton" target="Aunt Jemima">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr Beverley" target="Willie">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr Beverley" target="Mr Woodburn">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr Beverley" target="Mrs Mortimer">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mrs Mortimer" target="Charles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs John" target="Aunt Jemima">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Mrs John" target="Lucilla--&quot;green and violet">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs John" target="Dr Beverley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aunt Jemima" target="John Brown">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aunt Jemima" target="Colonel Chiley">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Aunt Jemima" target="Lady Richmond">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Aunt Jemima" target="Mrs Centum">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Aunt Jemima" target="Mr Woodburn">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs Centum" target="Mr Woodburn">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mrs Centum" target="General Travers">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Mrs Centum" target="Lady Richmond">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lady Richmond" target="Colonel Chiley">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Richmond" target="General Travers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lady Richmond" target="young Carmine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="General Travers" target="Mr Beverley--&quot;always">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Miss Brown" target="Maria Brown">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr Bury" target="Mr Woodburn">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Colonel Chiley" target="Mr Woodburn">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr Woodburn" target="Mr Centum">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Mr Tufton" target="Society">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

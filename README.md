@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="results/embeddings/Oliver_Twist_cooccurrence_poincare.png" width="400px" alt="poincare embedding">
+</p>
+
 # Computational Representations of Character in Classic English Novels
 
 This repository contains all code, scripts, and instructions to reproduce the experiments and analyses presented in our paper.  

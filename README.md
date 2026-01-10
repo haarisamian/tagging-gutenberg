@@ -16,7 +16,7 @@ We provide code for:
 ## Directory Structure
 
 ```
-life-stories-llm/
+tagging-gutenberg/
 ├── src/                         # Source code
 ├── data/                        # BookNLP outputs, corpus level information
 ├── notebooks/                   # Additional notebooks

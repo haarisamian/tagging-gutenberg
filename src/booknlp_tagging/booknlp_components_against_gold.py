@@ -248,5 +248,5 @@ if __name__ == "__main__":
                     "count": count
                 })
     results_df = pd.DataFrame(all_results)
-    results_df.to_csv(f"{datadir}/{file_start}_tagged_components.csv", index=False)
+    results_df.to_csv(f"{datadir}/{file_start}_booknlp_tagged_components.csv", index=False)
 

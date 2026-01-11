@@ -50,6 +50,8 @@ To reproduce statistical analyses and figures from the paper, please view src/
 
 All dependencies for analysis are included in `requirements.txt`.
 
+The texts from Project Gutenberg are licensed under the Project Gutenberg license: https://www.gutenberg.org/policy/license.html).
+
 ## Contact
 
 For questions or collaboration, please contact:  

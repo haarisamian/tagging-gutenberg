@@ -277,7 +277,7 @@ def tag_text_DC(text, character_set, model, dialogue_turns, speakers):
             }}
             """
             start = time.time()
-            response = process_prompt_json(prompt)#process_prompt_reg(prompt, model)
+            response = process_prompt_json(prompt, model)
             end = time.time()
             temp_names = []
             clean = re.sub(r'\s+', ' ', sent)
@@ -351,9 +351,9 @@ def tag_text_DN(text, character_set, model, dialogue_turns):
     json_response['counts'] = temp
     return json_response, spans
 
-def tag_text(text, character_set, setting):
+def tag_text(text, character_set):
     tags = ["N", "A", "C", "I", "DN", "DC"]
-    model = setting['LLM']
+    model = 'gpt-4o-mini'
     combined_results = {'counts':{}}
     spans = {}
     dialogue_turns, speakers = None, None
@@ -402,7 +402,7 @@ def normalize_results(results, character_set):
         out[ch] = norm
     return out
 
-def get_character_set(booktitle, text, character_set, setting):
+def get_character_set(booktitle, text, character_set):
     prompt = f"""
     {booktitle} section: {text}
     
@@ -412,7 +412,7 @@ def get_character_set(booktitle, text, character_set, setting):
     
     Strictly output a list of the characters who are present in this format: [character1, character2, etc.]
     """
-    present_chars = process_prompt_reg(prompt, setting['LLM'])
+    present_chars = process_prompt_reg(prompt)
     curr_character_set = set([x for x in character_set if x in present_chars])
     return curr_character_set
 
@@ -443,80 +443,65 @@ if __name__ == "__main__":
             chapter_text = f.read()
             chapters[int(chap_num)] = chapter_text
 
-    for setting in COMBOS:
-        print('SETTING ', setting)
-        filename = '_'.join(setting.values())
-        all_results = []
-        all_timing = []
-        all_spans = defaultdict(list)
-        if os.path.exists(f"{datadir}/{filename}_spans.csv"):
-            all_results = pd.read_csv(f"{datadir}/{filename}_spans.csv").to_dict(orient='records')
-            all_timing = pd.read_csv(f"{datadir}/{filename}_spans_timing").to_dict(orient='records')
-        for i, chapter_text in chapters.items():
-            if i in [x['chapter'] for x in all_timing]:
-                continue
-            print(f"Processing Chapter {i}...")
-            curr_character_set = get_character_set(booktitle, chapter_text, character_set, setting)
-            ccs = [curr_character_set]
-            if setting['characters'] == 'individual':
-                ccs = [[x] for x in curr_character_set]
+    all_results = []
+    all_timing = []
+    all_spans = defaultdict(list)
+    if os.path.exists(f"{datadir}/llm_spans.csv"):
+        all_results = pd.read_csv(f"{datadir}/llm_spans.csv").to_dict(orient='records')
+        all_timing = pd.read_csv(f"{datadir}/llm_spans_timing.csv").to_dict(orient='records')
+    for i, chapter_text in chapters.items():
+        if i in [x['chapter'] for x in all_timing]:
+            continue
+        print(f"Processing Chapter {i}...")
+        curr_character_set = get_character_set(booktitle, chapter_text, character_set)
 
-            chunks = [chapter_text]
-            if setting['chunk_size'] != 'chapter':
-                chunks = split_text(chapter_text, int(setting['chunk_size']))
+        chapter_results, spans = tag_text(chapter_text, curr_character_set)
 
-            combined_results, combined_spans = {}, defaultdict(list)
-            combined_timing = defaultdict(list)
-            for chunk in tqdm(chunks, ncols=70):
-                for cc in ccs:
-                    chunk_results, spans = tag_text(chunk, cc, setting)
+        final_results = {}
+        final_timing = defaultdict(list)
+        for key, val in chapter_results.items():
+            if key == 'counts':
+                for character, tags in val.items():
+                    if character not in final_results:
+                        final_results[character] = {}
+                    for tag, cnt in tags.items():
+                        final_results[character][tag] = final_results[character].get(tag, 0) + cnt
+            else:
+                final_timing[key].extend(val)
 
-                    for key, val in chunk_results.items():
-                        if key == 'counts':
-                            for character, tags in val.items():
-                                if character not in combined_results:
-                                    combined_results[character] = {}
-                                for tag, cnt in tags.items():
-                                    combined_results[character][tag] = combined_results[character].get(tag, 0) + cnt
-                        else:
-                            combined_timing[key].extend(val)
+        final_results = normalize_results(final_results, curr_character_set)
+        for character, tags in final_results.items():
+            for tag, count in tags.items():
+                all_results.append({
+                    "chapter": i,
+                    "method": 'span-based',
+                    "character": character,
+                    "tag": tag,
+                    "count": count,
+                })
 
-                    for tag in ["N", "A", "C", "I", "DN", "DC"]:
-                        combined_spans[tag].extend(spans[tag])
+        for tag in ["N", "A", "C", "I", "DN", "DC"]:
+            for span in spans[tag]:
+                temp = {
+                    "chapter": i,
+                    "method": 'span-based',
+                }
+                for key, val in span.items():
+                    temp[key] = val
+                all_spans[tag].append(temp)
 
-            combined_results = normalize_results(combined_results, curr_character_set)
-            for character, tags in combined_results.items():
-                for tag, count in tags.items():
-                    all_results.append({
-                        "chapter": i,
-                        "method": '_'.join(setting.values()),
-                        "character": character,
-                        "tag": tag,
-                        "count": count,
-                    })
+        temp = {
+            "chapter": i,
+            "method": 'span-based',
+        }
+        for key in ['input_tokens', 'output_tokens', 'elapsed_time']:
+            temp[key] = sum(final_timing[key])
+        all_timing.append(temp)
 
-            for tag in ["N", "A", "C", "I", "DN", "DC"]:
-                for span in combined_spans[tag]:
-                    temp = {
-                        "chapter": i,
-                        "method": '_'.join(setting.values()),
-                    }
-                    for key, val in span.items():
-                        temp[key] = val
-                    all_spans[tag].append(temp)
-
-            temp = {
-                "chapter": i,
-                "method": '_'.join(setting.values()),
-            }
-            for key in ['input_tokens', 'output_tokens', 'elapsed_time']:
-                temp[key] = sum(combined_timing[key])
-            all_timing.append(temp)
-
-            results_df = pd.DataFrame(all_results)
-            results_df.to_csv(f"{datadir}/{filename}_llm_spans.csv", index=False)
-            results_df = pd.DataFrame(all_timing)
-            results_df.to_csv(f"{datadir}/{filename}_llm_spans_timing", index=False)
-            for tag in ["N", "A", "C", "I", "DN", "DC"]:
-                results_df = pd.DataFrame(all_spans[tag])
-                results_df.to_csv(f"{datadir}/{filename}_spans_{tag}.csv", index=False)
+        results_df = pd.DataFrame(all_results)
+        results_df.to_csv(f"{datadir}/llm_spans.csv", index=False)
+        results_df = pd.DataFrame(all_timing)
+        results_df.to_csv(f"{datadir}/llm_spans_timing.csv", index=False)
+        for tag in ["N", "A", "C", "I", "DN", "DC"]:
+            results_df = pd.DataFrame(all_spans[tag])
+            results_df.to_csv(f"{datadir}/llm_spans_{tag}.csv", index=False)

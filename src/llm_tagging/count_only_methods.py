@@ -244,8 +244,8 @@ if __name__ == "__main__":
         all_results = []
         all_timing = []
         if os.path.exists(f"{datadir}/{filename}_full.csv"):
-            all_results = pd.read_csv(f"{datadir}/{filename}_full.csv").to_dict(orient='records')
-            all_timing = pd.read_csv(f"{datadir}/{filename}_full_timing").to_dict(orient='records')
+            all_results = pd.read_csv(f"{datadir}/{filename}_llm_counts.csv").to_dict(orient='records')
+            all_timing = pd.read_csv(f"{datadir}/{filename}_llm_counts_timing.csv").to_dict(orient='records')
         for i, chapter_text in chapters.items():
             if i in [x['chapter'] for x in all_timing]:
                 continue
@@ -295,6 +295,6 @@ if __name__ == "__main__":
             all_timing.append(temp)
 
             results_df = pd.DataFrame(all_results)
-            results_df.to_csv(f"{datadir}/{filename}_llm_tags.csv", index=False)
+            results_df.to_csv(f"{datadir}/{filename}_llm_counts.csv", index=False)
             results_df = pd.DataFrame(all_timing)
-            results_df.to_csv(f"{datadir}/{filename}_llm_tags_timing", index=False)
+            results_df.to_csv(f"{datadir}/{filename}_llm_counts_timing.csv", index=False)

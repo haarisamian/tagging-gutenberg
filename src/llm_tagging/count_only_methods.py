@@ -224,7 +224,7 @@ if __name__ == "__main__":
         datadir = "data/pride_and_jane/Pride_and_Prejudice"
         file_start = "pride_and_prejudice"
     elif args.book == 'jane':
-        gold_data = pd.read_csv("data/manual/Jane_Eyre_tagging.csv")
+        gold_data = pd.read_csv("data/manual/JaneEyreTagging_January11.csv")
         character_set = gold_data['CHARACTER'].unique().tolist()
         booktitle = "Jane Eyre"
         datadir = "data/pride_and_jane/Jane_Eyre"
@@ -243,7 +243,7 @@ if __name__ == "__main__":
         filename = '_'.join(setting.values())
         all_results = []
         all_timing = []
-        if os.path.exists(f"{datadir}/{filename}_full.csv"):
+        if os.path.exists(f"{datadir}/{filename}_llm_counts.csv"):
             all_results = pd.read_csv(f"{datadir}/{filename}_llm_counts.csv").to_dict(orient='records')
             all_timing = pd.read_csv(f"{datadir}/{filename}_llm_counts_timing.csv").to_dict(orient='records')
         for i, chapter_text in chapters.items():

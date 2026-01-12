@@ -62,6 +62,18 @@ def is_mental(verb):
             return True
     return False
 
+def is_mental_ss(ss):
+    for t in ['cognition', 'emotion', 'feeling']:
+        if t in ss:
+            return True
+    return False
+
+def is_communicative_ss(ss):
+    for t in ['communication']:
+        if t in ss:
+            return True
+    return False
+
 
 def make_mention_map(entities_df, gold_chars, book):
     mention_map = {}
@@ -77,7 +89,7 @@ def make_mention_map(entities_df, gold_chars, book):
         Consider the full text of {book} and all the characters it contains. Each character can be referred to by multiple different variants of ther name. Is {c} a character in {book}? Answer yes or no.
 
         Answer:"""
-        answer = process_prompt_reg(prompt).strip().lower().startswith('yes')
+        answer = process_prompt(prompt).strip().lower().startswith('yes')
         print("answer", answer)
         if answer:
             prompt = f"""
@@ -87,7 +99,7 @@ def make_mention_map(entities_df, gold_chars, book):
             Which character from this list does the name {c} refer to? Answer with just the character name.
 
             Answer:"""
-            mention_map[c] = process_prompt_reg(prompt).strip().lower()
+            mention_map[c] = process_prompt(prompt).strip().lower()
             print("map", mention_map[c])
     return mention_map
 
@@ -126,7 +138,7 @@ if __name__ == "__main__":
         book = "Jane Eyre"
         file_start = 'jane_eyre'
         chapter_str = 'CHAPTER'
-        gold_data = pd.read_csv("data/manual/Jane_Eyre_tagging.csv")
+        gold_data = pd.read_csv("data/manual/JaneEyreTagging_January11.csv")
         gold_data["chapter"] = pd.to_numeric(gold_data["CHAPTER"], errors="coerce").astype("Int64")
         gold_data = gold_data.drop(columns=["B", "FID", "CHAPTER"]).rename(columns={"CHARACTER": "Character"})
         gold_chars = list(gold_data['Character'].value_counts().keys())

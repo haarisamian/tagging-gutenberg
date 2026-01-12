@@ -42,6 +42,8 @@ python -c "import nltk; nltk.download('verbnet')"
 
 For convenience, BookNLP outputs for the corpus are stored in data/smaller_corpus/, all downstream outputs in the pipeline, corpus-level tagging and network analysis, use these files.
 
+The books used to compare against gold component scores are stored in the `pride_and_jane` directory.
+
 ---
 
 ## Analysis
@@ -51,6 +53,8 @@ To reproduce statistical analyses and figures from the paper, please view src/
 All dependencies for analysis are included in `requirements.txt`.
 
 The texts from Project Gutenberg are licensed under the Project Gutenberg license: https://www.gutenberg.org/policy/license.html).
+
+The `notebooks` provide additional details of plots/tables reported in the paper.
 
 ## Contact
 
